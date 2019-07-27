@@ -1,0 +1,3655 @@
+,Summary Level,State Code (FIPS),County Code (FIPS),County Subdivision Code (FIPS),Place Code (FIPS),Consolidtated City Code (FIPS),Area Name (including legal/statistical area description)
+32007,40,42,0,0,0,0,Pennsylvania
+32008,50,42,1,0,0,0,Adams County
+32009,50,42,3,0,0,0,Allegheny County
+32010,50,42,5,0,0,0,Armstrong County
+32011,50,42,7,0,0,0,Beaver County
+32012,50,42,9,0,0,0,Bedford County
+32013,50,42,11,0,0,0,Berks County
+32014,50,42,13,0,0,0,Blair County
+32015,50,42,15,0,0,0,Bradford County
+32016,50,42,17,0,0,0,Bucks County
+32017,50,42,19,0,0,0,Butler County
+32018,50,42,21,0,0,0,Cambria County
+32019,50,42,23,0,0,0,Cameron County
+32020,50,42,25,0,0,0,Carbon County
+32021,50,42,27,0,0,0,Centre County
+32022,50,42,29,0,0,0,Chester County
+32023,50,42,31,0,0,0,Clarion County
+32024,50,42,33,0,0,0,Clearfield County
+32025,50,42,35,0,0,0,Clinton County
+32026,50,42,37,0,0,0,Columbia County
+32027,50,42,39,0,0,0,Crawford County
+32028,50,42,41,0,0,0,Cumberland County
+32029,50,42,43,0,0,0,Dauphin County
+32030,50,42,45,0,0,0,Delaware County
+32031,50,42,47,0,0,0,Elk County
+32032,50,42,49,0,0,0,Erie County
+32033,50,42,51,0,0,0,Fayette County
+32034,50,42,53,0,0,0,Forest County
+32035,50,42,55,0,0,0,Franklin County
+32036,50,42,57,0,0,0,Fulton County
+32037,50,42,59,0,0,0,Greene County
+32038,50,42,61,0,0,0,Huntingdon County
+32039,50,42,63,0,0,0,Indiana County
+32040,50,42,65,0,0,0,Jefferson County
+32041,50,42,67,0,0,0,Juniata County
+32042,50,42,69,0,0,0,Lackawanna County
+32043,50,42,71,0,0,0,Lancaster County
+32044,50,42,73,0,0,0,Lawrence County
+32045,50,42,75,0,0,0,Lebanon County
+32046,50,42,77,0,0,0,Lehigh County
+32047,50,42,79,0,0,0,Luzerne County
+32048,50,42,81,0,0,0,Lycoming County
+32049,50,42,83,0,0,0,McKean County
+32050,50,42,85,0,0,0,Mercer County
+32051,50,42,87,0,0,0,Mifflin County
+32052,50,42,89,0,0,0,Monroe County
+32053,50,42,91,0,0,0,Montgomery County
+32054,50,42,93,0,0,0,Montour County
+32055,50,42,95,0,0,0,Northampton County
+32056,50,42,97,0,0,0,Northumberland County
+32057,50,42,99,0,0,0,Perry County
+32058,50,42,101,0,0,0,Philadelphia County
+32059,50,42,103,0,0,0,Pike County
+32060,50,42,105,0,0,0,Potter County
+32061,50,42,107,0,0,0,Schuylkill County
+32062,50,42,109,0,0,0,Snyder County
+32063,50,42,111,0,0,0,Somerset County
+32064,50,42,113,0,0,0,Sullivan County
+32065,50,42,115,0,0,0,Susquehanna County
+32066,50,42,117,0,0,0,Tioga County
+32067,50,42,119,0,0,0,Union County
+32068,50,42,121,0,0,0,Venango County
+32069,50,42,123,0,0,0,Warren County
+32070,50,42,125,0,0,0,Washington County
+32071,50,42,127,0,0,0,Wayne County
+32072,50,42,129,0,0,0,Westmoreland County
+32073,50,42,131,0,0,0,Wyoming County
+32074,50,42,133,0,0,0,York County
+32075,61,42,1,116,0,0,Abbottstown borough
+32076,61,42,1,2928,0,0,Arendtsville borough
+32077,61,42,1,5536,0,0,Bendersville borough
+32078,61,42,1,5880,0,0,Berwick township
+32079,61,42,1,6296,0,0,Biglerville borough
+32080,61,42,1,7560,0,0,Bonneauville borough
+32081,61,42,1,10456,0,0,Butler township
+32082,61,42,1,11472,0,0,Carroll Valley borough
+32083,61,42,1,15632,0,0,Conewago township
+32084,61,42,1,17640,0,0,Cumberland township
+32085,61,42,1,20792,0,0,East Berlin borough
+32086,61,42,1,24560,0,0,Fairfield borough
+32087,61,42,1,27320,0,0,Franklin township
+32088,61,42,1,27704,0,0,Freedom township
+32089,61,42,1,28936,0,0,Germany township
+32090,61,42,1,28960,0,0,Gettysburg borough
+32091,61,42,1,32144,0,0,Hamilton township
+32092,61,42,1,32200,0,0,Hamiltonban township
+32093,61,42,1,34424,0,0,Highland township
+32094,61,42,1,36424,0,0,Huntington township
+32095,61,42,1,41672,0,0,Latimore township
+32096,61,42,1,43056,0,0,Liberty township
+32097,61,42,1,43944,0,0,Littlestown borough
+32098,61,42,1,46376,0,0,McSherrystown borough
+32099,61,42,1,48608,0,0,Menallen township
+32100,61,42,1,51640,0,0,Mount Joy township
+32101,61,42,1,51776,0,0,Mount Pleasant township
+32102,61,42,1,53920,0,0,New Oxford borough
+32103,61,42,1,57472,0,0,Oxford township
+32104,61,42,1,63616,0,0,Reading township
+32105,61,42,1,74680,0,0,Straban township
+32106,61,42,1,78160,0,0,Tyrone township
+32107,61,42,1,78264,0,0,Union township
+32108,61,42,1,87136,0,0,York Springs borough
+32109,61,42,3,724,0,0,Aleppo township
+32110,61,42,3,3320,0,0,Aspinwall borough
+32111,61,42,3,3608,0,0,Avalon borough
+32112,61,42,3,3928,0,0,Baldwin borough
+32113,61,42,3,3932,0,0,Baldwin township
+32114,61,42,3,5216,0,0,Bell Acres borough
+32115,61,42,3,5312,0,0,Bellevue borough
+32116,61,42,3,5504,0,0,Ben Avon borough
+32117,61,42,3,5520,0,0,Ben Avon Heights borough
+32118,61,42,3,6064,0,0,Bethel Park municipality
+32119,61,42,3,7000,0,0,Blawnox borough
+32120,61,42,3,7976,0,0,Brackenridge borough
+32121,61,42,3,7992,0,0,Braddock borough
+32122,61,42,3,8008,0,0,Braddock Hills borough
+32123,61,42,3,8064,0,0,Bradford Woods borough
+32124,61,42,3,8416,0,0,Brentwood borough
+32125,61,42,3,8624,0,0,Bridgeville borough
+32126,61,42,3,11336,0,0,Carnegie borough
+32127,61,42,3,11680,0,0,Castle Shannon borough
+32128,61,42,3,12496,0,0,Chalfant borough
+32129,61,42,3,13392,0,0,Cheswick borough
+32130,61,42,3,13608,0,0,Churchill borough
+32131,61,42,3,13704,0,0,Clairton city
+32132,61,42,3,15216,0,0,Collier township
+32133,61,42,3,16144,0,0,Coraopolis borough
+32134,61,42,3,16848,0,0,Crafton borough
+32135,61,42,3,17048,0,0,Crescent township
+32136,61,42,3,19576,0,0,Dormont borough
+32137,61,42,3,19856,0,0,Dravosburg borough
+32138,61,42,3,20432,0,0,Duquesne city
+32139,61,42,3,21024,0,0,East Deer township
+32140,61,42,3,21444,0,0,East McKeesport borough
+32141,61,42,3,21712,0,0,East Pittsburgh borough
+32142,61,42,3,22520,0,0,Edgewood borough
+32143,61,42,3,22576,0,0,Edgeworth borough
+32144,61,42,3,22992,0,0,Elizabeth borough
+32145,61,42,3,23000,0,0,Elizabeth township
+32146,61,42,3,23616,0,0,Emsworth borough
+32147,61,42,3,24160,0,0,Etna borough
+32148,61,42,3,25400,0,0,Fawn township
+32149,61,42,3,25904,0,0,Findlay township
+32150,61,42,3,26592,0,0,Forest Hills borough
+32151,61,42,3,26896,0,0,Forward township
+32152,61,42,3,27120,0,0,Fox Chapel borough
+32153,61,42,3,27552,0,0,Franklin Park borough
+32154,61,42,3,27608,0,0,Frazer township
+32155,61,42,3,29432,0,0,Glassport borough
+32156,61,42,3,29592,0,0,Glenfield borough
+32157,61,42,3,29732,0,0,Glen Osborne borough
+32158,61,42,3,31256,0,0,Green Tree borough
+32159,61,42,3,32328,0,0,Hampton township
+32160,61,42,3,32624,0,0,Harmar township
+32161,61,42,3,32832,0,0,Harrison township
+32162,61,42,3,33312,0,0,Haysville borough
+32163,61,42,3,33592,0,0,Heidelberg borough
+32164,61,42,3,35424,0,0,Homestead borough
+32165,61,42,3,36808,0,0,Indiana township
+32166,61,42,3,37000,0,0,Ingram borough
+32167,61,42,3,37955,0,0,Jefferson Hills borough
+32168,61,42,3,39312,0,0,Kennedy township
+32169,61,42,3,39624,0,0,Kilbuck township
+32170,61,42,3,42368,0,0,Leet township
+32171,61,42,3,42392,0,0,Leetsdale borough
+32172,61,42,3,43064,0,0,Liberty borough
+32173,61,42,3,43408,0,0,Lincoln borough
+32174,61,42,3,45900,0,0,McCandless township
+32175,61,42,3,46072,0,0,McDonald borough
+32176,61,42,3,46256,0,0,McKeesport city
+32177,61,42,3,46264,0,0,McKees Rocks borough
+32178,61,42,3,47696,0,0,Marshall township
+32179,61,42,3,49920,0,0,Millvale borough
+32180,61,42,3,50528,0,0,Monroeville municipality
+32181,61,42,3,50784,0,0,Moon township
+32182,61,42,3,51696,0,0,Mount Lebanon township
+32183,61,42,3,51744,0,0,Mount Oliver borough
+32184,61,42,3,52320,0,0,Munhall borough
+32185,61,42,3,53136,0,0,Neville township
+32186,61,42,3,54816,0,0,North Braddock borough
+32187,61,42,3,55016,0,0,North Fayette township
+32188,61,42,3,55488,0,0,North Versailles township
+32189,61,42,3,55840,0,0,Oakdale borough
+32190,61,42,3,56088,0,0,Oakmont borough
+32191,61,42,3,56384,0,0,O'Hara township
+32192,61,42,3,56392,0,0,Ohio township
+32193,61,42,3,59032,0,0,Penn Hills township
+32194,61,42,3,59152,0,0,Pennsbury Village borough
+32195,61,42,3,60272,0,0,Pine township
+32196,61,42,3,60712,0,0,Pitcairn borough
+32197,61,42,3,61000,0,0,Pittsburgh city
+32198,61,42,3,61328,0,0,Pleasant Hills borough
+32199,61,42,3,61536,0,0,Plum borough
+32200,61,42,3,62320,0,0,Port Vue borough
+32201,61,42,3,63408,0,0,Rankin borough
+32202,61,42,3,64240,0,0,Reserve township
+32203,61,42,3,64528,0,0,Richland township
+32204,61,42,3,65352,0,0,Robinson township
+32205,61,42,3,66264,0,0,Ross township
+32206,61,42,3,66320,0,0,Rosslyn Farms borough
+32207,61,42,3,68388,0,0,Scott township
+32208,61,42,3,69376,0,0,Sewickley borough
+32209,61,42,3,69400,0,0,Sewickley Heights borough
+32210,61,42,3,69416,0,0,Sewickley Hills borough
+32211,61,42,3,69584,0,0,Shaler township
+32212,61,42,3,69776,0,0,Sharpsburg borough
+32213,61,42,3,72160,0,0,South Fayette township
+32214,61,42,3,72400,0,0,South Park township
+32215,61,42,3,72568,0,0,South Versailles township
+32216,61,42,3,72960,0,0,Springdale borough
+32217,61,42,3,72968,0,0,Springdale township
+32218,61,42,3,74648,0,0,Stowe township
+32219,61,42,3,75816,0,0,Swissvale borough
+32220,61,42,3,76104,0,0,Tarentum borough
+32221,61,42,3,76560,0,0,Thornburg borough
+32222,61,42,3,77272,0,0,Trafford borough
+32223,61,42,3,77912,0,0,Turtle Creek borough
+32224,61,42,3,79274,0,0,Upper St. Clair township
+32225,61,42,3,80032,0,0,Verona borough
+32226,61,42,3,80040,0,0,Versailles borough
+32227,61,42,3,80600,0,0,Wall borough
+32228,61,42,3,82800,0,0,West Deer township
+32229,61,42,3,82848,0,0,West Elizabeth borough
+32230,61,42,3,83200,0,0,West Homestead borough
+32231,61,42,3,83512,0,0,West Mifflin borough
+32232,61,42,3,84144,0,0,West View borough
+32233,61,42,3,84440,0,0,Whitaker borough
+32234,61,42,3,84512,0,0,Whitehall borough
+32235,61,42,3,84704,0,0,White Oak borough
+32236,61,42,3,85184,0,0,Wilkins township
+32237,61,42,3,85188,0,0,Wilkinsburg borough
+32238,61,42,3,85496,0,0,Wilmerding borough
+32239,61,42,5,2720,0,0,Apollo borough
+32240,61,42,5,2752,0,0,Applewold borough
+32241,61,42,5,3480,0,0,Atwood borough
+32242,61,42,5,5992,0,0,Bethel township
+32243,61,42,5,7416,0,0,Boggs township
+32244,61,42,5,8152,0,0,Bradys Bend township
+32245,61,42,5,10344,0,0,Burrell township
+32246,61,42,5,10680,0,0,Cadogan township
+32247,61,42,5,16728,0,0,Cowanshannock township
+32248,61,42,5,18400,0,0,Dayton borough
+32249,61,42,5,21160,0,0,East Franklin township
+32250,61,42,5,22832,0,0,Elderton borough
+32251,61,42,5,26512,0,0,Ford City borough
+32252,61,42,5,26520,0,0,Ford Cliff borough
+32253,61,42,5,27784,0,0,Freeport borough
+32254,61,42,5,29184,0,0,Gilpin township
+32255,61,42,5,35936,0,0,Hovey township
+32256,61,42,5,39968,0,0,Kiskiminetas township
+32257,61,42,5,40040,0,0,Kittanning borough
+32258,61,42,5,40056,0,0,Kittanning township
+32259,61,42,5,42280,0,0,Leechburg borough
+32260,61,42,5,46456,0,0,Madison township
+32261,61,42,5,46632,0,0,Mahoning township
+32262,61,42,5,46976,0,0,Manor township
+32263,61,42,5,47064,0,0,Manorville borough
+32264,61,42,5,54728,0,0,North Apollo borough
+32265,61,42,5,54856,0,0,North Buffalo township
+32266,61,42,5,57976,0,0,Parker city
+32267,61,42,5,58160,0,0,Parks township
+32268,61,42,5,59440,0,0,Perry township
+32269,61,42,5,60280,0,0,Pine township
+32270,61,42,5,61576,0,0,Plumcreek township
+32271,61,42,5,63560,0,0,Rayburn township
+32272,61,42,5,63712,0,0,Redbank township
+32273,61,42,5,66720,0,0,Rural Valley borough
+32274,61,42,5,71968,0,0,South Bend township
+32275,61,42,5,71976,0,0,South Bethlehem borough
+32276,61,42,5,72000,0,0,South Buffalo township
+32277,61,42,5,74992,0,0,Sugarcreek township
+32278,61,42,5,79528,0,0,Valley township
+32279,61,42,5,81176,0,0,Washington township
+32280,61,42,5,81720,0,0,Wayne township
+32281,61,42,5,83024,0,0,West Franklin township
+32282,61,42,5,83248,0,0,West Kittanning borough
+32283,61,42,5,86560,0,0,Worthington borough
+32284,61,42,7,820,0,0,Aliquippa city
+32285,61,42,7,2288,0,0,Ambridge borough
+32286,61,42,7,3736,0,0,Baden borough
+32287,61,42,7,4688,0,0,Beaver borough
+32288,61,42,7,4792,0,0,Beaver Falls city
+32289,61,42,7,6240,0,0,Big Beaver borough
+32290,61,42,7,8632,0,0,Bridgewater borough
+32291,61,42,7,8680,0,0,Brighton township
+32292,61,42,7,12016,0,0,Center township
+32293,61,42,7,13488,0,0,Chippewa township
+32294,61,42,7,15872,0,0,Conway borough
+32295,61,42,7,18192,0,0,Darlington borough
+32296,61,42,7,18200,0,0,Darlington township
+32297,61,42,7,18264,0,0,Daugherty township
+32298,61,42,7,21752,0,0,East Rochester borough
+32299,61,42,7,21968,0,0,Eastvale borough
+32300,61,42,7,22264,0,0,Economy borough
+32301,61,42,7,23304,0,0,Ellwood City borough
+32302,61,42,7,25152,0,0,Fallston borough
+32303,61,42,7,27312,0,0,Frankfort Springs borough
+32304,61,42,7,27336,0,0,Franklin township
+32305,61,42,7,27712,0,0,Freedom borough
+32306,61,42,7,28824,0,0,Georgetown borough
+32307,61,42,7,29392,0,0,Glasgow borough
+32308,61,42,7,30920,0,0,Greene township
+32309,61,42,7,32392,0,0,Hanover township
+32310,61,42,7,32680,0,0,Harmony township
+32311,61,42,7,35488,0,0,Homewood borough
+32312,61,42,7,35576,0,0,Hookstown borough
+32313,61,42,7,35640,0,0,Hopewell township
+32314,61,42,7,36776,0,0,Independence township
+32315,61,42,7,36944,0,0,Industry borough
+32316,61,42,7,40400,0,0,Koppel borough
+32317,61,42,7,47432,0,0,Marion township
+32318,61,42,7,49184,0,0,Midland borough
+32319,61,42,7,50320,0,0,Monaca borough
+32320,61,42,7,53288,0,0,New Brighton borough
+32321,61,42,7,53592,0,0,New Galilee borough
+32322,61,42,7,54072,0,0,New Sewickley township
+32323,61,42,7,55400,0,0,North Sewickley township
+32324,61,42,7,56432,0,0,Ohioville borough
+32325,61,42,7,58375,0,0,Patterson township
+32326,61,42,7,58384,0,0,Patterson Heights borough
+32327,61,42,7,62352,0,0,Potter township
+32328,61,42,7,62888,0,0,Pulaski township
+32329,61,42,7,63224,0,0,Raccoon township
+32330,61,42,7,65392,0,0,Rochester borough
+32331,61,42,7,65400,0,0,Rochester township
+32332,61,42,7,70376,0,0,Shippingport borough
+32333,61,42,7,71952,0,0,South Beaver township
+32334,61,42,7,72216,0,0,South Heights borough
+32335,61,42,7,79856,0,0,Vanport township
+32336,61,42,7,83472,0,0,West Mayfield borough
+32337,61,42,7,84444,0,0,White township
+32338,61,42,9,4944,0,0,Bedford borough
+32339,61,42,9,4952,0,0,Bedford township
+32340,61,42,9,7024,0,0,Bloomfield township
+32341,61,42,9,8880,0,0,Broad Top township
+32342,61,42,9,14584,0,0,Coaldale borough
+32343,61,42,9,15032,0,0,Colerain township
+32344,61,42,9,17664,0,0,Cumberland Valley township
+32345,61,42,9,21736,0,0,East Providence township
+32346,61,42,9,21788,0,0,East St. Clair township
+32347,61,42,9,24304,0,0,Everett borough
+32348,61,42,9,32840,0,0,Harrison township
+32349,61,42,9,35648,0,0,Hopewell borough
+32350,61,42,9,35656,0,0,Hopewell township
+32351,61,42,9,36640,0,0,Hyndman borough
+32352,61,42,9,38576,0,0,Juniata township
+32353,61,42,9,39658,0,0,Kimmel township
+32354,61,42,9,39720,0,0,King township
+32355,61,42,9,43072,0,0,Liberty township
+32356,61,42,9,43416,0,0,Lincoln township
+32357,61,42,9,44448,0,0,Londonderry township
+32358,61,42,9,46928,0,0,Mann township
+32359,61,42,9,46944,0,0,Manns Choice borough
+32360,61,42,9,50424,0,0,Monroe township
+32361,61,42,9,52648,0,0,Napier township
+32362,61,42,9,53928,0,0,New Paris borough
+32363,61,42,9,58492,0,0,Pavia township
+32364,61,42,9,61496,0,0,Pleasantville borough
+32365,61,42,9,63312,0,0,Rainsburg borough
+32366,61,42,9,67256,0,0,St. Clairsville borough
+32367,61,42,9,68072,0,0,Saxton borough
+32368,61,42,9,68152,0,0,Schellsburg borough
+32369,61,42,9,71544,0,0,Snake Spring township
+32370,61,42,9,71888,0,0,Southampton township
+32371,61,42,9,72656,0,0,South Woodbury township
+32372,61,42,9,83920,0,0,West Providence township
+32373,61,42,9,83972,0,0,West St. Clair township
+32374,61,42,9,86128,0,0,Woodbury borough
+32375,61,42,9,86136,0,0,Woodbury township
+32376,61,42,11,364,0,0,Adamstown borough
+32377,61,42,11,588,0,0,Albany township
+32378,61,42,11,2120,0,0,Alsace township
+32379,61,42,11,2328,0,0,Amity township
+32380,61,42,11,3984,0,0,Bally borough
+32381,61,42,11,4896,0,0,Bechtelsville borough
+32382,61,42,11,5816,0,0,Bern township
+32383,61,42,11,5848,0,0,Bernville borough
+32384,61,42,11,6008,0,0,Bethel township
+32385,61,42,11,6504,0,0,Birdsboro borough
+32386,61,42,11,7960,0,0,Boyertown borough
+32387,61,42,11,8344,0,0,Brecknock township
+32388,61,42,11,10696,0,0,Caernarvon township
+32389,61,42,11,12104,0,0,Centerport borough
+32390,61,42,11,12344,0,0,Centre township
+32391,61,42,11,14984,0,0,Colebrookdale township
+32392,61,42,11,17720,0,0,Cumru township
+32393,61,42,11,19312,0,0,District township
+32394,61,42,11,19664,0,0,Douglass township
+32395,61,42,11,20680,0,0,Earl township
+32396,61,42,11,24384,0,0,Exeter township
+32397,61,42,11,26280,0,0,Fleetwood borough
+32398,61,42,11,31352,0,0,Greenwich township
+32399,61,42,11,32120,0,0,Hamburg borough
+32400,61,42,11,33600,0,0,Heidelberg township
+32401,61,42,11,34016,0,0,Hereford township
+32402,61,42,11,37824,0,0,Jefferson township
+32403,61,42,11,39256,0,0,Kenhorst borough
+32404,61,42,11,40656,0,0,Kutztown borough
+32405,61,42,11,41768,0,0,Laureldale borough
+32406,61,42,11,42352,0,0,Leesport borough
+32407,61,42,11,42688,0,0,Lenhartsville borough
+32408,61,42,11,44584,0,0,Longswamp township
+32409,61,42,11,44840,0,0,Lower Alsace township
+32410,61,42,11,44928,0,0,Lower Heidelberg township
+32411,61,42,11,45752,0,0,Lyons borough
+32412,61,42,11,46680,0,0,Maidencreek township
+32413,61,42,11,47440,0,0,Marion township
+32414,61,42,11,48128,0,0,Maxatawny township
+32415,61,42,11,50272,0,0,Mohnton borough
+32416,61,42,11,51760,0,0,Mount Penn borough
+32417,61,42,11,52200,0,0,Muhlenberg township
+32418,61,42,11,53916,0,0,New Morgan borough
+32419,61,42,11,55088,0,0,North Heidelberg township
+32420,61,42,11,56672,0,0,Oley township
+32421,61,42,11,56856,0,0,Ontelaunee township
+32422,61,42,11,58784,0,0,Penn township
+32423,61,42,11,59448,0,0,Perry township
+32424,61,42,11,60176,0,0,Pike township
+32425,61,42,11,63624,0,0,Reading city
+32426,61,42,11,64592,0,0,Richmond township
+32427,61,42,11,65320,0,0,Robeson township
+32428,61,42,11,65336,0,0,Robesonia borough
+32429,61,42,11,65544,0,0,Rockland township
+32430,61,42,11,66728,0,0,Ruscombmanor township
+32431,61,42,11,67304,0,0,St. Lawrence borough
+32432,61,42,11,70248,0,0,Shillington borough
+32433,61,42,11,70464,0,0,Shoemakersville borough
+32434,61,42,11,70880,0,0,Sinking Spring borough
+32435,61,42,11,72208,0,0,South Heidelberg township
+32436,61,42,11,72824,0,0,Spring township
+32437,61,42,11,74744,0,0,Strausstown borough
+32438,61,42,11,76712,0,0,Tilden township
+32439,61,42,11,77104,0,0,Topton borough
+32440,61,42,11,77752,0,0,Tulpehocken township
+32441,61,42,11,78280,0,0,Union township
+32442,61,42,11,78752,0,0,Upper Bern township
+32443,61,42,11,79328,0,0,Upper Tulpehocken township
+32444,61,42,11,81184,0,0,Washington township
+32445,61,42,11,82296,0,0,Wernersville borough
+32446,61,42,11,83928,0,0,West Reading borough
+32447,61,42,11,85720,0,0,Windsor township
+32448,61,42,11,86056,0,0,Womelsdorf borough
+32449,61,42,11,86880,0,0,Wyomissing borough
+32450,61,42,13,852,0,0,Allegheny township
+32451,61,42,13,2184,0,0,Altoona city
+32452,61,42,13,2680,0,0,Antis township
+32453,61,42,13,5384,0,0,Bellwood borough
+32454,61,42,13,6872,0,0,Blair township
+32455,61,42,13,11760,0,0,Catharine township
+32456,61,42,13,20248,0,0,Duncansville borough
+32457,61,42,13,27600,0,0,Frankstown township
+32458,61,42,13,27720,0,0,Freedom township
+32459,61,42,13,31000,0,0,Greenfield township
+32460,61,42,13,35224,0,0,Hollidaysburg borough
+32461,61,42,13,36496,0,0,Huston township
+32462,61,42,13,38592,0,0,Juniata township
+32463,61,42,13,44328,0,0,Logan township
+32464,61,42,13,47872,0,0,Martinsburg borough
+32465,61,42,13,54024,0,0,Newry borough
+32466,61,42,13,55592,0,0,North Woodbury township
+32467,61,42,13,65256,0,0,Roaring Spring borough
+32468,61,42,13,71624,0,0,Snyder township
+32469,61,42,13,76160,0,0,Taylor township
+32470,61,42,13,77808,0,0,Tunnelhill borough
+32471,61,42,13,78168,0,0,Tyrone borough
+32472,61,42,13,78176,0,0,Tyrone township
+32473,61,42,13,85272,0,0,Williamsburg borough
+32474,61,42,13,86144,0,0,Woodbury township
+32475,61,42,15,572,0,0,Alba borough
+32476,61,42,15,596,0,0,Albany township
+32477,61,42,15,3056,0,0,Armenia township
+32478,61,42,15,3360,0,0,Asylum township
+32479,61,42,15,3392,0,0,Athens borough
+32480,61,42,15,3400,0,0,Athens township
+32481,61,42,15,10240,0,0,Burlington borough
+32482,61,42,15,10248,0,0,Burlington township
+32483,61,42,15,11160,0,0,Canton borough
+32484,61,42,15,11168,0,0,Canton township
+32485,61,42,15,15376,0,0,Columbia township
+32486,61,42,15,27344,0,0,Franklin township
+32487,61,42,15,30464,0,0,Granville township
+32488,61,42,15,34088,0,0,Herrick township
+32489,61,42,15,42824,0,0,Le Raysville borough
+32490,61,42,15,42856,0,0,Leroy township
+32491,61,42,15,43792,0,0,Litchfield township
+32492,61,42,15,50432,0,0,Monroe borough
+32493,61,42,15,50440,0,0,Monroe township
+32494,61,42,15,53152,0,0,New Albany borough
+32495,61,42,15,55448,0,0,North Towanda township
+32496,61,42,15,57176,0,0,Orwell township
+32497,61,42,15,57448,0,0,Overton township
+32498,61,42,15,60184,0,0,Pike township
+32499,61,42,15,64696,0,0,Ridgebury township
+32500,61,42,15,65944,0,0,Rome borough
+32501,61,42,15,65952,0,0,Rome township
+32502,61,42,15,68096,0,0,Sayre borough
+32503,61,42,15,70208,0,0,Sheshequin township
+32504,61,42,15,71312,0,0,Smithfield township
+32505,61,42,15,72096,0,0,South Creek township
+32506,61,42,15,72592,0,0,South Waverly borough
+32507,61,42,15,73008,0,0,Springfield township
+32508,61,42,15,73632,0,0,Standing Stone township
+32509,61,42,15,74032,0,0,Stevens township
+32510,61,42,15,75944,0,0,Sylvania borough
+32511,61,42,15,76408,0,0,Terry township
+32512,61,42,15,77168,0,0,Towanda borough
+32513,61,42,15,77176,0,0,Towanda township
+32514,61,42,15,77584,0,0,Troy borough
+32515,61,42,15,77592,0,0,Troy township
+32516,61,42,15,77936,0,0,Tuscarora township
+32517,61,42,15,78232,0,0,Ulster township
+32518,61,42,15,80984,0,0,Warren township
+32519,61,42,15,82144,0,0,Wells township
+32520,61,42,15,82656,0,0,West Burlington township
+32521,61,42,15,85544,0,0,Wilmot township
+32522,61,42,15,85672,0,0,Windham township
+32523,61,42,15,86656,0,0,Wyalusing borough
+32524,61,42,15,86664,0,0,Wyalusing township
+32525,61,42,15,86912,0,0,Wysox township
+32526,61,42,17,4976,0,0,Bedminster township
+32527,61,42,17,5616,0,0,Bensalem township
+32528,61,42,17,8592,0,0,Bridgeton township
+32529,61,42,17,8760,0,0,Bristol borough
+32530,61,42,17,8768,0,0,Bristol township
+32531,61,42,17,9816,0,0,Buckingham township
+32532,61,42,17,12504,0,0,Chalfont borough
+32533,61,42,17,19784,0,0,Doylestown borough
+32534,61,42,17,19792,0,0,Doylestown township
+32535,61,42,17,20104,0,0,Dublin borough
+32536,61,42,17,20480,0,0,Durham township
+32537,61,42,17,21760,0,0,East Rockhill township
+32538,61,42,17,25112,0,0,Falls township
+32539,61,42,17,33224,0,0,Haycock township
+32540,61,42,17,34952,0,0,Hilltown township
+32541,61,42,17,36192,0,0,Hulmeville borough
+32542,61,42,17,37304,0,0,Ivyland borough
+32543,61,42,17,41392,0,0,Langhorne borough
+32544,61,42,17,41416,0,0,Langhorne Manor borough
+32545,61,42,17,44968,0,0,Lower Makefield township
+32546,61,42,17,45112,0,0,Lower Southampton township
+32547,61,42,17,49120,0,0,Middletown township
+32548,61,42,17,49384,0,0,Milford township
+32549,61,42,17,51144,0,0,Morrisville borough
+32550,61,42,17,53296,0,0,New Britain borough
+32551,61,42,17,53304,0,0,New Britain township
+32552,61,42,17,53712,0,0,New Hope borough
+32553,61,42,17,54184,0,0,Newtown borough
+32554,61,42,17,54192,0,0,Newtown township
+32555,61,42,17,54576,0,0,Nockamixon township
+32556,61,42,17,54688,0,0,Northampton township
+32557,61,42,17,58936,0,0,Penndel borough
+32558,61,42,17,59384,0,0,Perkasie borough
+32559,61,42,17,61616,0,0,Plumstead township
+32560,61,42,17,63048,0,0,Quakertown borough
+32561,61,42,17,64536,0,0,Richland township
+32562,61,42,17,64584,0,0,Richlandtown borough
+32563,61,42,17,64856,0,0,Riegelsville borough
+32564,61,42,17,69248,0,0,Sellersville borough
+32565,61,42,17,70744,0,0,Silverdale borough
+32566,61,42,17,71752,0,0,Solebury township
+32567,61,42,17,73016,0,0,Springfield township
+32568,61,42,17,76304,0,0,Telford borough
+32569,61,42,17,76784,0,0,Tinicum township
+32570,61,42,17,77704,0,0,Trumbauersville borough
+32571,61,42,17,77744,0,0,Tullytown borough
+32572,61,42,17,79128,0,0,Upper Makefield township
+32573,61,42,17,79296,0,0,Upper Southampton township
+32574,61,42,17,80952,0,0,Warminster township
+32575,61,42,17,81048,0,0,Warrington township
+32576,61,42,17,81144,0,0,Warwick township
+32577,61,42,17,83960,0,0,West Rockhill township
+32578,61,42,17,86624,0,0,Wrightstown township
+32579,61,42,17,86920,0,0,Yardley borough
+32580,61,42,19,300,0,0,Adams township
+32581,61,42,19,860,0,0,Allegheny township
+32582,61,42,19,8096,0,0,Brady township
+32583,61,42,19,9528,0,0,Bruin borough
+32584,61,42,19,10000,0,0,Buffalo township
+32585,61,42,19,10464,0,0,Butler city
+32586,61,42,19,10472,0,0,Butler township
+32587,61,42,19,10800,0,0,Callery borough
+32588,61,42,19,12024,0,0,Center township
+32589,61,42,19,12992,0,0,Cherry township
+32590,61,42,19,13152,0,0,Cherry Valley borough
+32591,61,42,19,13440,0,0,Chicora borough
+32592,61,42,19,13936,0,0,Clay township
+32593,61,42,19,14048,0,0,Clearfield township
+32594,61,42,19,14320,0,0,Clinton township
+32595,61,42,19,15480,0,0,Concord township
+32596,61,42,19,15808,0,0,Connoquenessing borough
+32597,61,42,19,15816,0,0,Connoquenessing township
+32598,61,42,19,16920,0,0,Cranberry township
+32599,61,42,19,19456,0,0,Donegal township
+32600,61,42,19,20904,0,0,East Butler borough
+32601,61,42,19,22128,0,0,Eau Claire borough
+32602,61,42,19,24248,0,0,Evans City borough
+32603,61,42,19,24832,0,0,Fairview borough
+32604,61,42,19,24840,0,0,Fairview township
+32605,61,42,19,26904,0,0,Forward township
+32606,61,42,19,27352,0,0,Franklin township
+32607,61,42,19,32688,0,0,Harmony borough
+32608,61,42,19,32896,0,0,Harrisville borough
+32609,61,42,19,37344,0,0,Jackson township
+32610,61,42,19,37848,0,0,Jefferson township
+32611,61,42,19,38768,0,0,Karns City borough
+32612,61,42,19,41208,0,0,Lancaster township
+32613,61,42,19,47448,0,0,Marion township
+32614,61,42,19,47672,0,0,Mars borough
+32615,61,42,19,48688,0,0,Mercer township
+32616,61,42,19,49056,0,0,Middlesex township
+32617,61,42,19,52176,0,0,Muddy Creek township
+32618,61,42,19,55992,0,0,Oakland township
+32619,61,42,19,57984,0,0,Parker township
+32620,61,42,19,58792,0,0,Penn township
+32621,61,42,19,59672,0,0,Petrolia borough
+32622,61,42,19,62224,0,0,Portersville borough
+32623,61,42,19,62752,0,0,Prospect borough
+32624,61,42,19,68056,0,0,Saxonburg borough
+32625,61,42,19,69309,0,0,Seven Fields borough
+32626,61,42,19,71184,0,0,Slippery Rock borough
+32627,61,42,19,71192,0,0,Slippery Rock township
+32628,61,42,19,75184,0,0,Summit township
+32629,61,42,19,79504,0,0,Valencia borough
+32630,61,42,19,79904,0,0,Venango township
+32631,61,42,19,81192,0,0,Washington township
+32632,61,42,19,83376,0,0,West Liberty borough
+32633,61,42,19,84064,0,0,West Sunbury borough
+32634,61,42,19,85784,0,0,Winfield township
+32635,61,42,19,86536,0,0,Worth township
+32636,61,42,19,87272,0,0,Zelienople borough
+32637,61,42,21,308,0,0,Adams township
+32638,61,42,21,868,0,0,Allegheny township
+32639,61,42,21,3296,0,0,Ashville borough
+32640,61,42,21,4272,0,0,Barr township
+32641,61,42,21,6736,0,0,Blacklick township
+32642,61,42,21,9400,0,0,Brownstown borough
+32643,61,42,21,10880,0,0,Cambria township
+32644,61,42,21,11456,0,0,Carrolltown borough
+32645,61,42,21,11616,0,0,Cassandra borough
+32646,61,42,21,13192,0,0,Chest township
+32647,61,42,21,13384,0,0,Chest Springs borough
+32648,61,42,21,14056,0,0,Clearfield township
+32649,61,42,21,15552,0,0,Conemaugh township
+32650,61,42,21,17136,0,0,Cresson borough
+32651,61,42,21,17144,0,0,Cresson township
+32652,61,42,21,17496,0,0,Croyle township
+32653,61,42,21,17976,0,0,Daisytown borough
+32654,61,42,21,18000,0,0,Dale borough
+32655,61,42,21,18432,0,0,Dean township
+32656,61,42,21,20952,0,0,East Carroll township
+32657,61,42,21,20992,0,0,East Conemaugh borough
+32658,61,42,21,21896,0,0,East Taylor township
+32659,61,42,21,22144,0,0,Ebensburg borough
+32660,61,42,21,22712,0,0,Ehrenfeld borough
+32661,61,42,21,22808,0,0,Elder township
+32662,61,42,21,25680,0,0,Ferndale borough
+32663,61,42,21,27360,0,0,Franklin borough
+32664,61,42,21,28328,0,0,Gallitzin borough
+32665,61,42,21,28336,0,0,Gallitzin township
+32666,61,42,21,28720,0,0,Geistown borough
+32667,61,42,21,33080,0,0,Hastings borough
+32668,61,42,21,37352,0,0,Jackson township
+32669,61,42,21,38288,0,0,Johnstown city
+32670,61,42,21,43248,0,0,Lilly borough
+32671,61,42,21,44664,0,0,Lorain borough
+32672,61,42,21,44704,0,0,Loretto borough
+32673,61,42,21,45160,0,0,Lower Yoder township
+32674,61,42,21,49104,0,0,Middle Taylor township
+32675,61,42,21,52360,0,0,Munster township
+32676,61,42,21,52616,0,0,Nanty-Glo borough
+32677,61,42,21,55000,0,0,Northern Cambria borough
+32678,61,42,21,58432,0,0,Patton borough
+32679,61,42,21,62048,0,0,Portage borough
+32680,61,42,21,62056,0,0,Portage township
+32681,61,42,21,63608,0,0,Reade township
+32682,61,42,21,64544,0,0,Richland township
+32683,61,42,21,67920,0,0,Sankertown borough
+32684,61,42,21,68104,0,0,Scalp Level borough
+32685,61,42,21,72168,0,0,South Fork borough
+32686,61,42,21,72344,0,0,Southmont borough
+32687,61,42,21,74432,0,0,Stonycreek township
+32688,61,42,21,75136,0,0,Summerhill borough
+32689,61,42,21,75144,0,0,Summerhill township
+32690,61,42,21,75520,0,0,Susquehanna township
+32691,61,42,21,77808,0,0,Tunnelhill borough
+32692,61,42,21,79360,0,0,Upper Yoder township
+32693,61,42,21,80288,0,0,Vintondale borough
+32694,61,42,21,81200,0,0,Washington township
+32695,61,42,21,82688,0,0,West Carroll township
+32696,61,42,21,83584,0,0,Westmont borough
+32697,61,42,21,84080,0,0,West Taylor township
+32698,61,42,21,84448,0,0,White township
+32699,61,42,21,85528,0,0,Wilmore borough
+32700,61,42,23,19976,0,0,Driftwood borough
+32701,61,42,23,23600,0,0,Emporium borough
+32702,61,42,23,29008,0,0,Gibson township
+32703,61,42,23,31632,0,0,Grove township
+32704,61,42,23,45432,0,0,Lumber township
+32705,61,42,23,62064,0,0,Portage township
+32706,61,42,23,70336,0,0,Shippen township
+32707,61,42,25,4048,0,0,Banks township
+32708,61,42,25,4816,0,0,Beaver Meadows borough
+32709,61,42,25,7880,0,0,Bowmanstown borough
+32710,61,42,25,21664,0,0,East Penn township
+32711,61,42,25,21816,0,0,East Side borough
+32712,61,42,25,27368,0,0,Franklin township
+32713,61,42,25,38200,0,0,Jim Thorpe borough
+32714,61,42,25,39608,0,0,Kidder township
+32715,61,42,25,41464,0,0,Lansford borough
+32716,61,42,25,41888,0,0,Lausanne township
+32717,61,42,25,42400,0,0,Lehigh township
+32718,61,42,25,42472,0,0,Lehighton borough
+32719,61,42,25,45128,0,0,Lower Towamensing township
+32720,61,42,25,46640,0,0,Mahoning township
+32721,61,42,25,53088,0,0,Nesquehoning borough
+32722,61,42,25,57504,0,0,Packer township
+32723,61,42,25,57696,0,0,Palmerton borough
+32724,61,42,25,58304,0,0,Parryville borough
+32725,61,42,25,58968,0,0,Penn Forest township
+32726,61,42,25,75248,0,0,Summit Hill borough
+32727,61,42,25,77160,0,0,Towamensing township
+32728,61,42,25,81856,0,0,Weatherly borough
+32729,61,42,25,82080,0,0,Weissport borough
+32730,61,42,27,5256,0,0,Bellefonte borough
+32731,61,42,27,5608,0,0,Benner township
+32732,61,42,27,7424,0,0,Boggs township
+32733,61,42,27,10272,0,0,Burnside township
+32734,61,42,27,12376,0,0,Centre Hall borough
+32735,61,42,27,15136,0,0,College township
+32736,61,42,27,17800,0,0,Curtin township
+32737,61,42,27,25624,0,0,Ferguson township
+32738,61,42,27,31472,0,0,Gregg township
+32739,61,42,27,31960,0,0,Haines township
+32740,61,42,27,31992,0,0,Halfmoon township
+32741,61,42,27,32792,0,0,Harris township
+32742,61,42,27,35960,0,0,Howard borough
+32743,61,42,27,35968,0,0,Howard township
+32744,61,42,27,36504,0,0,Huston township
+32745,61,42,27,43080,0,0,Liberty township
+32746,61,42,27,47456,0,0,Marion township
+32747,61,42,27,49360,0,0,Miles township
+32748,61,42,27,49368,0,0,Milesburg borough
+32749,61,42,27,49768,0,0,Millheim borough
+32750,61,42,27,58440,0,0,Patton township
+32751,61,42,27,58800,0,0,Penn township
+32752,61,42,27,60008,0,0,Philipsburg borough
+32753,61,42,27,62280,0,0,Port Matilda borough
+32754,61,42,27,62360,0,0,Potter township
+32755,61,42,27,66736,0,0,Rush township
+32756,61,42,27,71600,0,0,Snow Shoe borough
+32757,61,42,27,71608,0,0,Snow Shoe township
+32758,61,42,27,72832,0,0,Spring township
+32759,61,42,27,73808,0,0,State College borough
+32760,61,42,27,76168,0,0,Taylor township
+32761,61,42,27,78288,0,0,Union township
+32762,61,42,27,78616,0,0,Unionville borough
+32763,61,42,27,80552,0,0,Walker township
+32764,61,42,27,86544,0,0,Worth township
+32765,61,42,29,3384,0,0,Atglen borough
+32766,61,42,29,3656,0,0,Avondale borough
+32767,61,42,29,6544,0,0,Birmingham township
+32768,61,42,29,10824,0,0,Caln township
+32769,61,42,29,12744,0,0,Charlestown township
+32770,61,42,29,14712,0,0,Coatesville city
+32771,61,42,29,19752,0,0,Downingtown borough
+32772,61,42,29,20824,0,0,East Bradford township
+32773,61,42,29,20864,0,0,East Brandywine township
+32774,61,42,29,20920,0,0,East Caln township
+32775,61,42,29,21008,0,0,East Coventry township
+32776,61,42,29,21104,0,0,East Fallowfield township
+32777,61,42,29,21192,0,0,East Goshen township
+32778,61,42,29,21480,0,0,East Marlborough township
+32779,61,42,29,21576,0,0,East Nantmeal township
+32780,61,42,29,21624,0,0,East Nottingham township
+32781,61,42,29,21696,0,0,East Pikeland township
+32782,61,42,29,21928,0,0,Easttown township
+32783,61,42,29,22000,0,0,East Vincent township
+32784,61,42,29,22056,0,0,East Whiteland township
+32785,61,42,29,23032,0,0,Elk township
+32786,61,42,29,23440,0,0,Elverson borough
+32787,61,42,29,27376,0,0,Franklin township
+32788,61,42,29,34448,0,0,Highland township
+32789,61,42,29,35528,0,0,Honey Brook borough
+32790,61,42,29,35536,0,0,Honey Brook township
+32791,61,42,29,39344,0,0,Kennett township
+32792,61,42,29,39352,0,0,Kennett Square borough
+32793,61,42,29,44440,0,0,London Britain township
+32794,61,42,29,44456,0,0,Londonderry township
+32795,61,42,29,44480,0,0,London Grove township
+32796,61,42,29,45040,0,0,Lower Oxford township
+32797,61,42,29,46792,0,0,Malvern borough
+32798,61,42,29,50232,0,0,Modena borough
+32799,61,42,29,53608,0,0,New Garden township
+32800,61,42,29,53784,0,0,Newlin township
+32801,61,42,29,53816,0,0,New London township
+32802,61,42,29,54936,0,0,North Coventry township
+32803,61,42,29,57480,0,0,Oxford borough
+32804,61,42,29,58032,0,0,Parkesburg borough
+32805,61,42,29,58808,0,0,Penn township
+32806,61,42,29,59136,0,0,Pennsbury township
+32807,61,42,29,60120,0,0,Phoenixville borough
+32808,61,42,29,61800,0,0,Pocopson township
+32809,61,42,29,67080,0,0,Sadsbury township
+32810,61,42,29,68288,0,0,Schuylkill township
+32811,61,42,29,72072,0,0,South Coatesville borough
+32812,61,42,29,72088,0,0,South Coventry township
+32813,61,42,29,72920,0,0,Spring City borough
+32814,61,42,29,76568,0,0,Thornbury township
+32815,61,42,29,77344,0,0,Tredyffrin township
+32816,61,42,29,79208,0,0,Upper Oxford township
+32817,61,42,29,79352,0,0,Upper Uwchlan township
+32818,61,42,29,79480,0,0,Uwchlan township
+32819,61,42,29,79544,0,0,Valley township
+32820,61,42,29,80616,0,0,Wallace township
+32821,61,42,29,81160,0,0,Warwick township
+32822,61,42,29,82544,0,0,West Bradford township
+32823,61,42,29,82576,0,0,West Brandywine township
+32824,61,42,29,82664,0,0,West Caln township
+32825,61,42,29,82704,0,0,West Chester borough
+32826,61,42,29,82936,0,0,West Fallowfield township
+32827,61,42,29,83080,0,0,West Goshen township
+32828,61,42,29,83104,0,0,West Grove borough
+32829,61,42,29,83464,0,0,West Marlborough township
+32830,61,42,29,83664,0,0,West Nantmeal township
+32831,61,42,29,83712,0,0,West Nottingham township
+32832,61,42,29,83832,0,0,West Pikeland township
+32833,61,42,29,83968,0,0,West Sadsbury township
+32834,61,42,29,84104,0,0,Westtown township
+32835,61,42,29,84160,0,0,West Vincent township
+32836,61,42,29,84192,0,0,West Whiteland township
+32837,61,42,29,85352,0,0,Willistown township
+32838,61,42,31,3248,0,0,Ashland township
+32839,61,42,31,4696,0,0,Beaver township
+32840,61,42,31,8112,0,0,Brady township
+32841,61,42,31,10792,0,0,Callensburg borough
+32842,61,42,31,13800,0,0,Clarion borough
+32843,61,42,31,13808,0,0,Clarion township
+32844,61,42,31,20840,0,0,East Brady borough
+32845,61,42,31,23040,0,0,Elk township
+32846,61,42,31,23568,0,0,Emlenton borough
+32847,61,42,31,25272,0,0,Farmington township
+32848,61,42,31,27112,0,0,Foxburg borough
+32849,61,42,31,33216,0,0,Hawthorn borough
+32850,61,42,31,34456,0,0,Highland township
+32851,61,42,31,40272,0,0,Knox borough
+32852,61,42,31,40288,0,0,Knox township
+32853,61,42,31,43192,0,0,Licking township
+32854,61,42,31,43344,0,0,Limestone township
+32855,61,42,31,46464,0,0,Madison township
+32856,61,42,31,49536,0,0,Millcreek township
+32857,61,42,31,50464,0,0,Monroe township
+32858,61,42,31,53248,0,0,New Bethlehem borough
+32859,61,42,31,57536,0,0,Paint township
+32860,61,42,31,59456,0,0,Perry township
+32861,61,42,31,60648,0,0,Piney township
+32862,61,42,31,62144,0,0,Porter township
+32863,61,42,31,63728,0,0,Redbank township
+32864,61,42,31,64552,0,0,Richland township
+32865,61,42,31,64904,0,0,Rimersburg borough
+32866,61,42,31,67384,0,0,St. Petersburg borough
+32867,61,42,31,67432,0,0,Salem township
+32868,61,42,31,70368,0,0,Shippenville borough
+32869,61,42,31,71176,0,0,Sligo borough
+32870,61,42,31,74728,0,0,Strattanville borough
+32871,61,42,31,76928,0,0,Toby township
+32872,61,42,31,81208,0,0,Washington township
+32873,61,42,33,4888,0,0,Beccaria township
+32874,61,42,33,5192,0,0,Bell township
+32875,61,42,33,6288,0,0,Bigler township
+32876,61,42,33,7008,0,0,Bloom township
+32877,61,42,33,7432,0,0,Boggs township
+32878,61,42,33,8032,0,0,Bradford township
+32879,61,42,33,8120,0,0,Brady township
+32880,61,42,33,8744,0,0,Brisbin borough
+32881,61,42,33,10280,0,0,Burnside borough
+32882,61,42,33,10288,0,0,Burnside township
+32883,61,42,33,13200,0,0,Chest township
+32884,61,42,33,13240,0,0,Chester Hill borough
+32885,61,42,33,14064,0,0,Clearfield borough
+32886,61,42,33,14656,0,0,Coalport borough
+32887,61,42,33,16040,0,0,Cooper township
+32888,61,42,33,16656,0,0,Covington township
+32889,61,42,33,17840,0,0,Curwensville borough
+32890,61,42,33,18456,0,0,Decatur township
+32891,61,42,33,20136,0,0,DuBois city
+32892,61,42,33,25136,0,0,Falls Creek borough
+32893,61,42,33,25632,0,0,Ferguson township
+32894,61,42,33,29224,0,0,Girard township
+32895,61,42,33,29632,0,0,Glen Hope borough
+32896,61,42,33,30152,0,0,Goshen township
+32897,61,42,33,30272,0,0,Graham township
+32898,61,42,33,30280,0,0,Grampian borough
+32899,61,42,33,31376,0,0,Greenwood township
+32900,61,42,33,31752,0,0,Gulich township
+32901,61,42,33,35928,0,0,Houtzdale borough
+32902,61,42,33,36512,0,0,Huston township
+32903,61,42,33,37192,0,0,Irvona borough
+32904,61,42,33,38432,0,0,Jordan township
+32905,61,42,33,38784,0,0,Karthaus township
+32906,61,42,33,40296,0,0,Knox township
+32907,61,42,33,41952,0,0,Lawrence township
+32908,61,42,33,46568,0,0,Mahaffey borough
+32909,61,42,33,51056,0,0,Morris township
+32910,61,42,33,53336,0,0,Newburg borough
+32911,61,42,33,54344,0,0,New Washington borough
+32912,61,42,33,57232,0,0,Osceola Mills borough
+32913,61,42,33,58816,0,0,Penn township
+32914,61,42,33,60192,0,0,Pike township
+32915,61,42,33,60288,0,0,Pine township
+32916,61,42,33,63360,0,0,Ramey borough
+32917,61,42,33,67792,0,0,Sandy township
+32918,61,42,33,77568,0,0,Troutville borough
+32919,61,42,33,78296,0,0,Union township
+32920,61,42,33,80640,0,0,Wallaceton borough
+32921,61,42,33,83736,0,0,Westover borough
+32922,61,42,33,86440,0,0,Woodward township
+32923,61,42,35,2032,0,0,Allison township
+32924,61,42,35,3632,0,0,Avis borough
+32925,61,42,35,3912,0,0,Bald Eagle township
+32926,61,42,35,4984,0,0,Beech Creek borough
+32927,61,42,35,4992,0,0,Beech Creek township
+32928,61,42,35,11640,0,0,Castanea township
+32929,61,42,35,12640,0,0,Chapman township
+32930,61,42,35,14960,0,0,Colebrook township
+32931,61,42,35,16976,0,0,Crawford township
+32932,61,42,35,20408,0,0,Dunnstable township
+32933,61,42,35,21328,0,0,East Keating township
+32934,61,42,35,26296,0,0,Flemington borough
+32935,61,42,35,28296,0,0,Gallagher township
+32936,61,42,35,30928,0,0,Greene township
+32937,61,42,35,31680,0,0,Grugan township
+32938,61,42,35,41112,0,0,Lamar township
+32939,61,42,35,42544,0,0,Leidy township
+32940,61,42,35,44128,0,0,Lock Haven city
+32941,61,42,35,44336,0,0,Logan township
+32942,61,42,35,44400,0,0,Loganton borough
+32943,61,42,35,49760,0,0,Mill Hall borough
+32944,61,42,35,55744,0,0,Noyes township
+32945,61,42,35,60360,0,0,Pine Creek township
+32946,61,42,35,62152,0,0,Porter township
+32947,61,42,35,64200,0,0,Renovo borough
+32948,61,42,35,72448,0,0,South Renovo borough
+32949,61,42,35,81728,0,0,Wayne township
+32950,61,42,35,83240,0,0,West Keating township
+32951,61,42,35,86448,0,0,Woodward township
+32952,61,42,37,3264,0,0,Ashland borough
+32953,61,42,37,4704,0,0,Beaver township
+32954,61,42,37,5680,0,0,Benton borough
+32955,61,42,37,5688,0,0,Benton township
+32956,61,42,37,5888,0,0,Berwick borough
+32957,61,42,37,7128,0,0,Bloomsburg town
+32958,61,42,37,8472,0,0,Briar Creek borough
+32959,61,42,37,8480,0,0,Briar Creek township
+32960,61,42,37,11736,0,0,Catawissa borough
+32961,61,42,37,11744,0,0,Catawissa township
+32962,61,42,37,12312,0,0,Centralia borough
+32963,61,42,37,14184,0,0,Cleveland township
+32964,61,42,37,15880,0,0,Conyngham township
+32965,61,42,37,26056,0,0,Fishing Creek township
+32966,61,42,37,27384,0,0,Franklin township
+32967,61,42,37,31392,0,0,Greenwood township
+32968,61,42,37,33760,0,0,Hemlock township
+32969,61,42,37,37360,0,0,Jackson township
+32970,61,42,37,44208,0,0,Locust township
+32971,61,42,37,46472,0,0,Madison township
+32972,61,42,37,46688,0,0,Main township
+32973,61,42,37,49256,0,0,Mifflin township
+32974,61,42,37,49944,0,0,Millville borough
+32975,61,42,37,50704,0,0,Montour township
+32976,61,42,37,51792,0,0,Mount Pleasant township
+32977,61,42,37,54880,0,0,North Centre township
+32978,61,42,37,56896,0,0,Orange township
+32979,61,42,37,56912,0,0,Orangeville borough
+32980,61,42,37,60304,0,0,Pine township
+32981,61,42,37,65240,0,0,Roaring Creek township
+32982,61,42,37,68392,0,0,Scott township
+32983,61,42,37,72040,0,0,South Centre township
+32984,61,42,37,74184,0,0,Stillwater borough
+32985,61,42,37,75048,0,0,Sugarloaf township
+32986,61,42,39,3408,0,0,Athens township
+32987,61,42,39,4720,0,0,Beaver township
+32988,61,42,39,7032,0,0,Bloomfield township
+32989,61,42,39,7120,0,0,Blooming Valley borough
+32990,61,42,39,10904,0,0,Cambridge township
+32991,61,42,39,10912,0,0,Cambridge Springs borough
+32992,61,42,39,12184,0,0,Centerville borough
+32993,61,42,39,14800,0,0,Cochranton borough
+32994,61,42,39,15728,0,0,Conneaut township
+32995,61,42,39,15744,0,0,Conneaut Lake borough
+32996,61,42,39,15760,0,0,Conneautville borough
+32997,61,42,39,17848,0,0,Cussewago township
+32998,61,42,39,21096,0,0,East Fairfield township
+32999,61,42,39,21112,0,0,East Fallowfield township
+33000,61,42,39,21504,0,0,East Mead township
+33001,61,42,39,24568,0,0,Fairfield township
+33002,61,42,39,31400,0,0,Greenwood township
+33003,61,42,39,33256,0,0,Hayfield township
+33004,61,42,39,36616,0,0,Hydetown borough
+33005,61,42,39,43656,0,0,Linesville borough
+33006,61,42,39,48360,0,0,Meadville city
+33007,61,42,39,55408,0,0,North Shenango township
+33008,61,42,39,56464,0,0,Oil Creek township
+33009,61,42,39,60312,0,0,Pine township
+33010,61,42,39,63400,0,0,Randolph township
+33011,61,42,39,64600,0,0,Richmond township
+33012,61,42,39,65440,0,0,Rockdale township
+33013,61,42,39,65960,0,0,Rome township
+33014,61,42,39,67088,0,0,Sadsbury township
+33015,61,42,39,67120,0,0,Saegertown borough
+33016,61,42,39,72472,0,0,South Shenango township
+33017,61,42,39,72688,0,0,Sparta township
+33018,61,42,39,72704,0,0,Spartansburg borough
+33019,61,42,39,72840,0,0,Spring township
+33020,61,42,39,72872,0,0,Springboro borough
+33021,61,42,39,74016,0,0,Steuben township
+33022,61,42,39,75160,0,0,Summerhill township
+33023,61,42,39,75200,0,0,Summit township
+33024,61,42,39,76904,0,0,Titusville city
+33025,61,42,39,77232,0,0,Townville borough
+33026,61,42,39,77616,0,0,Troy township
+33027,61,42,39,78304,0,0,Union township
+33028,61,42,39,79912,0,0,Venango borough
+33029,61,42,39,79920,0,0,Venango township
+33030,61,42,39,80000,0,0,Vernon township
+33031,61,42,39,81736,0,0,Wayne township
+33032,61,42,39,82944,0,0,West Fallowfield township
+33033,61,42,39,83480,0,0,West Mead township
+33034,61,42,39,84008,0,0,West Shenango township
+33035,61,42,39,86160,0,0,Woodcock borough
+33036,61,42,39,86168,0,0,Woodcock township
+33037,61,42,41,11000,0,0,Camp Hill borough
+33038,61,42,41,11272,0,0,Carlisle borough
+33039,61,42,41,15920,0,0,Cooke township
+33040,61,42,41,19144,0,0,Dickinson township
+33041,61,42,41,21680,0,0,East Pennsboro township
+33042,61,42,41,32296,0,0,Hampden township
+33043,61,42,41,35672,0,0,Hopewell township
+33044,61,42,41,42648,0,0,Lemoyne borough
+33045,61,42,41,44832,0,0,Lower Allen township
+33046,61,42,41,44904,0,0,Lower Frankford township
+33047,61,42,41,44984,0,0,Lower Mifflin township
+33048,61,42,41,48376,0,0,Mechanicsburg borough
+33049,61,42,41,49072,0,0,Middlesex township
+33050,61,42,41,50472,0,0,Monroe township
+33051,61,42,41,51592,0,0,Mount Holly Springs borough
+33052,61,42,41,53344,0,0,Newburg borough
+33053,61,42,41,53464,0,0,New Cumberland borough
+33054,61,42,41,54320,0,0,Newville borough
+33055,61,42,41,55216,0,0,North Middleton township
+33056,61,42,41,55248,0,0,North Newton township
+33057,61,42,41,58824,0,0,Penn township
+33058,61,42,41,70352,0,0,Shippensburg borough
+33059,61,42,41,70360,0,0,Shippensburg township
+33060,61,42,41,70384,0,0,Shiremanstown borough
+33061,61,42,41,70792,0,0,Silver Spring township
+33062,61,42,41,71904,0,0,Southampton township
+33063,61,42,41,72336,0,0,South Middleton township
+33064,61,42,41,72384,0,0,South Newton township
+33065,61,42,41,78736,0,0,Upper Allen township
+33066,61,42,41,79032,0,0,Upper Frankford township
+33067,61,42,41,79152,0,0,Upper Mifflin township
+33068,61,42,41,83800,0,0,West Pennsboro township
+33069,61,42,41,86528,0,0,Wormleysburg borough
+33070,61,42,43,5856,0,0,Berrysburg borough
+33071,61,42,43,15640,0,0,Conewago township
+33072,61,42,43,18272,0,0,Dauphin borough
+33073,61,42,43,18936,0,0,Derry township
+33074,61,42,43,21208,0,0,East Hanover township
+33075,61,42,43,23024,0,0,Elizabethville borough
+33076,61,42,43,30600,0,0,Gratz borough
+33077,61,42,43,32032,0,0,Halifax borough
+33078,61,42,43,32040,0,0,Halifax township
+33079,61,42,43,32800,0,0,Harrisburg city
+33080,61,42,43,34664,0,0,Highspire borough
+33081,61,42,43,36232,0,0,Hummelstown borough
+33082,61,42,43,37368,0,0,Jackson township
+33083,61,42,43,37864,0,0,Jefferson township
+33084,61,42,43,44464,0,0,Londonderry township
+33085,61,42,43,45056,0,0,Lower Paxton township
+33086,61,42,43,45120,0,0,Lower Swatara township
+33087,61,42,43,45592,0,0,Lykens borough
+33088,61,42,43,45600,0,0,Lykens township
+33089,61,42,43,49040,0,0,Middle Paxton township
+33090,61,42,43,49128,0,0,Middletown borough
+33091,61,42,43,49264,0,0,Mifflin township
+33092,61,42,43,49680,0,0,Millersburg borough
+33093,61,42,43,58504,0,0,Paxtang borough
+33094,61,42,43,58712,0,0,Penbrook borough
+33095,61,42,43,60264,0,0,Pillow borough
+33096,61,42,43,63928,0,0,Reed township
+33097,61,42,43,66560,0,0,Royalton borough
+33098,61,42,43,66744,0,0,Rush township
+33099,61,42,43,72200,0,0,South Hanover township
+33100,61,42,43,73888,0,0,Steelton borough
+33101,61,42,43,75528,0,0,Susquehanna township
+33102,61,42,43,75672,0,0,Swatara township
+33103,61,42,43,79216,0,0,Upper Paxton township
+33104,61,42,43,81216,0,0,Washington township
+33105,61,42,43,81744,0,0,Wayne township
+33106,61,42,43,83128,0,0,West Hanover township
+33107,61,42,43,84976,0,0,Wiconisco township
+33108,61,42,43,85232,0,0,Williams township
+33109,61,42,43,85320,0,0,Williamstown borough
+33110,61,42,45,676,0,0,Aldan borough
+33111,61,42,45,3336,0,0,Aston township
+33112,61,42,45,6024,0,0,Bethel township
+33113,61,42,45,9080,0,0,Brookhaven borough
+33114,61,42,45,12442,0,0,Chadds Ford township
+33115,61,42,45,13208,0,0,Chester city
+33116,61,42,45,13212,0,0,Chester township
+33117,61,42,45,13232,0,0,Chester Heights borough
+33118,61,42,45,14264,0,0,Clifton Heights borough
+33119,61,42,45,15232,0,0,Collingdale borough
+33120,61,42,45,15432,0,0,Colwyn borough
+33121,61,42,45,15488,0,0,Concord township
+33122,61,42,45,18152,0,0,Darby borough
+33123,61,42,45,18160,0,0,Darby township
+33124,61,42,45,21384,0,0,East Lansdowne borough
+33125,61,42,45,22296,0,0,Eddystone borough
+33126,61,42,45,22584,0,0,Edgmont township
+33127,61,42,45,26408,0,0,Folcroft borough
+33128,61,42,45,29720,0,0,Glenolden borough
+33129,61,42,45,33144,0,0,Haverford township
+33130,61,42,45,41440,0,0,Lansdowne borough
+33131,61,42,45,44888,0,0,Lower Chichester township
+33132,61,42,45,47344,0,0,Marcus Hook borough
+33133,61,42,45,47616,0,0,Marple township
+33134,61,42,45,48480,0,0,Media borough
+33135,61,42,45,49136,0,0,Middletown township
+33136,61,42,45,49504,0,0,Millbourne borough
+33137,61,42,45,51176,0,0,Morton borough
+33138,61,42,45,53104,0,0,Nether Providence township
+33139,61,42,45,54224,0,0,Newtown township
+33140,61,42,45,55664,0,0,Norwood borough
+33141,61,42,45,58176,0,0,Parkside borough
+33142,61,42,45,62792,0,0,Prospect Park borough
+33143,61,42,45,63264,0,0,Radnor township
+33144,61,42,45,64800,0,0,Ridley township
+33145,61,42,45,64832,0,0,Ridley Park borough
+33146,61,42,45,66192,0,0,Rose Valley borough
+33147,61,42,45,66928,0,0,Rutledge borough
+33148,61,42,45,69752,0,0,Sharon Hill borough
+33149,61,42,45,73032,0,0,Springfield township
+33150,61,42,45,75648,0,0,Swarthmore borough
+33151,61,42,45,76576,0,0,Thornbury township
+33152,61,42,45,76792,0,0,Tinicum township
+33153,61,42,45,77288,0,0,Trainer borough
+33154,61,42,45,78712,0,0,Upland borough
+33155,61,42,45,78776,0,0,Upper Chichester township
+33156,61,42,45,79000,0,0,Upper Darby township
+33157,61,42,45,79248,0,0,Upper Providence township
+33158,61,42,45,86968,0,0,Yeadon borough
+33159,61,42,47,5576,0,0,Benezette township
+33160,61,42,47,27088,0,0,Fox township
+33161,61,42,47,34464,0,0,Highland township
+33162,61,42,47,35816,0,0,Horton township
+33163,61,42,47,37760,0,0,Jay township
+33164,61,42,47,38248,0,0,Johnsonburg borough
+33165,61,42,47,38368,0,0,Jones township
+33166,61,42,47,49888,0,0,Millstone township
+33167,61,42,47,64784,0,0,Ridgway borough
+33168,61,42,47,64792,0,0,Ridgway township
+33169,61,42,47,67344,0,0,St. Marys city
+33170,61,42,47,72928,0,0,Spring Creek township
+33171,61,42,49,628,0,0,Albion borough
+33172,61,42,49,2336,0,0,Amity township
+33173,61,42,49,15504,0,0,Concord township
+33174,61,42,49,15736,0,0,Conneaut township
+33175,61,42,49,16296,0,0,Corry city
+33176,61,42,49,16960,0,0,Cranesville borough
+33177,61,42,49,22608,0,0,Edinboro borough
+33178,61,42,49,22960,0,0,Elgin borough
+33179,61,42,49,23088,0,0,Elk Creek township
+33180,61,42,49,24000,0,0,Erie city
+33181,61,42,49,24864,0,0,Fairview township
+33182,61,42,49,27392,0,0,Franklin township
+33183,61,42,49,29232,0,0,Girard borough
+33184,61,42,49,29240,0,0,Girard township
+33185,61,42,49,30936,0,0,Greene township
+33186,61,42,49,31008,0,0,Greenfield township
+33187,61,42,49,32520,0,0,Harborcreek township
+33188,61,42,49,40960,0,0,Lake City borough
+33189,61,42,49,41984,0,0,Lawrence Park township
+33190,61,42,49,42208,0,0,LeBoeuf township
+33191,61,42,49,46216,0,0,McKean borough
+33192,61,42,49,46224,0,0,McKean township
+33193,61,42,49,49548,0,0,Millcreek township
+33194,61,42,49,49936,0,0,Mill Village borough
+33195,61,42,49,54952,0,0,North East borough
+33196,61,42,49,54960,0,0,North East township
+33197,61,42,49,61168,0,0,Platea borough
+33198,61,42,49,73048,0,0,Springfield township
+33199,61,42,49,75208,0,0,Summit township
+33200,61,42,49,78312,0,0,Union township
+33201,61,42,49,78448,0,0,Union City borough
+33202,61,42,49,79928,0,0,Venango township
+33203,61,42,49,81224,0,0,Washington township
+33204,61,42,49,81456,0,0,Waterford borough
+33205,61,42,49,81472,0,0,Waterford township
+33206,61,42,49,81648,0,0,Wattsburg borough
+33207,61,42,49,81760,0,0,Wayne township
+33208,61,42,49,82344,0,0,Wesleyville borough
+33209,61,42,51,5288,0,0,Belle Vernon borough
+33210,61,42,51,9432,0,0,Brownsville borough
+33211,61,42,51,9434,0,0,Brownsville township
+33212,61,42,51,10152,0,0,Bullskin township
+33213,61,42,51,15776,0,0,Connellsville city
+33214,61,42,51,15784,0,0,Connellsville township
+33215,61,42,51,18360,0,0,Dawson borough
+33216,61,42,51,20216,0,0,Dunbar borough
+33217,61,42,51,20224,0,0,Dunbar township
+33218,61,42,51,24336,0,0,Everson borough
+33219,61,42,51,24536,0,0,Fairchance borough
+33220,61,42,51,25456,0,0,Fayette City borough
+33221,61,42,51,27400,0,0,Franklin township
+33222,61,42,51,28792,0,0,Georges township
+33223,61,42,51,28856,0,0,German township
+33224,61,42,51,33896,0,0,Henry Clay township
+33225,61,42,51,37872,0,0,Jefferson township
+33226,61,42,51,45144,0,0,Lower Tyrone township
+33227,61,42,51,45560,0,0,Luzerne township
+33228,61,42,51,47560,0,0,Markleysburg borough
+33229,61,42,51,48000,0,0,Masontown borough
+33230,61,42,51,48616,0,0,Menallen township
+33231,61,42,51,53504,0,0,Newell borough
+33232,61,42,51,54392,0,0,Nicholson township
+33233,61,42,51,55464,0,0,North Union township
+33234,61,42,51,56408,0,0,Ohiopyle borough
+33235,61,42,51,59464,0,0,Perry township
+33236,61,42,51,59520,0,0,Perryopolis borough
+33237,61,42,51,61864,0,0,Point Marion borough
+33238,61,42,51,63904,0,0,Redstone township
+33239,61,42,51,67640,0,0,Saltlick township
+33240,61,42,51,69336,0,0,Seven Springs borough
+33241,61,42,51,71320,0,0,Smithfield borough
+33242,61,42,51,72080,0,0,South Connellsville borough
+33243,61,42,51,72544,0,0,South Union township
+33244,61,42,51,73064,0,0,Springfield township
+33245,61,42,51,73240,0,0,Springhill township
+33246,61,42,51,74080,0,0,Stewart township
+33247,61,42,51,78528,0,0,Uniontown city
+33248,61,42,51,79344,0,0,Upper Tyrone township
+33249,61,42,51,79768,0,0,Vanderbilt borough
+33250,61,42,51,81232,0,0,Washington township
+33251,61,42,51,84344,0,0,Wharton township
+33252,61,42,53,4224,0,0,Barnett township
+33253,61,42,53,30808,0,0,Green township
+33254,61,42,53,32704,0,0,Harmony township
+33255,61,42,53,34240,0,0,Hickory township
+33256,61,42,53,35992,0,0,Howe township
+33257,61,42,53,38016,0,0,Jenks township
+33258,61,42,53,39760,0,0,Kingsley township
+33259,61,42,53,76848,0,0,Tionesta borough
+33260,61,42,53,76864,0,0,Tionesta township
+33261,61,42,55,2696,0,0,Antrim township
+33262,61,42,55,12536,0,0,Chambersburg borough
+33263,61,42,55,25176,0,0,Fannett township
+33264,61,42,55,30896,0,0,Greencastle borough
+33265,61,42,55,30944,0,0,Greene township
+33266,61,42,55,31720,0,0,Guilford township
+33267,61,42,55,32152,0,0,Hamilton township
+33268,61,42,55,42888,0,0,Letterkenny township
+33269,61,42,55,45496,0,0,Lurgan township
+33270,61,42,55,48704,0,0,Mercersburg borough
+33271,61,42,55,48888,0,0,Metal township
+33272,61,42,55,50544,0,0,Mont Alto borough
+33273,61,42,55,50616,0,0,Montgomery township
+33274,61,42,55,57112,0,0,Orrstown borough
+33275,61,42,55,59600,0,0,Peters township
+33276,61,42,55,63200,0,0,Quincy township
+33277,61,42,55,67400,0,0,St. Thomas township
+33278,61,42,55,70352,0,0,Shippensburg borough
+33279,61,42,55,71912,0,0,Southampton township
+33280,61,42,55,80992,0,0,Warren township
+33281,61,42,55,81240,0,0,Washington township
+33282,61,42,55,81824,0,0,Waynesboro borough
+33283,61,42,57,3704,0,0,Ayr township
+33284,61,42,57,5144,0,0,Belfast township
+33285,61,42,57,6032,0,0,Bethel township
+33286,61,42,57,9568,0,0,Brush Creek township
+33287,61,42,57,20112,0,0,Dublin township
+33288,61,42,57,43200,0,0,Licking Creek township
+33289,61,42,57,46000,0,0,McConnellsburg borough
+33290,61,42,57,76176,0,0,Taylor township
+33291,61,42,57,76488,0,0,Thompson township
+33292,61,42,57,76984,0,0,Todd township
+33293,61,42,57,78320,0,0,Union township
+33294,61,42,57,79644,0,0,Valley-Hi borough
+33295,61,42,57,82152,0,0,Wells township
+33296,61,42,59,740,0,0,Aleppo township
+33297,61,42,59,11328,0,0,Carmichaels borough
+33298,61,42,59,12032,0,0,Center township
+33299,61,42,59,13896,0,0,Clarksville borough
+33300,61,42,59,17648,0,0,Cumberland township
+33301,61,42,59,20296,0,0,Dunkard township
+33302,61,42,59,27408,0,0,Franklin township
+33303,61,42,59,27800,0,0,Freeport township
+33304,61,42,59,29152,0,0,Gilmore township
+33305,61,42,59,30640,0,0,Gray township
+33306,61,42,59,30952,0,0,Greene township
+33307,61,42,59,31192,0,0,Greensboro borough
+33308,61,42,59,37376,0,0,Jackson township
+33309,61,42,59,37880,0,0,Jefferson borough
+33310,61,42,59,37888,0,0,Jefferson township
+33311,61,42,59,50400,0,0,Monongahela township
+33312,61,42,59,50992,0,0,Morgan township
+33313,61,42,59,51064,0,0,Morris township
+33314,61,42,59,59472,0,0,Perry township
+33315,61,42,59,64432,0,0,Rices Landing borough
+33316,61,42,59,64512,0,0,Richhill township
+33317,61,42,59,73248,0,0,Springhill township
+33318,61,42,59,81248,0,0,Washington township
+33319,61,42,59,81768,0,0,Wayne township
+33320,61,42,59,81832,0,0,Waynesburg borough
+33321,61,42,59,84608,0,0,Whiteley township
+33322,61,42,61,756,0,0,Alexandria borough
+33323,61,42,61,4288,0,0,Barree township
+33324,61,42,61,6560,0,0,Birmingham borough
+33325,61,42,61,8128,0,0,Brady township
+33326,61,42,61,8896,0,0,Broad Top City borough
+33327,61,42,61,11208,0,0,Carbon township
+33328,61,42,61,11600,0,0,Cass township
+33329,61,42,61,11632,0,0,Cassville borough
+33330,61,42,61,13944,0,0,Clay township
+33331,61,42,61,14640,0,0,Coalmont borough
+33332,61,42,61,17280,0,0,Cromwell township
+33333,61,42,61,20120,0,0,Dublin township
+33334,61,42,61,20152,0,0,Dudley borough
+33335,61,42,61,27416,0,0,Franklin township
+33336,61,42,61,33808,0,0,Henderson township
+33337,61,42,61,35688,0,0,Hopewell township
+33338,61,42,61,36368,0,0,Huntingdon borough
+33339,61,42,61,37384,0,0,Jackson township
+33340,61,42,61,38608,0,0,Juniata township
+33341,61,42,61,43424,0,0,Lincoln township
+33342,61,42,61,44344,0,0,Logan township
+33343,61,42,61,47248,0,0,Mapleton borough
+33344,61,42,61,47544,0,0,Marklesburg borough
+33345,61,42,61,49552,0,0,Mill Creek borough
+33346,61,42,61,49624,0,0,Miller township
+33347,61,42,61,51080,0,0,Morris township
+33348,61,42,61,51984,0,0,Mount Union borough
+33349,61,42,61,56808,0,0,Oneida township
+33350,61,42,61,56928,0,0,Orbisonia borough
+33351,61,42,61,58832,0,0,Penn township
+33352,61,42,61,59616,0,0,Petersburg borough
+33353,61,42,61,62160,0,0,Porter township
+33354,61,42,61,65496,0,0,Rockhill borough
+33355,61,42,61,67632,0,0,Saltillo borough
+33356,61,42,61,69456,0,0,Shade Gap borough
+33357,61,42,61,70400,0,0,Shirley township
+33358,61,42,61,70408,0,0,Shirleysburg borough
+33359,61,42,61,71328,0,0,Smithfield township
+33360,61,42,61,73072,0,0,Springfield township
+33361,61,42,61,73488,0,0,Spruce Creek township
+33362,61,42,61,76312,0,0,Tell township
+33363,61,42,61,76632,0,0,Three Springs borough
+33364,61,42,61,77000,0,0,Todd township
+33365,61,42,61,78328,0,0,Union township
+33366,61,42,61,80560,0,0,Walker township
+33367,61,42,61,81104,0,0,Warriors Mark township
+33368,61,42,61,82352,0,0,West township
+33369,61,42,61,86080,0,0,Wood township
+33370,61,42,63,3032,0,0,Armagh borough
+33371,61,42,63,3064,0,0,Armstrong township
+33372,61,42,63,4056,0,0,Banks township
+33373,61,42,63,6752,0,0,Black Lick township
+33374,61,42,63,6904,0,0,Blairsville borough
+33375,61,42,63,9624,0,0,Brush Valley township
+33376,61,42,63,10104,0,0,Buffington township
+33377,61,42,63,10352,0,0,Burrell township
+33378,61,42,63,11120,0,0,Canoe township
+33379,61,42,63,12040,0,0,Center township
+33380,61,42,63,13072,0,0,Cherryhill township
+33381,61,42,63,13120,0,0,Cherry Tree borough
+33382,61,42,63,14520,0,0,Clymer borough
+33383,61,42,63,15560,0,0,Conemaugh township
+33384,61,42,63,17024,0,0,Creekside borough
+33385,61,42,63,21456,0,0,East Mahoning township
+33386,61,42,63,22048,0,0,East Wheatfield township
+33387,61,42,63,24040,0,0,Ernest borough
+33388,61,42,63,29512,0,0,Glen Campbell borough
+33389,61,42,63,30416,0,0,Grant township
+33390,61,42,63,30816,0,0,Green township
+33391,61,42,63,35408,0,0,Homer City borough
+33392,61,42,63,36816,0,0,Indiana borough
+33393,61,42,63,47472,0,0,Marion Center borough
+33394,61,42,63,50624,0,0,Montgomery township
+33395,61,42,63,55184,0,0,North Mahoning township
+33396,61,42,63,60320,0,0,Pine township
+33397,61,42,63,61632,0,0,Plumville borough
+33398,61,42,63,63584,0,0,Rayne township
+33399,61,42,63,67648,0,0,Saltsburg borough
+33400,61,42,63,70040,0,0,Shelocta borough
+33401,61,42,63,71256,0,0,Smicksburg borough
+33402,61,42,63,72304,0,0,South Mahoning township
+33403,61,42,63,81256,0,0,Washington township
+33404,61,42,63,83416,0,0,West Mahoning township
+33405,61,42,63,84184,0,0,West Wheatfield township
+33406,61,42,63,84472,0,0,White township
+33407,61,42,63,87160,0,0,Young township
+33408,61,42,65,4240,0,0,Barnett township
+33409,61,42,65,4728,0,0,Beaver township
+33410,61,42,65,5200,0,0,Bell township
+33411,61,42,65,6344,0,0,Big Run borough
+33412,61,42,65,8960,0,0,Brockway borough
+33413,61,42,65,9224,0,0,Brookville borough
+33414,61,42,65,14408,0,0,Clover township
+33415,61,42,65,16304,0,0,Corsica borough
+33416,61,42,65,22872,0,0,Eldred township
+33417,61,42,65,25136,0,0,Falls Creek borough
+33418,61,42,65,28592,0,0,Gaskill township
+33419,61,42,65,33448,0,0,Heath township
+33420,61,42,65,33816,0,0,Henderson township
+33421,61,42,65,40304,0,0,Knox township
+33422,61,42,65,45888,0,0,McCalmont township
+33423,61,42,65,56712,0,0,Oliver township
+33424,61,42,65,59480,0,0,Perry township
+33425,61,42,65,60368,0,0,Pine Creek township
+33426,61,42,65,61920,0,0,Polk township
+33427,61,42,65,62176,0,0,Porter township
+33428,61,42,65,62920,0,0,Punxsutawney borough
+33429,61,42,65,64376,0,0,Reynoldsville borough
+33430,61,42,65,64960,0,0,Ringgold township
+33431,61,42,65,66032,0,0,Rose township
+33432,61,42,65,71632,0,0,Snyder township
+33433,61,42,65,75168,0,0,Summerville borough
+33434,61,42,65,75888,0,0,Sykesville borough
+33435,61,42,65,76744,0,0,Timblin borough
+33436,61,42,65,78336,0,0,Union township
+33437,61,42,65,81120,0,0,Warsaw township
+33438,61,42,65,81264,0,0,Washington township
+33439,61,42,65,85840,0,0,Winslow township
+33440,61,42,65,86568,0,0,Worthville borough
+33441,61,42,65,87168,0,0,Young township
+33442,61,42,67,4560,0,0,Beale township
+33443,61,42,67,18680,0,0,Delaware township
+33444,61,42,67,25440,0,0,Fayette township
+33445,61,42,67,25648,0,0,Fermanagh township
+33446,61,42,67,31424,0,0,Greenwood township
+33447,61,42,67,40752,0,0,Lack township
+33448,61,42,67,49272,0,0,Mifflin borough
+33449,61,42,67,49304,0,0,Mifflintown borough
+33450,61,42,67,49392,0,0,Milford township
+33451,61,42,67,50480,0,0,Monroe township
+33452,61,42,67,62304,0,0,Port Royal borough
+33453,61,42,67,73504,0,0,Spruce Hill township
+33454,61,42,67,75536,0,0,Susquehanna township
+33455,61,42,67,76536,0,0,Thompsontown borough
+33456,61,42,67,77824,0,0,Turbett township
+33457,61,42,67,77952,0,0,Tuscarora township
+33458,61,42,67,80568,0,0,Walker township
+33459,61,42,69,2832,0,0,Archbald borough
+33460,61,42,69,5696,0,0,Benton township
+33461,61,42,69,6928,0,0,Blakely borough
+33462,61,42,69,11232,0,0,Carbondale city
+33463,61,42,69,11240,0,0,Carbondale township
+33464,61,42,69,13864,0,0,Clarks Green borough
+33465,61,42,69,13880,0,0,Clarks Summit borough
+33466,61,42,69,14256,0,0,Clifton township
+33467,61,42,69,16664,0,0,Covington township
+33468,61,42,69,18088,0,0,Dalton borough
+33469,61,42,69,19160,0,0,Dickson City borough
+33470,61,42,69,20352,0,0,Dunmore borough
+33471,61,42,69,23336,0,0,Elmhurst township
+33472,61,42,69,25560,0,0,Fell township
+33473,61,42,69,29504,0,0,Glenburn township
+33474,61,42,69,31016,0,0,Greenfield township
+33475,61,42,69,37896,0,0,Jefferson township
+33476,61,42,69,38096,0,0,Jermyn borough
+33477,61,42,69,38160,0,0,Jessup borough
+33478,61,42,69,41504,0,0,La Plume township
+33479,61,42,69,46480,0,0,Madison township
+33480,61,42,69,48176,0,0,Mayfield borough
+33481,61,42,69,50880,0,0,Moosic borough
+33482,61,42,69,51208,0,0,Moscow borough
+33483,61,42,69,54136,0,0,Newton township
+33484,61,42,69,54680,0,0,North Abington township
+33485,61,42,69,56576,0,0,Old Forge borough
+33486,61,42,69,56792,0,0,Olyphant borough
+33487,61,42,69,63432,0,0,Ransom township
+33488,61,42,69,65224,0,0,Roaring Brook township
+33489,61,42,69,68400,0,0,Scott township
+33490,61,42,69,69000,0,0,Scranton city
+33491,61,42,69,71872,0,0,South Abington township
+33492,61,42,69,72896,0,0,Spring Brook township
+33493,61,42,69,76184,0,0,Taylor borough
+33494,61,42,69,76601,0,0,Thornhurst township
+33495,61,42,69,76648,0,0,Throop borough
+33496,61,42,69,79792,0,0,Vandling borough
+33497,61,42,69,81668,0,0,Waverly township
+33498,61,42,69,82360,0,0,West Abington township
+33499,61,42,71,364,0,0,Adamstown borough
+33500,61,42,71,540,0,0,Akron borough
+33501,61,42,71,4376,0,0,Bart township
+33502,61,42,71,8352,0,0,Brecknock township
+33503,61,42,71,10704,0,0,Caernarvon township
+33504,61,42,71,13512,0,0,Christiana borough
+33505,61,42,71,13960,0,0,Clay township
+33506,61,42,71,15056,0,0,Colerain township
+33507,61,42,71,15384,0,0,Columbia borough
+33508,61,42,71,15592,0,0,Conestoga township
+33509,61,42,71,15824,0,0,Conoy township
+33510,61,42,71,18888,0,0,Denver borough
+33511,61,42,71,20032,0,0,Drumore township
+33512,61,42,71,20688,0,0,Earl township
+33513,61,42,71,20984,0,0,East Cocalico township
+33514,61,42,71,21032,0,0,East Donegal township
+33515,61,42,71,21040,0,0,East Drumore township
+33516,61,42,71,21072,0,0,East Earl township
+33517,61,42,71,21232,0,0,East Hempfield township
+33518,61,42,71,21344,0,0,East Lampeter township
+33519,61,42,71,21688,0,0,East Petersburg borough
+33520,61,42,71,22336,0,0,Eden township
+33521,61,42,71,23008,0,0,Elizabeth township
+33522,61,42,71,23016,0,0,Elizabethtown borough
+33523,61,42,71,23832,0,0,Ephrata borough
+33524,61,42,71,23840,0,0,Ephrata township
+33525,61,42,71,28168,0,0,Fulton township
+33526,61,42,71,41216,0,0,Lancaster city
+33527,61,42,71,41224,0,0,Lancaster township
+33528,61,42,71,42080,0,0,Leacock township
+33529,61,42,71,43816,0,0,Lititz borough
+33530,61,42,71,43832,0,0,Little Britain township
+33531,61,42,71,46888,0,0,Manheim borough
+33532,61,42,71,46896,0,0,Manheim township
+33533,61,42,71,46992,0,0,Manor township
+33534,61,42,71,47424,0,0,Marietta borough
+33535,61,42,71,47824,0,0,Martic township
+33536,61,42,71,49728,0,0,Millersville borough
+33537,61,42,71,51656,0,0,Mount Joy borough
+33538,61,42,71,51664,0,0,Mount Joy township
+33539,61,42,71,52016,0,0,Mountville borough
+33540,61,42,71,53696,0,0,New Holland borough
+33541,61,42,71,57848,0,0,Paradise township
+33542,61,42,71,58840,0,0,Penn township
+33543,61,42,71,59360,0,0,Pequea township
+33544,61,42,71,62832,0,0,Providence township
+33545,61,42,71,63064,0,0,Quarryville borough
+33546,61,42,71,63440,0,0,Rapho township
+33547,61,42,71,67096,0,0,Sadsbury township
+33548,61,42,71,67568,0,0,Salisbury township
+33549,61,42,71,74712,0,0,Strasburg borough
+33550,61,42,71,74720,0,0,Strasburg township
+33551,61,42,71,76400,0,0,Terre Hill borough
+33552,61,42,71,79080,0,0,Upper Leacock township
+33553,61,42,71,81168,0,0,Warwick township
+33554,61,42,71,82728,0,0,West Cocalico township
+33555,61,42,71,82816,0,0,West Donegal township
+33556,61,42,71,82824,0,0,West Earl township
+33557,61,42,71,83152,0,0,West Hempfield township
+33558,61,42,71,83256,0,0,West Lampeter township
+33559,61,42,73,5936,0,0,Bessemer borough
+33560,61,42,73,23280,0,0,Ellport borough
+33561,61,42,73,23304,0,0,Ellwood City borough
+33562,61,42,73,23768,0,0,Enon Valley borough
+33563,61,42,73,34248,0,0,Hickory township
+33564,61,42,73,43824,0,0,Little Beaver township
+33565,61,42,73,46648,0,0,Mahoning township
+33566,61,42,73,53064,0,0,Neshannock township
+33567,61,42,73,53184,0,0,New Beaver borough
+33568,61,42,73,53368,0,0,New Castle city
+33569,61,42,73,54352,0,0,New Wilmington borough
+33570,61,42,73,54768,0,0,North Beaver township
+33571,61,42,73,59488,0,0,Perry township
+33572,61,42,73,61104,0,0,Plain Grove township
+33573,61,42,73,62904,0,0,Pulaski township
+33574,61,42,73,68408,0,0,Scott township
+33575,61,42,73,70080,0,0,Shenango township
+33576,61,42,73,71200,0,0,Slippery Rock township
+33577,61,42,73,71620,0,0,S.N.P.J. borough
+33578,61,42,73,72376,0,0,South New Castle borough
+33579,61,42,73,76192,0,0,Taylor township
+33580,61,42,73,78368,0,0,Union township
+33581,61,42,73,80368,0,0,Volant borough
+33582,61,42,73,80880,0,0,Wampum borough
+33583,61,42,73,81272,0,0,Washington township
+33584,61,42,73,81776,0,0,Wayne township
+33585,61,42,73,85504,0,0,Wilmington township
+33586,61,42,75,2600,0,0,Annville township
+33587,61,42,75,6040,0,0,Bethel township
+33588,61,42,75,14160,0,0,Cleona borough
+33589,61,42,75,14944,0,0,Cold Spring township
+33590,61,42,75,16256,0,0,Cornwall borough
+33591,61,42,75,21224,0,0,East Hanover township
+33592,61,42,75,33608,0,0,Heidelberg township
+33593,61,42,75,37392,0,0,Jackson township
+33594,61,42,75,38400,0,0,Jonestown borough
+33595,61,42,75,42168,0,0,Lebanon city
+33596,61,42,75,49560,0,0,Millcreek township
+33597,61,42,75,51568,0,0,Mount Gretna borough
+33598,61,42,75,52488,0,0,Myerstown borough
+33599,61,42,75,54720,0,0,North Annville township
+33600,61,42,75,54928,0,0,North Cornwall township
+33601,61,42,75,55160,0,0,North Lebanon township
+33602,61,42,75,55176,0,0,North Londonderry township
+33603,61,42,75,57720,0,0,Palmyra borough
+33604,61,42,75,64560,0,0,Richland borough
+33605,61,42,75,71928,0,0,South Annville township
+33606,61,42,75,72288,0,0,South Lebanon township
+33607,61,42,75,72296,0,0,South Londonderry township
+33608,61,42,75,75680,0,0,Swatara township
+33609,61,42,75,78376,0,0,Union township
+33610,61,42,75,82752,0,0,West Cornwall township
+33611,61,42,75,83312,0,0,West Lebanon township
+33612,61,42,77,660,0,0,Alburtis borough
+33613,61,42,77,2000,0,0,Allentown city
+33614,61,42,77,6088,0,0,Bethlehem city
+33615,61,42,77,11720,0,0,Catasauqua borough
+33616,61,42,77,16056,0,0,Coopersburg borough
+33617,61,42,77,16128,0,0,Coplay borough
+33618,61,42,77,23584,0,0,Emmaus borough
+33619,61,42,77,27008,0,0,Fountain Hill borough
+33620,61,42,77,32400,0,0,Hanover township
+33621,61,42,77,33616,0,0,Heidelberg township
+33622,61,42,77,44952,0,0,Lower Macungie township
+33623,61,42,77,44992,0,0,Lower Milford township
+33624,61,42,77,45168,0,0,Lowhill township
+33625,61,42,77,45656,0,0,Lynn township
+33626,61,42,77,46392,0,0,Macungie borough
+33627,61,42,77,55576,0,0,North Whitehall township
+33628,61,42,77,67576,0,0,Salisbury township
+33629,61,42,77,71144,0,0,Slatington borough
+33630,61,42,77,72632,0,0,South Whitehall township
+33631,61,42,77,79104,0,0,Upper Macungie township
+33632,61,42,77,79160,0,0,Upper Milford township
+33633,61,42,77,79288,0,0,Upper Saucon township
+33634,61,42,77,81280,0,0,Washington township
+33635,61,42,77,82064,0,0,Weisenberg township
+33636,61,42,77,84528,0,0,Whitehall township
+33637,61,42,79,3272,0,0,Ashley borough
+33638,61,42,79,3640,0,0,Avoca borough
+33639,61,42,79,4592,0,0,Bear Creek township
+33640,61,42,79,4599,0,0,Bear Creek Village borough
+33641,61,42,79,6672,0,0,Black Creek township
+33642,61,42,79,9760,0,0,Buck township
+33643,61,42,79,10480,0,0,Butler township
+33644,61,42,79,15888,0,0,Conyngham borough
+33645,61,42,79,15904,0,0,Conyngham township
+33646,61,42,79,16568,0,0,Courtdale borough
+33647,61,42,79,18048,0,0,Dallas borough
+33648,61,42,79,18056,0,0,Dallas township
+33649,61,42,79,18868,0,0,Dennison township
+33650,61,42,79,19616,0,0,Dorrance township
+33651,61,42,79,20424,0,0,Dupont borough
+33652,61,42,79,20512,0,0,Duryea borough
+33653,61,42,79,22672,0,0,Edwardsville borough
+33654,61,42,79,24392,0,0,Exeter borough
+33655,61,42,79,24400,0,0,Exeter township
+33656,61,42,79,24752,0,0,Fairmount township
+33657,61,42,79,24888,0,0,Fairview township
+33658,61,42,79,26880,0,0,Forty Fort borough
+33659,61,42,79,26928,0,0,Foster township
+33660,61,42,79,27424,0,0,Franklin township
+33661,61,42,79,27744,0,0,Freeland borough
+33662,61,42,79,32416,0,0,Hanover township
+33663,61,42,79,33000,0,0,Harveys Lake borough
+33664,61,42,79,33376,0,0,Hazle township
+33665,61,42,79,33408,0,0,Hazleton city
+33666,61,42,79,35192,0,0,Hollenback township
+33667,61,42,79,36152,0,0,Hughestown borough
+33668,61,42,79,36296,0,0,Hunlock township
+33669,61,42,79,36432,0,0,Huntington township
+33670,61,42,79,37400,0,0,Jackson township
+33671,61,42,79,37792,0,0,Jeddo borough
+33672,61,42,79,37984,0,0,Jenkins township
+33673,61,42,79,39784,0,0,Kingston borough
+33674,61,42,79,39792,0,0,Kingston township
+33675,61,42,79,40848,0,0,Laflin borough
+33676,61,42,79,40920,0,0,Lake township
+33677,61,42,79,41608,0,0,Larksville borough
+33678,61,42,79,41848,0,0,Laurel Run borough
+33679,61,42,79,42504,0,0,Lehman township
+33680,61,42,79,45568,0,0,Luzerne borough
+33681,61,42,79,52584,0,0,Nanticoke city
+33682,61,42,79,52984,0,0,Nescopeck borough
+33683,61,42,79,52992,0,0,Nescopeck township
+33684,61,42,79,53448,0,0,New Columbus borough
+33685,61,42,79,53960,0,0,Newport township
+33686,61,42,79,55752,0,0,Nuangola borough
+33687,61,42,79,59054,0,0,Penn Lake Park borough
+33688,61,42,79,61048,0,0,Pittston city
+33689,61,42,79,61056,0,0,Pittston township
+33690,61,42,79,61120,0,0,Plains township
+33691,61,42,79,61648,0,0,Plymouth borough
+33692,61,42,79,61656,0,0,Plymouth township
+33693,61,42,79,62712,0,0,Pringle borough
+33694,61,42,79,64424,0,0,Rice township
+33695,61,42,79,66272,0,0,Ross township
+33696,61,42,79,67456,0,0,Salem township
+33697,61,42,79,70224,0,0,Shickshinny borough
+33698,61,42,79,71216,0,0,Slocum township
+33699,61,42,79,75064,0,0,Sugarloaf township
+33700,61,42,79,75072,0,0,Sugar Notch borough
+33701,61,42,79,75832,0,0,Swoyersville borough
+33702,61,42,79,78384,0,0,Union township
+33703,61,42,79,81080,0,0,Warrior Run borough
+33704,61,42,79,83136,0,0,West Hazleton borough
+33705,61,42,79,83856,0,0,West Pittston borough
+33706,61,42,79,84272,0,0,West Wyoming borough
+33707,61,42,79,84552,0,0,White Haven borough
+33708,61,42,79,85152,0,0,Wilkes-Barre city
+33709,61,42,79,85160,0,0,Wilkes-Barre township
+33710,61,42,79,86584,0,0,Wright township
+33711,61,42,79,86856,0,0,Wyoming borough
+33712,61,42,79,86952,0,0,Yatesville borough
+33713,61,42,81,2656,0,0,Anthony township
+33714,61,42,81,3072,0,0,Armstrong township
+33715,61,42,81,4424,0,0,Bastress township
+33716,61,42,81,8136,0,0,Brady township
+33717,61,42,81,9280,0,0,Brown township
+33718,61,42,81,11560,0,0,Cascade township
+33719,61,42,81,14336,0,0,Clinton township
+33720,61,42,81,14872,0,0,Cogan House township
+33721,61,42,81,17696,0,0,Cummings township
+33722,61,42,81,20144,0,0,Duboistown borough
+33723,61,42,81,22880,0,0,Eldred township
+33724,61,42,81,24592,0,0,Fairfield township
+33725,61,42,81,27432,0,0,Franklin township
+33726,61,42,81,28352,0,0,Gamble township
+33727,61,42,81,33944,0,0,Hepburn township
+33728,61,42,81,36160,0,0,Hughesville borough
+33729,61,42,81,37408,0,0,Jackson township
+33730,61,42,81,38128,0,0,Jersey Shore borough
+33731,61,42,81,38448,0,0,Jordan township
+33732,61,42,81,42944,0,0,Lewis township
+33733,61,42,81,43352,0,0,Limestone township
+33734,61,42,81,45224,0,0,Loyalsock township
+33735,61,42,81,45584,0,0,Lycoming township
+33736,61,42,81,46184,0,0,McHenry township
+33737,61,42,81,46208,0,0,McIntyre township
+33738,61,42,81,46352,0,0,McNett township
+33739,61,42,81,49280,0,0,Mifflin township
+33740,61,42,81,49568,0,0,Mill Creek township
+33741,61,42,81,50632,0,0,Montgomery borough
+33742,61,42,81,50720,0,0,Montoursville borough
+33743,61,42,81,50936,0,0,Moreland township
+33744,61,42,81,52264,0,0,Muncy borough
+33745,61,42,81,52280,0,0,Muncy township
+33746,61,42,81,52288,0,0,Muncy Creek township
+33747,61,42,81,54504,0,0,Nippenose township
+33748,61,42,81,56608,0,0,Old Lycoming township
+33749,61,42,81,58848,0,0,Penn township
+33750,61,42,81,60128,0,0,Piatt township
+33751,61,42,81,60136,0,0,Picture Rocks borough
+33752,61,42,81,60328,0,0,Pine township
+33753,61,42,81,61640,0,0,Plunketts Creek township
+33754,61,42,81,62184,0,0,Porter township
+33755,61,42,81,67616,0,0,Salladasburg borough
+33756,61,42,81,70552,0,0,Shrewsbury township
+33757,61,42,81,72648,0,0,South Williamsport borough
+33758,61,42,81,75544,0,0,Susquehanna township
+33759,61,42,81,79024,0,0,Upper Fairfield township
+33760,61,42,81,81288,0,0,Washington township
+33761,61,42,81,81576,0,0,Watson township
+33762,61,42,81,85312,0,0,Williamsport city
+33763,61,42,81,85984,0,0,Wolf township
+33764,61,42,81,86456,0,0,Woodward township
+33765,61,42,83,2576,0,0,Annin township
+33766,61,42,83,8040,0,0,Bradford city
+33767,61,42,83,8048,0,0,Bradford township
+33768,61,42,83,12408,0,0,Ceres township
+33769,61,42,83,16352,0,0,Corydon township
+33770,61,42,83,22888,0,0,Eldred borough
+33771,61,42,83,22896,0,0,Eldred township
+33772,61,42,83,26936,0,0,Foster township
+33773,61,42,83,32168,0,0,Hamilton township
+33774,61,42,83,32232,0,0,Hamlin township
+33775,61,42,83,38688,0,0,Kane borough
+33776,61,42,83,38912,0,0,Keating township
+33777,61,42,83,40808,0,0,Lafayette township
+33778,61,42,83,42984,0,0,Lewis Run borough
+33779,61,42,83,43096,0,0,Liberty township
+33780,61,42,83,51632,0,0,Mount Jewett borough
+33781,61,42,83,55632,0,0,Norwich township
+33782,61,42,83,57312,0,0,Otto township
+33783,61,42,83,62088,0,0,Port Allegany borough
+33784,61,42,83,69304,0,0,Sergeant township
+33785,61,42,83,71248,0,0,Smethport borough
+33786,61,42,83,84312,0,0,Wetmore township
+33787,61,42,85,13832,0,0,Clark borough
+33788,61,42,85,15992,0,0,Coolspring township
+33789,61,42,85,18536,0,0,Deer Creek township
+33790,61,42,85,18688,0,0,Delaware township
+33791,61,42,85,21336,0,0,East Lackawannock township
+33792,61,42,85,24904,0,0,Fairview township
+33793,61,42,85,25360,0,0,Farrell city
+33794,61,42,85,25912,0,0,Findley township
+33795,61,42,85,27688,0,0,Fredonia borough
+33796,61,42,85,27824,0,0,French Creek township
+33797,61,42,85,30968,0,0,Greene township
+33798,61,42,85,31328,0,0,Greenville borough
+33799,61,42,85,31656,0,0,Grove City borough
+33800,61,42,85,33784,0,0,Hempfield township
+33801,61,42,85,34064,0,0,Hermitage city
+33802,61,42,85,37416,0,0,Jackson township
+33803,61,42,85,37496,0,0,Jackson Center borough
+33804,61,42,85,37696,0,0,Jamestown borough
+33805,61,42,85,37904,0,0,Jefferson township
+33806,61,42,85,40760,0,0,Lackawannock township
+33807,61,42,85,40928,0,0,Lake township
+33808,61,42,85,43104,0,0,Liberty township
+33809,61,42,85,48696,0,0,Mercer borough
+33810,61,42,85,49576,0,0,Mill Creek township
+33811,61,42,85,53768,0,0,New Lebanon borough
+33812,61,42,85,54304,0,0,New Vernon township
+33813,61,42,85,57304,0,0,Otter Creek township
+33814,61,42,85,59496,0,0,Perry township
+33815,61,42,85,60336,0,0,Pine township
+33816,61,42,85,63008,0,0,Pymatuning township
+33817,61,42,85,67472,0,0,Salem township
+33818,61,42,85,67816,0,0,Sandy Creek township
+33819,61,42,85,67848,0,0,Sandy Lake borough
+33820,61,42,85,67856,0,0,Sandy Lake township
+33821,61,42,85,69720,0,0,Sharon city
+33822,61,42,85,69800,0,0,Sharpsville borough
+33823,61,42,85,69936,0,0,Sheakleyville borough
+33824,61,42,85,70096,0,0,Shenango township
+33825,61,42,85,72440,0,0,South Pymatuning township
+33826,61,42,85,73080,0,0,Springfield township
+33827,61,42,85,74288,0,0,Stoneboro borough
+33828,61,42,85,75008,0,0,Sugar Grove township
+33829,61,42,85,83496,0,0,West Middlesex borough
+33830,61,42,85,83976,0,0,West Salem township
+33831,61,42,85,84376,0,0,Wheatland borough
+33832,61,42,85,85512,0,0,Wilmington township
+33833,61,42,85,85992,0,0,Wolf Creek township
+33834,61,42,85,86552,0,0,Worth township
+33835,61,42,87,3040,0,0,Armagh township
+33836,61,42,87,8304,0,0,Bratton township
+33837,61,42,87,9288,0,0,Brown township
+33838,61,42,87,10256,0,0,Burnham borough
+33839,61,42,87,18464,0,0,Decatur township
+33840,61,42,87,18944,0,0,Derry township
+33841,61,42,87,30480,0,0,Granville township
+33842,61,42,87,38640,0,0,Juniata Terrace borough
+33843,61,42,87,40016,0,0,Kistler borough
+33844,61,42,87,43000,0,0,Lewistown borough
+33845,61,42,87,46400,0,0,McVeytown borough
+33846,61,42,87,48664,0,0,Menno township
+33847,61,42,87,54160,0,0,Newton Hamilton borough
+33848,61,42,87,56720,0,0,Oliver township
+33849,61,42,87,78392,0,0,Union township
+33850,61,42,87,81784,0,0,Wayne township
+33851,61,42,89,4320,0,0,Barrett township
+33852,61,42,89,13328,0,0,Chestnuthill township
+33853,61,42,89,15960,0,0,Coolbaugh township
+33854,61,42,89,18736,0,0,Delaware Water Gap borough
+33855,61,42,89,21872,0,0,East Stroudsburg borough
+33856,61,42,89,22904,0,0,Eldred township
+33857,61,42,89,32176,0,0,Hamilton township
+33858,61,42,89,37424,0,0,Jackson township
+33859,61,42,89,49080,0,0,Middle Smithfield township
+33860,61,42,89,51912,0,0,Mount Pocono borough
+33861,61,42,89,57856,0,0,Paradise township
+33862,61,42,89,61728,0,0,Pocono township
+33863,61,42,89,61928,0,0,Polk township
+33864,61,42,89,62632,0,0,Price township
+33865,61,42,89,66280,0,0,Ross township
+33866,61,42,89,71344,0,0,Smithfield township
+33867,61,42,89,74880,0,0,Stroud township
+33868,61,42,89,74888,0,0,Stroudsburg borough
+33869,61,42,89,76960,0,0,Tobyhanna township
+33870,61,42,89,77776,0,0,Tunkhannock township
+33871,61,42,91,156,0,0,Abington township
+33872,61,42,91,2264,0,0,Ambler borough
+33873,61,42,91,8568,0,0,Bridgeport borough
+33874,61,42,91,9696,0,0,Bryn Athyn borough
+33875,61,42,91,12968,0,0,Cheltenham township
+33876,61,42,91,15192,0,0,Collegeville borough
+33877,61,42,91,15848,0,0,Conshohocken borough
+33878,61,42,91,19672,0,0,Douglass township
+33879,61,42,91,21200,0,0,East Greenville borough
+33880,61,42,91,21600,0,0,East Norriton township
+33881,61,42,91,27280,0,0,Franconia township
+33882,61,42,91,31088,0,0,Green Lane borough
+33883,61,42,91,33088,0,0,Hatboro borough
+33884,61,42,91,33112,0,0,Hatfield borough
+33885,61,42,91,33120,0,0,Hatfield township
+33886,61,42,91,35808,0,0,Horsham township
+33887,61,42,91,38000,0,0,Jenkintown borough
+33888,61,42,91,41432,0,0,Lansdale borough
+33889,61,42,91,43312,0,0,Limerick township
+33890,61,42,91,44912,0,0,Lower Frederick township
+33891,61,42,91,44920,0,0,Lower Gwynedd township
+33892,61,42,91,44976,0,0,Lower Merion township
+33893,61,42,91,45008,0,0,Lower Moreland township
+33894,61,42,91,45072,0,0,Lower Pottsgrove township
+33895,61,42,91,45080,0,0,Lower Providence township
+33896,61,42,91,45096,0,0,Lower Salford township
+33897,61,42,91,47592,0,0,Marlborough township
+33898,61,42,91,50640,0,0,Montgomery township
+33899,61,42,91,52664,0,0,Narberth borough
+33900,61,42,91,53664,0,0,New Hanover township
+33901,61,42,91,54656,0,0,Norristown borough
+33902,61,42,91,55512,0,0,North Wales borough
+33903,61,42,91,59120,0,0,Pennsburg borough
+33904,61,42,91,59392,0,0,Perkiomen township
+33905,61,42,91,61664,0,0,Plymouth township
+33906,61,42,91,62416,0,0,Pottstown borough
+33907,61,42,91,63808,0,0,Red Hill borough
+33908,61,42,91,65568,0,0,Rockledge borough
+33909,61,42,91,66576,0,0,Royersford borough
+33910,61,42,91,67528,0,0,Salford township
+33911,61,42,91,68328,0,0,Schwenksville borough
+33912,61,42,91,71016,0,0,Skippack township
+33913,61,42,91,71856,0,0,Souderton borough
+33914,61,42,91,73088,0,0,Springfield township
+33915,61,42,91,76304,0,0,Telford borough
+33916,61,42,91,77152,0,0,Towamencin township
+33917,61,42,91,77304,0,0,Trappe borough
+33918,61,42,91,79008,0,0,Upper Dublin township
+33919,61,42,91,79040,0,0,Upper Frederick township
+33920,61,42,91,79056,0,0,Upper Gwynedd township
+33921,61,42,91,79064,0,0,Upper Hanover township
+33922,61,42,91,79136,0,0,Upper Merion township
+33923,61,42,91,79176,0,0,Upper Moreland township
+33924,61,42,91,79240,0,0,Upper Pottsgrove township
+33925,61,42,91,79256,0,0,Upper Providence township
+33926,61,42,91,79280,0,0,Upper Salford township
+33927,61,42,91,82736,0,0,West Conshohocken borough
+33928,61,42,91,83696,0,0,West Norriton township
+33929,61,42,91,83912,0,0,West Pottsgrove township
+33930,61,42,91,84624,0,0,Whitemarsh township
+33931,61,42,91,84888,0,0,Whitpain township
+33932,61,42,91,86496,0,0,Worcester township
+33933,61,42,93,2664,0,0,Anthony township
+33934,61,42,93,16048,0,0,Cooper township
+33935,61,42,93,18136,0,0,Danville borough
+33936,61,42,93,18952,0,0,Derry township
+33937,61,42,93,43112,0,0,Liberty township
+33938,61,42,93,43360,0,0,Limestone township
+33939,61,42,93,46656,0,0,Mahoning township
+33940,61,42,93,48152,0,0,Mayberry township
+33941,61,42,93,79552,0,0,Valley township
+33942,61,42,93,81424,0,0,Washingtonville borough
+33943,61,42,93,83144,0,0,West Hemlock township
+33944,61,42,95,948,0,0,Allen township
+33945,61,42,95,4032,0,0,Bangor borough
+33946,61,42,95,4432,0,0,Bath borough
+33947,61,42,95,6088,0,0,Bethlehem city
+33948,61,42,95,6096,0,0,Bethlehem township
+33949,61,42,95,10400,0,0,Bushkill township
+33950,61,42,95,12656,0,0,Chapman borough
+33951,61,42,95,20736,0,0,East Allen township
+33952,61,42,95,20776,0,0,East Bangor borough
+33953,61,42,95,21648,0,0,Easton city
+33954,61,42,95,26728,0,0,Forks township
+33955,61,42,95,27760,0,0,Freemansburg borough
+33956,61,42,95,29568,0,0,Glendon borough
+33957,61,42,95,32432,0,0,Hanover township
+33958,61,42,95,33744,0,0,Hellertown borough
+33959,61,42,95,42424,0,0,Lehigh township
+33960,61,42,95,45016,0,0,Lower Mount Bethel township
+33961,61,42,95,45024,0,0,Lower Nazareth township
+33962,61,42,95,45104,0,0,Lower Saucon township
+33963,61,42,95,50824,0,0,Moore township
+33964,61,42,95,52808,0,0,Nazareth borough
+33965,61,42,95,54696,0,0,Northampton borough
+33966,61,42,95,54872,0,0,North Catasauqua borough
+33967,61,42,95,57672,0,0,Palmer township
+33968,61,42,95,58696,0,0,Pen Argyl borough
+33969,61,42,95,61088,0,0,Plainfield township
+33970,61,42,95,62264,0,0,Portland borough
+33971,61,42,95,66168,0,0,Roseto borough
+33972,61,42,95,74232,0,0,Stockertown borough
+33973,61,42,95,76144,0,0,Tatamy borough
+33974,61,42,95,79184,0,0,Upper Mount Bethel township
+33975,61,42,95,79192,0,0,Upper Nazareth township
+33976,61,42,95,80800,0,0,Walnutport borough
+33977,61,42,95,81296,0,0,Washington township
+33978,61,42,95,82832,0,0,West Easton borough
+33979,61,42,95,85256,0,0,Williams township
+33980,61,42,95,85592,0,0,Wilson borough
+33981,61,42,95,85664,0,0,Wind Gap borough
+33982,61,42,97,14536,0,0,Coal township
+33983,61,42,97,18696,0,0,Delaware township
+33984,61,42,97,20928,0,0,East Cameron township
+33985,61,42,97,20976,0,0,East Chillisquaque township
+33986,61,42,97,34080,0,0,Herndon borough
+33987,61,42,97,37432,0,0,Jackson township
+33988,61,42,97,38456,0,0,Jordan township
+33989,61,42,97,40584,0,0,Kulpmont borough
+33990,61,42,97,42952,0,0,Lewis township
+33991,61,42,97,43912,0,0,Little Mahanoy township
+33992,61,42,97,44856,0,0,Lower Augusta township
+33993,61,42,97,44960,0,0,Lower Mahanoy township
+33994,61,42,97,46120,0,0,McEwensville borough
+33995,61,42,97,47480,0,0,Marion Heights borough
+33996,61,42,97,50016,0,0,Milton borough
+33997,61,42,97,51496,0,0,Mount Carmel borough
+33998,61,42,97,51504,0,0,Mount Carmel township
+33999,61,42,97,55456,0,0,Northumberland borough
+34000,61,42,97,61832,0,0,Point township
+34001,61,42,97,63328,0,0,Ralpho township
+34002,61,42,97,65112,0,0,Riverside borough
+34003,61,42,97,65472,0,0,Rockefeller township
+34004,61,42,97,66752,0,0,Rush township
+34005,61,42,97,69600,0,0,Shamokin city
+34006,61,42,97,69608,0,0,Shamokin township
+34007,61,42,97,71688,0,0,Snydertown borough
+34008,61,42,97,75304,0,0,Sunbury city
+34009,61,42,97,77830,0,0,Turbot township
+34010,61,42,97,77832,0,0,Turbotville borough
+34011,61,42,97,78744,0,0,Upper Augusta township
+34012,61,42,97,79112,0,0,Upper Mahanoy township
+34013,61,42,97,81304,0,0,Washington township
+34014,61,42,97,81616,0,0,Watsontown borough
+34015,61,42,97,82680,0,0,West Cameron township
+34016,61,42,97,82712,0,0,West Chillisquaque township
+34017,61,42,97,87280,0,0,Zerbe township
+34018,61,42,99,6824,0,0,Blain borough
+34019,61,42,99,7040,0,0,Bloomfield borough
+34020,61,42,99,10008,0,0,Buffalo township
+34021,61,42,99,11416,0,0,Carroll township
+34022,61,42,99,12360,0,0,Centre township
+34023,61,42,99,20240,0,0,Duncannon borough
+34024,61,42,99,31440,0,0,Greenwood township
+34025,61,42,99,36000,0,0,Howe township
+34026,61,42,99,37440,0,0,Jackson township
+34027,61,42,99,38616,0,0,Juniata township
+34028,61,42,99,41272,0,0,Landisburg borough
+34029,61,42,99,43968,0,0,Liverpool borough
+34030,61,42,99,43976,0,0,Liverpool township
+34031,61,42,99,47968,0,0,Marysville borough
+34032,61,42,99,49632,0,0,Miller township
+34033,61,42,99,49720,0,0,Millerstown borough
+34034,61,42,99,53320,0,0,New Buffalo borough
+34035,61,42,99,53968,0,0,Newport borough
+34036,61,42,99,54968,0,0,Northeast Madison township
+34037,61,42,99,56728,0,0,Oliver township
+34038,61,42,99,58856,0,0,Penn township
+34039,61,42,99,66976,0,0,Rye township
+34040,61,42,99,68032,0,0,Saville township
+34041,61,42,99,72624,0,0,Southwest Madison township
+34042,61,42,99,72848,0,0,Spring township
+34043,61,42,99,76920,0,0,Toboyne township
+34044,61,42,99,77960,0,0,Tuscarora township
+34045,61,42,99,78184,0,0,Tyrone township
+34046,61,42,99,81640,0,0,Watts township
+34047,61,42,99,84368,0,0,Wheatfield township
+34048,61,42,103,7088,0,0,Blooming Grove township
+34049,61,42,103,18704,0,0,Delaware township
+34050,61,42,103,19272,0,0,Dingman township
+34051,61,42,103,30976,0,0,Greene township
+34052,61,42,103,40776,0,0,Lackawaxen township
+34053,61,42,103,42512,0,0,Lehman township
+34054,61,42,103,48048,0,0,Matamoras borough
+34055,61,42,103,49400,0,0,Milford borough
+34056,61,42,103,49408,0,0,Milford township
+34057,61,42,103,57728,0,0,Palmyra township
+34058,61,42,103,62192,0,0,Porter township
+34059,61,42,103,70496,0,0,Shohola township
+34060,61,42,103,82928,0,0,Westfall township
+34061,61,42,105,108,0,0,Abbott township
+34062,61,42,105,836,0,0,Allegany township
+34063,61,42,105,3576,0,0,Austin borough
+34064,61,42,105,6432,0,0,Bingham township
+34065,61,42,105,13760,0,0,Clara township
+34066,61,42,105,16448,0,0,Coudersport borough
+34067,61,42,105,24184,0,0,Eulalia township
+34068,61,42,105,28280,0,0,Galeton borough
+34069,61,42,105,28760,0,0,Genesee township
+34070,61,42,105,32848,0,0,Harrison township
+34071,61,42,105,33512,0,0,Hebron township
+34072,61,42,105,33568,0,0,Hector township
+34073,61,42,105,35400,0,0,Homer township
+34074,61,42,105,38920,0,0,Keating township
+34075,61,42,105,57280,0,0,Oswayo borough
+34076,61,42,105,57288,0,0,Oswayo township
+34077,61,42,105,60200,0,0,Pike township
+34078,61,42,105,61400,0,0,Pleasant Valley township
+34079,61,42,105,62072,0,0,Portage township
+34080,61,42,105,66416,0,0,Roulette township
+34081,61,42,105,69736,0,0,Sharon township
+34082,61,42,105,70304,0,0,Shinglehouse borough
+34083,61,42,105,74072,0,0,Stewardson township
+34084,61,42,105,75224,0,0,Summit township
+34085,61,42,105,75720,0,0,Sweden township
+34086,61,42,105,75952,0,0,Sylvania township
+34087,61,42,105,78240,0,0,Ulysses borough
+34088,61,42,105,78248,0,0,Ulysses township
+34089,61,42,105,82568,0,0,West Branch township
+34090,61,42,105,84360,0,0,Wharton township
+34091,61,42,107,3264,0,0,Ashland borough
+34092,61,42,107,3488,0,0,Auburn borough
+34093,61,42,107,4352,0,0,Barry township
+34094,61,42,107,7336,0,0,Blythe township
+34095,61,42,107,8200,0,0,Branch township
+34096,61,42,107,10488,0,0,Butler township
+34097,61,42,107,11608,0,0,Cass township
+34098,61,42,107,14600,0,0,Coaldale borough
+34099,61,42,107,17152,0,0,Cressona borough
+34100,61,42,107,18576,0,0,Deer Lake borough
+34101,61,42,107,18672,0,0,Delano township
+34102,61,42,107,20880,0,0,East Brunswick township
+34103,61,42,107,21616,0,0,East Norwegian township
+34104,61,42,107,21952,0,0,East Union township
+34105,61,42,107,22912,0,0,Eldred township
+34106,61,42,107,26944,0,0,Foster township
+34107,61,42,107,27232,0,0,Frackville borough
+34108,61,42,107,27248,0,0,Frailey township
+34109,61,42,107,29088,0,0,Gilberton borough
+34110,61,42,107,29264,0,0,Girardville borough
+34111,61,42,107,30128,0,0,Gordon borough
+34112,61,42,107,33584,0,0,Hegins township
+34113,61,42,107,36072,0,0,Hubley township
+34114,61,42,107,40096,0,0,Kline township
+34115,61,42,107,41264,0,0,Landingville borough
+34116,61,42,107,45824,0,0,McAdoo borough
+34117,61,42,107,46584,0,0,Mahanoy township
+34118,61,42,107,46592,0,0,Mahanoy City borough
+34119,61,42,107,48448,0,0,Mechanicsville borough
+34120,61,42,107,49048,0,0,Middleport borough
+34121,61,42,107,50088,0,0,Minersville borough
+34122,61,42,107,51488,0,0,Mount Carbon borough
+34123,61,42,107,53376,0,0,New Castle township
+34124,61,42,107,53944,0,0,New Philadelphia borough
+34125,61,42,107,54016,0,0,New Ringgold borough
+34126,61,42,107,55192,0,0,North Manheim township
+34127,61,42,107,55472,0,0,North Union township
+34128,61,42,107,55624,0,0,Norwegian township
+34129,61,42,107,57184,0,0,Orwigsburg borough
+34130,61,42,107,57752,0,0,Palo Alto borough
+34131,61,42,107,60456,0,0,Pine Grove borough
+34132,61,42,107,60464,0,0,Pine Grove township
+34133,61,42,107,62128,0,0,Port Carbon borough
+34134,61,42,107,62136,0,0,Port Clinton borough
+34135,61,42,107,62200,0,0,Porter township
+34136,61,42,107,62432,0,0,Pottsville city
+34137,61,42,107,64088,0,0,Reilly township
+34138,61,42,107,65000,0,0,Ringtown borough
+34139,61,42,107,66760,0,0,Rush township
+34140,61,42,107,66944,0,0,Ryan township
+34141,61,42,107,67224,0,0,St. Clair borough
+34142,61,42,107,68304,0,0,Schuylkill township
+34143,61,42,107,68312,0,0,Schuylkill Haven borough
+34144,61,42,107,70056,0,0,Shenandoah borough
+34145,61,42,107,72312,0,0,South Manheim township
+34146,61,42,107,76032,0,0,Tamaqua borough
+34147,61,42,107,77184,0,0,Tower City borough
+34148,61,42,107,77392,0,0,Tremont borough
+34149,61,42,107,77400,0,0,Tremont township
+34150,61,42,107,78400,0,0,Union township
+34151,61,42,107,79120,0,0,Upper Mahantongo township
+34152,61,42,107,80576,0,0,Walker township
+34153,61,42,107,81312,0,0,Washington township
+34154,61,42,107,81792,0,0,Wayne township
+34155,61,42,107,82632,0,0,West Brunswick township
+34156,61,42,107,83408,0,0,West Mahanoy township
+34157,61,42,107,83792,0,0,West Penn township
+34158,61,42,109,316,0,0,Adams township
+34159,61,42,109,4736,0,0,Beaver township
+34160,61,42,109,4848,0,0,Beavertown borough
+34161,61,42,109,12060,0,0,Center township
+34162,61,42,109,12672,0,0,Chapman township
+34163,61,42,109,27440,0,0,Franklin township
+34164,61,42,109,27696,0,0,Freeburg borough
+34165,61,42,109,37448,0,0,Jackson township
+34166,61,42,109,45992,0,0,McClure borough
+34167,61,42,109,48960,0,0,Middleburg borough
+34168,61,42,109,49016,0,0,Middlecreek township
+34169,61,42,109,50488,0,0,Monroe township
+34170,61,42,109,58864,0,0,Penn township
+34171,61,42,109,59504,0,0,Perry township
+34172,61,42,109,69216,0,0,Selinsgrove borough
+34173,61,42,109,69616,0,0,Shamokin Dam borough
+34174,61,42,109,72856,0,0,Spring township
+34175,61,42,109,78408,0,0,Union township
+34176,61,42,109,81320,0,0,Washington township
+34177,61,42,109,82464,0,0,West Beaver township
+34178,61,42,109,83808,0,0,West Perry township
+34179,61,42,111,396,0,0,Addison borough
+34180,61,42,111,404,0,0,Addison township
+34181,61,42,111,876,0,0,Allegheny township
+34182,61,42,111,5648,0,0,Benson borough
+34183,61,42,111,5776,0,0,Berlin borough
+34184,61,42,111,6640,0,0,Black township
+34185,61,42,111,7712,0,0,Boswell borough
+34186,61,42,111,9256,0,0,Brothersvalley township
+34187,61,42,111,10808,0,0,Callimont borough
+34188,61,42,111,11624,0,0,Casselman borough
+34189,61,42,111,12296,0,0,Central City borough
+34190,61,42,111,15568,0,0,Conemaugh township
+34191,61,42,111,15680,0,0,Confluence borough
+34192,61,42,111,23168,0,0,Elk Lick township
+34193,61,42,111,24680,0,0,Fairhope township
+34194,61,42,111,28520,0,0,Garrett borough
+34195,61,42,111,31336,0,0,Greenville township
+34196,61,42,111,35608,0,0,Hooversville borough
+34197,61,42,111,36888,0,0,Indian Lake borough
+34198,61,42,111,37920,0,0,Jefferson township
+34199,61,42,111,38032,0,0,Jenner township
+34200,61,42,111,38048,0,0,Jennerstown borough
+34201,61,42,111,41568,0,0,Larimer township
+34202,61,42,111,43440,0,0,Lincoln township
+34203,61,42,111,45136,0,0,Lower Turkeyfoot township
+34204,61,42,111,48912,0,0,Meyersdale borough
+34205,61,42,111,49024,0,0,Middlecreek township
+34206,61,42,111,49416,0,0,Milford township
+34207,61,42,111,53168,0,0,New Baltimore borough
+34208,61,42,111,53416,0,0,New Centerville borough
+34209,61,42,111,54704,0,0,Northampton township
+34210,61,42,111,56352,0,0,Ogle township
+34211,61,42,111,57544,0,0,Paint borough
+34212,61,42,111,57552,0,0,Paint township
+34213,61,42,111,63144,0,0,Quemahoning township
+34214,61,42,111,65736,0,0,Rockwood borough
+34215,61,42,111,67584,0,0,Salisbury borough
+34216,61,42,111,69336,0,0,Seven Springs borough
+34217,61,42,111,69448,0,0,Shade township
+34218,61,42,111,69680,0,0,Shanksville borough
+34219,61,42,111,71776,0,0,Somerset borough
+34220,61,42,111,71784,0,0,Somerset township
+34221,61,42,111,71920,0,0,Southampton township
+34222,61,42,111,74440,0,0,Stonycreek township
+34223,61,42,111,74672,0,0,Stoystown borough
+34224,61,42,111,75232,0,0,Summit township
+34225,61,42,111,79336,0,0,Upper Turkeyfoot township
+34226,61,42,111,79424,0,0,Ursina borough
+34227,61,42,111,82128,0,0,Wellersburg borough
+34228,61,42,111,85632,0,0,Windber borough
+34229,61,42,113,13000,0,0,Cherry township
+34230,61,42,113,15208,0,0,Colley township
+34231,61,42,113,18296,0,0,Davidson township
+34232,61,42,113,20528,0,0,Dushore borough
+34233,61,42,113,20648,0,0,Eagles Mere borough
+34234,61,42,113,23144,0,0,Elkland township
+34235,61,42,113,26736,0,0,Forks township
+34236,61,42,113,26760,0,0,Forksville borough
+34237,61,42,113,27096,0,0,Fox township
+34238,61,42,113,34840,0,0,Hillsgrove township
+34239,61,42,113,41512,0,0,Laporte borough
+34240,61,42,113,41520,0,0,Laporte township
+34241,61,42,113,70560,0,0,Shrewsbury township
+34242,61,42,115,2712,0,0,Apolacon township
+34243,61,42,115,2792,0,0,Ararat township
+34244,61,42,115,3496,0,0,Auburn township
+34245,61,42,115,8648,0,0,Bridgewater township
+34246,61,42,115,9128,0,0,Brooklyn township
+34247,61,42,115,13504,0,0,Choconut township
+34248,61,42,115,14224,0,0,Clifford township
+34249,61,42,115,19264,0,0,Dimock township
+34250,61,42,115,26560,0,0,Forest City borough
+34251,61,42,115,26648,0,0,Forest Lake township
+34252,61,42,115,27448,0,0,Franklin township
+34253,61,42,115,27968,0,0,Friendsville borough
+34254,61,42,115,29024,0,0,Gibson township
+34255,61,42,115,30728,0,0,Great Bend borough
+34256,61,42,115,30736,0,0,Great Bend township
+34257,61,42,115,32080,0,0,Hallstead borough
+34258,61,42,115,32568,0,0,Harford township
+34259,61,42,115,32720,0,0,Harmony township
+34260,61,42,115,34096,0,0,Herrick township
+34261,61,42,115,35624,0,0,Hop Bottom borough
+34262,61,42,115,37464,0,0,Jackson township
+34263,61,42,115,38168,0,0,Jessup township
+34264,61,42,115,41336,0,0,Lanesboro borough
+34265,61,42,115,41656,0,0,Lathrop township
+34266,61,42,115,42760,0,0,Lenox township
+34267,61,42,115,43120,0,0,Liberty township
+34268,61,42,115,43928,0,0,Little Meadows borough
+34269,61,42,115,49152,0,0,Middletown township
+34270,61,42,115,50736,0,0,Montrose borough
+34271,61,42,115,53880,0,0,New Milford borough
+34272,61,42,115,53888,0,0,New Milford township
+34273,61,42,115,56008,0,0,Oakland borough
+34274,61,42,115,56016,0,0,Oakland township
+34275,61,42,115,66776,0,0,Rush township
+34276,61,42,115,70776,0,0,Silver Lake township
+34277,61,42,115,73440,0,0,Springville township
+34278,61,42,115,75568,0,0,Susquehanna Depot borough
+34279,61,42,115,76496,0,0,Thompson borough
+34280,61,42,115,76504,0,0,Thompson township
+34281,61,42,115,78456,0,0,Union Dale borough
+34282,61,42,117,7152,0,0,Bloss township
+34283,61,42,117,7160,0,0,Blossburg borough
+34284,61,42,117,9072,0,0,Brookfield township
+34285,61,42,117,12728,0,0,Charleston township
+34286,61,42,117,12880,0,0,Chatham township
+34287,61,42,117,14528,0,0,Clymer township
+34288,61,42,117,16680,0,0,Covington township
+34289,61,42,117,18552,0,0,Deerfield township
+34290,61,42,117,18760,0,0,Delmar township
+34291,61,42,117,20232,0,0,Duncan township
+34292,61,42,117,23056,0,0,Elk township
+34293,61,42,117,23152,0,0,Elkland borough
+34294,61,42,117,25296,0,0,Farmington township
+34295,61,42,117,28264,0,0,Gaines township
+34296,61,42,117,32192,0,0,Hamilton township
+34297,61,42,117,37472,0,0,Jackson township
+34298,61,42,117,40360,0,0,Knoxville borough
+34299,61,42,117,41960,0,0,Lawrence township
+34300,61,42,117,42016,0,0,Lawrenceville borough
+34301,61,42,117,43128,0,0,Liberty borough
+34302,61,42,117,43136,0,0,Liberty township
+34303,61,42,117,47080,0,0,Mansfield borough
+34304,61,42,117,48968,0,0,Middlebury township
+34305,61,42,117,51096,0,0,Morris township
+34306,61,42,117,52960,0,0,Nelson township
+34307,61,42,117,57224,0,0,Osceola township
+34308,61,42,117,62960,0,0,Putnam township
+34309,61,42,117,64624,0,0,Richmond township
+34310,61,42,117,66232,0,0,Roseville borough
+34311,61,42,117,66912,0,0,Rutland township
+34312,61,42,117,70344,0,0,Shippen township
+34313,61,42,117,75104,0,0,Sullivan township
+34314,61,42,117,76808,0,0,Tioga borough
+34315,61,42,117,76824,0,0,Tioga township
+34316,61,42,117,78416,0,0,Union township
+34317,61,42,117,80936,0,0,Ward township
+34318,61,42,117,82160,0,0,Wellsboro borough
+34319,61,42,117,82968,0,0,Westfield borough
+34320,61,42,117,82976,0,0,Westfield township
+34321,61,42,119,10016,0,0,Buffalo township
+34322,61,42,119,20888,0,0,East Buffalo township
+34323,61,42,119,31480,0,0,Gregg township
+34324,61,42,119,32936,0,0,Hartleton borough
+34325,61,42,119,32952,0,0,Hartley township
+34326,61,42,119,39136,0,0,Kelly township
+34327,61,42,119,42960,0,0,Lewis township
+34328,61,42,119,42976,0,0,Lewisburg borough
+34329,61,42,119,43368,0,0,Limestone township
+34330,61,42,119,49288,0,0,Mifflinburg borough
+34331,61,42,119,53200,0,0,New Berlin borough
+34332,61,42,119,78424,0,0,Union township
+34333,61,42,119,82640,0,0,West Buffalo township
+34334,61,42,119,84496,0,0,White Deer township
+34335,61,42,121,884,0,0,Allegheny township
+34336,61,42,121,4136,0,0,Barkeyville borough
+34337,61,42,121,11080,0,0,Canal township
+34338,61,42,121,13136,0,0,Cherrytree township
+34339,61,42,121,14344,0,0,Clinton township
+34340,61,42,121,14376,0,0,Clintonville borough
+34341,61,42,121,16080,0,0,Cooperstown borough
+34342,61,42,121,16232,0,0,Cornplanter township
+34343,61,42,121,16944,0,0,Cranberry township
+34344,61,42,121,23568,0,0,Emlenton borough
+34345,61,42,121,27456,0,0,Franklin city
+34346,61,42,121,27832,0,0,Frenchcreek township
+34347,61,42,121,37200,0,0,Irwin township
+34348,61,42,121,37480,0,0,Jackson township
+34349,61,42,121,50048,0,0,Mineral township
+34350,61,42,121,56024,0,0,Oakland township
+34351,61,42,121,56456,0,0,Oil City city
+34352,61,42,121,56480,0,0,Oil Creek township
+34353,61,42,121,60472,0,0,Pinegrove township
+34354,61,42,121,61512,0,0,Pleasantville borough
+34355,61,42,121,61552,0,0,Plum township
+34356,61,42,121,61936,0,0,Polk borough
+34357,61,42,121,62544,0,0,President township
+34358,61,42,121,64568,0,0,Richland township
+34359,61,42,121,65560,0,0,Rockland township
+34360,61,42,121,66440,0,0,Rouseville borough
+34361,61,42,121,67824,0,0,Sandycreek township
+34362,61,42,121,69016,0,0,Scrubgrass township
+34363,61,42,121,75000,0,0,Sugarcreek borough
+34364,61,42,121,79472,0,0,Utica borough
+34365,61,42,121,80168,0,0,Victory township
+34366,61,42,123,4608,0,0,Bear Lake borough
+34367,61,42,123,9024,0,0,Brokenstraw township
+34368,61,42,123,13056,0,0,Cherry Grove township
+34369,61,42,123,13776,0,0,Clarendon borough
+34370,61,42,123,15408,0,0,Columbus township
+34371,61,42,123,15672,0,0,Conewango township
+34372,61,42,123,18560,0,0,Deerfield township
+34373,61,42,123,22920,0,0,Eldred township
+34374,61,42,123,23064,0,0,Elk township
+34375,61,42,123,25304,0,0,Farmington township
+34376,61,42,123,27736,0,0,Freehold township
+34377,61,42,123,29328,0,0,Glade township
+34378,61,42,123,43372,0,0,Limestone township
+34379,61,42,123,48272,0,0,Mead township
+34380,61,42,123,60480,0,0,Pine Grove township
+34381,61,42,123,61040,0,0,Pittsfield township
+34382,61,42,123,61208,0,0,Pleasant township
+34383,61,42,123,69992,0,0,Sheffield township
+34384,61,42,123,72600,0,0,Southwest township
+34385,61,42,123,72952,0,0,Spring Creek township
+34386,61,42,123,75024,0,0,Sugar Grove borough
+34387,61,42,123,75032,0,0,Sugar Grove township
+34388,61,42,123,76696,0,0,Tidioute borough
+34389,61,42,123,77512,0,0,Triumph township
+34390,61,42,123,81000,0,0,Warren city
+34391,61,42,123,81584,0,0,Watson township
+34392,61,42,123,87224,0,0,Youngsville borough
+34393,61,42,125,988,0,0,Allenport borough
+34394,61,42,125,2384,0,0,Amwell township
+34395,61,42,125,4568,0,0,Beallsville borough
+34396,61,42,125,5672,0,0,Bentleyville borough
+34397,61,42,125,6840,0,0,Blaine township
+34398,61,42,125,10032,0,0,Buffalo township
+34399,61,42,125,10224,0,0,Burgettstown borough
+34400,61,42,125,10768,0,0,California borough
+34401,61,42,125,11152,0,0,Canonsburg borough
+34402,61,42,125,11176,0,0,Canton township
+34403,61,42,125,11424,0,0,Carroll township
+34404,61,42,125,11800,0,0,Cecil township
+34405,61,42,125,12224,0,0,Centerville borough
+34406,61,42,125,12704,0,0,Charleroi borough
+34407,61,42,125,12848,0,0,Chartiers township
+34408,61,42,125,14000,0,0,Claysville borough
+34409,61,42,125,14568,0,0,Coal Center borough
+34410,61,42,125,14896,0,0,Cokeburg borough
+34411,61,42,125,17314,0,0,Cross Creek township
+34412,61,42,125,18496,0,0,Deemston borough
+34413,61,42,125,19464,0,0,Donegal township
+34414,61,42,125,19536,0,0,Donora borough
+34415,61,42,125,20328,0,0,Dunlevy borough
+34416,61,42,125,20808,0,0,East Bethlehem township
+34417,61,42,125,21144,0,0,East Finley township
+34418,61,42,125,22016,0,0,East Washington borough
+34419,61,42,125,22800,0,0,Elco borough
+34420,61,42,125,23296,0,0,Ellsworth borough
+34421,61,42,125,25104,0,0,Fallowfield township
+34422,61,42,125,25944,0,0,Finleyville borough
+34423,61,42,125,31082,0,0,Green Hills borough
+34424,61,42,125,32440,0,0,Hanover township
+34425,61,42,125,35696,0,0,Hopewell township
+34426,61,42,125,35896,0,0,Houston borough
+34427,61,42,125,36800,0,0,Independence township
+34428,61,42,125,37936,0,0,Jefferson township
+34429,61,42,125,44512,0,0,Long Branch borough
+34430,61,42,125,46072,0,0,McDonald borough
+34431,61,42,125,47400,0,0,Marianna borough
+34432,61,42,125,49240,0,0,Midway borough
+34433,61,42,125,50408,0,0,Monongahela city
+34434,61,42,125,51104,0,0,Morris township
+34435,61,42,125,51864,0,0,Mount Pleasant township
+34436,61,42,125,53496,0,0,New Eagle borough
+34437,61,42,125,54800,0,0,North Bethlehem township
+34438,61,42,125,54888,0,0,North Charleroi borough
+34439,61,42,125,55040,0,0,North Franklin township
+34440,61,42,125,55432,0,0,North Strabane township
+34441,61,42,125,55712,0,0,Nottingham township
+34442,61,42,125,59608,0,0,Peters township
+34443,61,42,125,65376,0,0,Robinson township
+34444,61,42,125,66016,0,0,Roscoe borough
+34445,61,42,125,71288,0,0,Smith township
+34446,61,42,125,71792,0,0,Somerset township
+34447,61,42,125,72176,0,0,South Franklin township
+34448,61,42,125,72504,0,0,South Strabane township
+34449,61,42,125,72736,0,0,Speers borough
+34450,61,42,125,74224,0,0,Stockdale borough
+34451,61,42,125,78008,0,0,Twilight borough
+34452,61,42,125,78432,0,0,Union township
+34453,61,42,125,81328,0,0,Washington city
+34454,61,42,125,82512,0,0,West Bethlehem township
+34455,61,42,125,82616,0,0,West Brownsville borough
+34456,61,42,125,83000,0,0,West Finley township
+34457,61,42,125,83504,0,0,West Middletown borough
+34458,61,42,125,83840,0,0,West Pike Run township
+34459,61,42,127,5784,0,0,Berlin township
+34460,61,42,127,5976,0,0,Bethany borough
+34461,61,42,127,9824,0,0,Buckingham township
+34462,61,42,127,11056,0,0,Canaan township
+34463,61,42,127,13096,0,0,Cherry Ridge township
+34464,61,42,127,14352,0,0,Clinton township
+34465,61,42,127,18104,0,0,Damascus township
+34466,61,42,127,19864,0,0,Dreher township
+34467,61,42,127,20576,0,0,Dyberry township
+34468,61,42,127,33200,0,0,Hawley borough
+34469,61,42,127,35520,0,0,Honesdale borough
+34470,61,42,127,40936,0,0,Lake township
+34471,61,42,127,42176,0,0,Lebanon township
+34472,61,42,127,42432,0,0,Lehigh township
+34473,61,42,127,46856,0,0,Manchester township
+34474,61,42,127,51872,0,0,Mount Pleasant township
+34475,61,42,127,57000,0,0,Oregon township
+34476,61,42,127,57736,0,0,Palmyra township
+34477,61,42,127,58480,0,0,Paupack township
+34478,61,42,127,62600,0,0,Preston township
+34479,61,42,127,62744,0,0,Prompton borough
+34480,61,42,127,67488,0,0,Salem township
+34481,61,42,127,68416,0,0,Scott township
+34482,61,42,127,72024,0,0,South Canaan township
+34483,61,42,127,73784,0,0,Starrucca borough
+34484,61,42,127,73968,0,0,Sterling township
+34485,61,42,127,76424,0,0,Texas township
+34486,61,42,127,81712,0,0,Waymart borough
+34487,61,42,129,332,0,0,Adamsburg borough
+34488,61,42,129,892,0,0,Allegheny township
+34489,61,42,129,3088,0,0,Arnold city
+34490,61,42,129,3120,0,0,Arona borough
+34491,61,42,129,3688,0,0,Avonmore borough
+34492,61,42,129,5208,0,0,Bell township
+34493,61,42,129,7480,0,0,Bolivar borough
+34494,61,42,129,15912,0,0,Cook township
+34495,61,42,129,18768,0,0,Delmont borough
+34496,61,42,129,18960,0,0,Derry borough
+34497,61,42,129,18968,0,0,Derry township
+34498,61,42,129,19472,0,0,Donegal borough
+34499,61,42,129,19480,0,0,Donegal township
+34500,61,42,129,21304,0,0,East Huntingdon township
+34501,61,42,129,21976,0,0,East Vandergrift borough
+34502,61,42,129,24432,0,0,Export borough
+34503,61,42,129,24608,0,0,Fairfield township
+34504,61,42,129,31200,0,0,Greensburg city
+34505,61,42,129,33792,0,0,Hempfield township
+34506,61,42,129,36288,0,0,Hunker borough
+34507,61,42,129,36592,0,0,Hyde Park borough
+34508,61,42,129,37208,0,0,Irwin borough
+34509,61,42,129,37784,0,0,Jeannette city
+34510,61,42,129,41680,0,0,Latrobe borough
+34511,61,42,129,41834,0,0,Laurel Mountain borough
+34512,61,42,129,43232,0,0,Ligonier borough
+34513,61,42,129,43240,0,0,Ligonier township
+34514,61,42,129,44864,0,0,Lower Burrell city
+34515,61,42,129,45200,0,0,Loyalhanna township
+34516,61,42,129,46488,0,0,Madison borough
+34517,61,42,129,47000,0,0,Manor borough
+34518,61,42,129,50344,0,0,Monessen city
+34519,61,42,129,51880,0,0,Mount Pleasant borough
+34520,61,42,129,51888,0,0,Mount Pleasant township
+34521,61,42,129,52432,0,0,Murrysville municipality
+34522,61,42,129,53160,0,0,New Alexandria borough
+34523,61,42,129,53544,0,0,New Florence borough
+34524,61,42,129,53736,0,0,New Kensington city
+34525,61,42,129,54104,0,0,New Stanton borough
+34526,61,42,129,54776,0,0,North Belle Vernon borough
+34527,61,42,129,55128,0,0,North Huntingdon township
+34528,61,42,129,55136,0,0,North Irwin borough
+34529,61,42,129,56496,0,0,Oklahoma borough
+34530,61,42,129,58872,0,0,Penn borough
+34531,61,42,129,58880,0,0,Penn township
+34532,61,42,129,66376,0,0,Rostraver township
+34533,61,42,129,67240,0,0,St. Clair township
+34534,61,42,129,67496,0,0,Salem township
+34535,61,42,129,68432,0,0,Scottdale borough
+34536,61,42,129,69368,0,0,Seward borough
+34537,61,42,129,69392,0,0,Sewickley township
+34538,61,42,129,71424,0,0,Smithton borough
+34539,61,42,129,72192,0,0,South Greensburg borough
+34540,61,42,129,72256,0,0,South Huntingdon township
+34541,61,42,129,72616,0,0,Southwest Greensburg borough
+34542,61,42,129,75584,0,0,Sutersville borough
+34543,61,42,129,77272,0,0,Trafford borough
+34544,61,42,129,78656,0,0,Unity township
+34545,61,42,129,78768,0,0,Upper Burrell township
+34546,61,42,129,79776,0,0,Vandergrift borough
+34547,61,42,129,81336,0,0,Washington township
+34548,61,42,129,83328,0,0,West Leechburg borough
+34549,61,42,129,83680,0,0,West Newton borough
+34550,61,42,129,87208,0,0,Youngstown borough
+34551,61,42,129,87232,0,0,Youngwood borough
+34552,61,42,131,8176,0,0,Braintrim township
+34553,61,42,131,14360,0,0,Clinton township
+34554,61,42,131,22112,0,0,Eaton township
+34555,61,42,131,24408,0,0,Exeter township
+34556,61,42,131,24488,0,0,Factoryville borough
+34557,61,42,131,25128,0,0,Falls township
+34558,61,42,131,26752,0,0,Forkston township
+34559,61,42,131,40744,0,0,Laceyville borough
+34560,61,42,131,42616,0,0,Lemon township
+34561,61,42,131,48528,0,0,Mehoopany township
+34562,61,42,131,48856,0,0,Meshoppen borough
+34563,61,42,131,48864,0,0,Meshoppen township
+34564,61,42,131,50496,0,0,Monroe township
+34565,61,42,131,54400,0,0,Nicholson borough
+34566,61,42,131,54408,0,0,Nicholson township
+34567,61,42,131,54824,0,0,North Branch township
+34568,61,42,131,55232,0,0,Northmoreland township
+34569,61,42,131,55736,0,0,Noxen township
+34570,61,42,131,57408,0,0,Overfield township
+34571,61,42,131,77784,0,0,Tunkhannock borough
+34572,61,42,131,77792,0,0,Tunkhannock township
+34573,61,42,131,81344,0,0,Washington township
+34574,61,42,131,85680,0,0,Windham township
+34575,61,42,133,11432,0,0,Carroll township
+34576,61,42,133,12584,0,0,Chanceford township
+34577,61,42,133,14832,0,0,Codorus township
+34578,61,42,133,15656,0,0,Conewago township
+34579,61,42,133,17416,0,0,Cross Roads borough
+34580,61,42,133,18072,0,0,Dallastown borough
+34581,61,42,133,18800,0,0,Delta borough
+34582,61,42,133,19208,0,0,Dillsburg borough
+34583,61,42,133,19696,0,0,Dover borough
+34584,61,42,133,19704,0,0,Dover township
+34585,61,42,133,21296,0,0,East Hopewell township
+34586,61,42,133,21464,0,0,East Manchester township
+34587,61,42,133,21728,0,0,East Prospect borough
+34588,61,42,133,24936,0,0,Fairview township
+34589,61,42,133,25408,0,0,Fawn township
+34590,61,42,133,25416,0,0,Fawn Grove borough
+34591,61,42,133,25584,0,0,Felton borough
+34592,61,42,133,27480,0,0,Franklin township
+34593,61,42,133,27576,0,0,Franklintown borough
+34594,61,42,133,29760,0,0,Glen Rock borough
+34595,61,42,133,30016,0,0,Goldsboro borough
+34596,61,42,133,32056,0,0,Hallam borough
+34597,61,42,133,32448,0,0,Hanover borough
+34598,61,42,133,33624,0,0,Heidelberg township
+34599,61,42,133,33728,0,0,Hellam township
+34600,61,42,133,35704,0,0,Hopewell township
+34601,61,42,133,37488,0,0,Jackson township
+34602,61,42,133,37640,0,0,Jacobus borough
+34603,61,42,133,37944,0,0,Jefferson borough
+34604,61,42,133,42968,0,0,Lewisberry borough
+34605,61,42,133,44416,0,0,Loganville borough
+34606,61,42,133,44872,0,0,Lower Chanceford township
+34607,61,42,133,45152,0,0,Lower Windsor township
+34608,61,42,133,46864,0,0,Manchester borough
+34609,61,42,133,46872,0,0,Manchester township
+34610,61,42,133,46904,0,0,Manheim township
+34611,61,42,133,50328,0,0,Monaghan township
+34612,61,42,133,52056,0,0,Mount Wolf borough
+34613,61,42,133,53224,0,0,Newberry township
+34614,61,42,133,53568,0,0,New Freedom borough
+34615,61,42,133,54056,0,0,New Salem borough
+34616,61,42,133,54904,0,0,North Codorus township
+34617,61,42,133,55112,0,0,North Hopewell township
+34618,61,42,133,55608,0,0,North York borough
+34619,61,42,133,57872,0,0,Paradise township
+34620,61,42,133,58560,0,0,Peach Bottom township
+34621,61,42,133,58888,0,0,Penn township
+34622,61,42,133,63288,0,0,Railroad borough
+34623,61,42,133,63840,0,0,Red Lion borough
+34624,61,42,133,69360,0,0,Seven Valleys borough
+34625,61,42,133,70568,0,0,Shrewsbury borough
+34626,61,42,133,70576,0,0,Shrewsbury township
+34627,61,42,133,72992,0,0,Springettsbury township
+34628,61,42,133,73096,0,0,Springfield township
+34629,61,42,133,73168,0,0,Spring Garden township
+34630,61,42,133,73192,0,0,Spring Grove borough
+34631,61,42,133,74104,0,0,Stewartstown borough
+34632,61,42,133,81056,0,0,Warrington township
+34633,61,42,133,81352,0,0,Washington township
+34634,61,42,133,82200,0,0,Wellsville borough
+34635,61,42,133,83432,0,0,West Manchester township
+34636,61,42,133,83440,0,0,West Manheim township
+34637,61,42,133,84288,0,0,West York borough
+34638,61,42,133,85728,0,0,Windsor borough
+34639,61,42,133,85736,0,0,Windsor township
+34640,61,42,133,85872,0,0,Winterstown borough
+34641,61,42,133,86640,0,0,Wrightsville borough
+34642,61,42,133,87040,0,0,Yoe borough
+34643,61,42,133,87048,0,0,York city
+34644,61,42,133,87056,0,0,York township
+34645,61,42,133,87064,0,0,Yorkana borough
+34646,61,42,133,87080,0,0,York Haven borough
+34647,162,42,0,0,116,0,Abbottstown borough
+34648,162,42,0,0,332,0,Adamsburg borough
+34649,162,42,0,0,364,0,Adamstown borough
+34650,162,42,0,0,396,0,Addison borough
+34651,162,42,0,0,540,0,Akron borough
+34652,162,42,0,0,572,0,Alba borough
+34653,162,42,0,0,628,0,Albion borough
+34654,162,42,0,0,660,0,Alburtis borough
+34655,162,42,0,0,676,0,Aldan borough
+34656,162,42,0,0,756,0,Alexandria borough
+34657,162,42,0,0,820,0,Aliquippa city
+34658,162,42,0,0,988,0,Allenport borough
+34659,162,42,0,0,2000,0,Allentown city
+34660,162,42,0,0,2184,0,Altoona city
+34661,162,42,0,0,2264,0,Ambler borough
+34662,162,42,0,0,2288,0,Ambridge borough
+34663,162,42,0,0,2720,0,Apollo borough
+34664,162,42,0,0,2752,0,Applewold borough
+34665,162,42,0,0,2832,0,Archbald borough
+34666,162,42,0,0,2928,0,Arendtsville borough
+34667,162,42,0,0,3032,0,Armagh borough
+34668,162,42,0,0,3088,0,Arnold city
+34669,162,42,0,0,3120,0,Arona borough
+34670,162,42,0,0,3264,0,Ashland borough
+34671,162,42,0,0,3272,0,Ashley borough
+34672,162,42,0,0,3296,0,Ashville borough
+34673,162,42,0,0,3320,0,Aspinwall borough
+34674,162,42,0,0,3384,0,Atglen borough
+34675,162,42,0,0,3392,0,Athens borough
+34676,162,42,0,0,3480,0,Atwood borough
+34677,162,42,0,0,3488,0,Auburn borough
+34678,162,42,0,0,3576,0,Austin borough
+34679,162,42,0,0,3608,0,Avalon borough
+34680,162,42,0,0,3632,0,Avis borough
+34681,162,42,0,0,3640,0,Avoca borough
+34682,162,42,0,0,3656,0,Avondale borough
+34683,162,42,0,0,3688,0,Avonmore borough
+34684,162,42,0,0,3736,0,Baden borough
+34685,162,42,0,0,3928,0,Baldwin borough
+34686,162,42,0,0,3984,0,Bally borough
+34687,162,42,0,0,4032,0,Bangor borough
+34688,162,42,0,0,4136,0,Barkeyville borough
+34689,162,42,0,0,4432,0,Bath borough
+34690,162,42,0,0,4568,0,Beallsville borough
+34691,162,42,0,0,4599,0,Bear Creek Village borough
+34692,162,42,0,0,4608,0,Bear Lake borough
+34693,162,42,0,0,4688,0,Beaver borough
+34694,162,42,0,0,4792,0,Beaver Falls city
+34695,162,42,0,0,4816,0,Beaver Meadows borough
+34696,162,42,0,0,4848,0,Beavertown borough
+34697,162,42,0,0,4896,0,Bechtelsville borough
+34698,162,42,0,0,4944,0,Bedford borough
+34699,162,42,0,0,4984,0,Beech Creek borough
+34700,162,42,0,0,5216,0,Bell Acres borough
+34701,162,42,0,0,5256,0,Bellefonte borough
+34702,162,42,0,0,5288,0,Belle Vernon borough
+34703,162,42,0,0,5312,0,Bellevue borough
+34704,162,42,0,0,5384,0,Bellwood borough
+34705,162,42,0,0,5504,0,Ben Avon borough
+34706,162,42,0,0,5520,0,Ben Avon Heights borough
+34707,162,42,0,0,5536,0,Bendersville borough
+34708,162,42,0,0,5648,0,Benson borough
+34709,162,42,0,0,5672,0,Bentleyville borough
+34710,162,42,0,0,5680,0,Benton borough
+34711,162,42,0,0,5776,0,Berlin borough
+34712,162,42,0,0,5848,0,Bernville borough
+34713,162,42,0,0,5856,0,Berrysburg borough
+34714,162,42,0,0,5888,0,Berwick borough
+34715,162,42,0,0,5936,0,Bessemer borough
+34716,162,42,0,0,5976,0,Bethany borough
+34717,162,42,0,0,6064,0,Bethel Park municipality
+34718,162,42,0,0,6088,0,Bethlehem city
+34719,162,42,0,0,6240,0,Big Beaver borough
+34720,162,42,0,0,6296,0,Biglerville borough
+34721,162,42,0,0,6344,0,Big Run borough
+34722,162,42,0,0,6504,0,Birdsboro borough
+34723,162,42,0,0,6560,0,Birmingham borough
+34724,162,42,0,0,6824,0,Blain borough
+34725,162,42,0,0,6904,0,Blairsville borough
+34726,162,42,0,0,6928,0,Blakely borough
+34727,162,42,0,0,7000,0,Blawnox borough
+34728,162,42,0,0,7040,0,Bloomfield borough
+34729,162,42,0,0,7120,0,Blooming Valley borough
+34730,162,42,0,0,7128,0,Bloomsburg town
+34731,162,42,0,0,7160,0,Blossburg borough
+34732,162,42,0,0,7480,0,Bolivar borough
+34733,162,42,0,0,7560,0,Bonneauville borough
+34734,162,42,0,0,7712,0,Boswell borough
+34735,162,42,0,0,7880,0,Bowmanstown borough
+34736,162,42,0,0,7960,0,Boyertown borough
+34737,162,42,0,0,7976,0,Brackenridge borough
+34738,162,42,0,0,7992,0,Braddock borough
+34739,162,42,0,0,8008,0,Braddock Hills borough
+34740,162,42,0,0,8040,0,Bradford city
+34741,162,42,0,0,8064,0,Bradford Woods borough
+34742,162,42,0,0,8416,0,Brentwood borough
+34743,162,42,0,0,8472,0,Briar Creek borough
+34744,162,42,0,0,8568,0,Bridgeport borough
+34745,162,42,0,0,8624,0,Bridgeville borough
+34746,162,42,0,0,8632,0,Bridgewater borough
+34747,162,42,0,0,8744,0,Brisbin borough
+34748,162,42,0,0,8760,0,Bristol borough
+34749,162,42,0,0,8896,0,Broad Top City borough
+34750,162,42,0,0,8960,0,Brockway borough
+34751,162,42,0,0,9080,0,Brookhaven borough
+34752,162,42,0,0,9224,0,Brookville borough
+34753,162,42,0,0,9400,0,Brownstown borough
+34754,162,42,0,0,9432,0,Brownsville borough
+34755,162,42,0,0,9528,0,Bruin borough
+34756,162,42,0,0,9696,0,Bryn Athyn borough
+34757,162,42,0,0,10224,0,Burgettstown borough
+34758,162,42,0,0,10240,0,Burlington borough
+34759,162,42,0,0,10256,0,Burnham borough
+34760,162,42,0,0,10280,0,Burnside borough
+34761,162,42,0,0,10464,0,Butler city
+34762,162,42,0,0,10768,0,California borough
+34763,162,42,0,0,10792,0,Callensburg borough
+34764,162,42,0,0,10800,0,Callery borough
+34765,162,42,0,0,10808,0,Callimont borough
+34766,162,42,0,0,10912,0,Cambridge Springs borough
+34767,162,42,0,0,11000,0,Camp Hill borough
+34768,162,42,0,0,11152,0,Canonsburg borough
+34769,162,42,0,0,11160,0,Canton borough
+34770,162,42,0,0,11232,0,Carbondale city
+34771,162,42,0,0,11272,0,Carlisle borough
+34772,162,42,0,0,11328,0,Carmichaels borough
+34773,162,42,0,0,11336,0,Carnegie borough
+34774,162,42,0,0,11456,0,Carrolltown borough
+34775,162,42,0,0,11472,0,Carroll Valley borough
+34776,162,42,0,0,11616,0,Cassandra borough
+34777,162,42,0,0,11624,0,Casselman borough
+34778,162,42,0,0,11632,0,Cassville borough
+34779,162,42,0,0,11680,0,Castle Shannon borough
+34780,162,42,0,0,11720,0,Catasauqua borough
+34781,162,42,0,0,11736,0,Catawissa borough
+34782,162,42,0,0,12104,0,Centerport borough
+34783,162,42,0,0,12184,0,Centerville borough
+34784,162,42,0,0,12224,0,Centerville borough
+34785,162,42,0,0,12296,0,Central City borough
+34786,162,42,0,0,12312,0,Centralia borough
+34787,162,42,0,0,12376,0,Centre Hall borough
+34788,162,42,0,0,12496,0,Chalfant borough
+34789,162,42,0,0,12504,0,Chalfont borough
+34790,162,42,0,0,12536,0,Chambersburg borough
+34791,162,42,0,0,12656,0,Chapman borough
+34792,162,42,0,0,12704,0,Charleroi borough
+34793,162,42,0,0,13120,0,Cherry Tree borough
+34794,162,42,0,0,13152,0,Cherry Valley borough
+34795,162,42,0,0,13208,0,Chester city
+34796,162,42,0,0,13232,0,Chester Heights borough
+34797,162,42,0,0,13240,0,Chester Hill borough
+34798,162,42,0,0,13384,0,Chest Springs borough
+34799,162,42,0,0,13392,0,Cheswick borough
+34800,162,42,0,0,13440,0,Chicora borough
+34801,162,42,0,0,13512,0,Christiana borough
+34802,162,42,0,0,13608,0,Churchill borough
+34803,162,42,0,0,13704,0,Clairton city
+34804,162,42,0,0,13776,0,Clarendon borough
+34805,162,42,0,0,13800,0,Clarion borough
+34806,162,42,0,0,13832,0,Clark borough
+34807,162,42,0,0,13864,0,Clarks Green borough
+34808,162,42,0,0,13880,0,Clarks Summit borough
+34809,162,42,0,0,13896,0,Clarksville borough
+34810,162,42,0,0,14000,0,Claysville borough
+34811,162,42,0,0,14064,0,Clearfield borough
+34812,162,42,0,0,14160,0,Cleona borough
+34813,162,42,0,0,14264,0,Clifton Heights borough
+34814,162,42,0,0,14376,0,Clintonville borough
+34815,162,42,0,0,14520,0,Clymer borough
+34816,162,42,0,0,14568,0,Coal Center borough
+34817,162,42,0,0,14584,0,Coaldale borough
+34818,162,42,0,0,14600,0,Coaldale borough
+34819,162,42,0,0,14640,0,Coalmont borough
+34820,162,42,0,0,14656,0,Coalport borough
+34821,162,42,0,0,14712,0,Coatesville city
+34822,162,42,0,0,14800,0,Cochranton borough
+34823,162,42,0,0,14896,0,Cokeburg borough
+34824,162,42,0,0,15192,0,Collegeville borough
+34825,162,42,0,0,15232,0,Collingdale borough
+34826,162,42,0,0,15384,0,Columbia borough
+34827,162,42,0,0,15432,0,Colwyn borough
+34828,162,42,0,0,15680,0,Confluence borough
+34829,162,42,0,0,15744,0,Conneaut Lake borough
+34830,162,42,0,0,15760,0,Conneautville borough
+34831,162,42,0,0,15776,0,Connellsville city
+34832,162,42,0,0,15808,0,Connoquenessing borough
+34833,162,42,0,0,15848,0,Conshohocken borough
+34834,162,42,0,0,15872,0,Conway borough
+34835,162,42,0,0,15888,0,Conyngham borough
+34836,162,42,0,0,16056,0,Coopersburg borough
+34837,162,42,0,0,16080,0,Cooperstown borough
+34838,162,42,0,0,16128,0,Coplay borough
+34839,162,42,0,0,16144,0,Coraopolis borough
+34840,162,42,0,0,16256,0,Cornwall borough
+34841,162,42,0,0,16296,0,Corry city
+34842,162,42,0,0,16304,0,Corsica borough
+34843,162,42,0,0,16448,0,Coudersport borough
+34844,162,42,0,0,16568,0,Courtdale borough
+34845,162,42,0,0,16848,0,Crafton borough
+34846,162,42,0,0,16960,0,Cranesville borough
+34847,162,42,0,0,17024,0,Creekside borough
+34848,162,42,0,0,17136,0,Cresson borough
+34849,162,42,0,0,17152,0,Cressona borough
+34850,162,42,0,0,17416,0,Cross Roads borough
+34851,162,42,0,0,17840,0,Curwensville borough
+34852,162,42,0,0,17976,0,Daisytown borough
+34853,162,42,0,0,18000,0,Dale borough
+34854,162,42,0,0,18048,0,Dallas borough
+34855,162,42,0,0,18072,0,Dallastown borough
+34856,162,42,0,0,18088,0,Dalton borough
+34857,162,42,0,0,18136,0,Danville borough
+34858,162,42,0,0,18152,0,Darby borough
+34859,162,42,0,0,18192,0,Darlington borough
+34860,162,42,0,0,18272,0,Dauphin borough
+34861,162,42,0,0,18360,0,Dawson borough
+34862,162,42,0,0,18400,0,Dayton borough
+34863,162,42,0,0,18496,0,Deemston borough
+34864,162,42,0,0,18576,0,Deer Lake borough
+34865,162,42,0,0,18736,0,Delaware Water Gap borough
+34866,162,42,0,0,18768,0,Delmont borough
+34867,162,42,0,0,18800,0,Delta borough
+34868,162,42,0,0,18888,0,Denver borough
+34869,162,42,0,0,18960,0,Derry borough
+34870,162,42,0,0,19160,0,Dickson City borough
+34871,162,42,0,0,19208,0,Dillsburg borough
+34872,162,42,0,0,19472,0,Donegal borough
+34873,162,42,0,0,19536,0,Donora borough
+34874,162,42,0,0,19576,0,Dormont borough
+34875,162,42,0,0,19696,0,Dover borough
+34876,162,42,0,0,19752,0,Downingtown borough
+34877,162,42,0,0,19784,0,Doylestown borough
+34878,162,42,0,0,19856,0,Dravosburg borough
+34879,162,42,0,0,19976,0,Driftwood borough
+34880,162,42,0,0,20104,0,Dublin borough
+34881,162,42,0,0,20136,0,DuBois city
+34882,162,42,0,0,20144,0,Duboistown borough
+34883,162,42,0,0,20152,0,Dudley borough
+34884,162,42,0,0,20216,0,Dunbar borough
+34885,162,42,0,0,20240,0,Duncannon borough
+34886,162,42,0,0,20248,0,Duncansville borough
+34887,162,42,0,0,20328,0,Dunlevy borough
+34888,162,42,0,0,20352,0,Dunmore borough
+34889,162,42,0,0,20424,0,Dupont borough
+34890,162,42,0,0,20432,0,Duquesne city
+34891,162,42,0,0,20512,0,Duryea borough
+34892,162,42,0,0,20528,0,Dushore borough
+34893,162,42,0,0,20648,0,Eagles Mere borough
+34894,162,42,0,0,20776,0,East Bangor borough
+34895,162,42,0,0,20792,0,East Berlin borough
+34896,162,42,0,0,20840,0,East Brady borough
+34897,162,42,0,0,20904,0,East Butler borough
+34898,162,42,0,0,20992,0,East Conemaugh borough
+34899,162,42,0,0,21200,0,East Greenville borough
+34900,162,42,0,0,21384,0,East Lansdowne borough
+34901,162,42,0,0,21444,0,East McKeesport borough
+34902,162,42,0,0,21648,0,Easton city
+34903,162,42,0,0,21688,0,East Petersburg borough
+34904,162,42,0,0,21712,0,East Pittsburgh borough
+34905,162,42,0,0,21728,0,East Prospect borough
+34906,162,42,0,0,21752,0,East Rochester borough
+34907,162,42,0,0,21816,0,East Side borough
+34908,162,42,0,0,21872,0,East Stroudsburg borough
+34909,162,42,0,0,21968,0,Eastvale borough
+34910,162,42,0,0,21976,0,East Vandergrift borough
+34911,162,42,0,0,22016,0,East Washington borough
+34912,162,42,0,0,22128,0,Eau Claire borough
+34913,162,42,0,0,22144,0,Ebensburg borough
+34914,162,42,0,0,22264,0,Economy borough
+34915,162,42,0,0,22296,0,Eddystone borough
+34916,162,42,0,0,22520,0,Edgewood borough
+34917,162,42,0,0,22576,0,Edgeworth borough
+34918,162,42,0,0,22608,0,Edinboro borough
+34919,162,42,0,0,22672,0,Edwardsville borough
+34920,162,42,0,0,22712,0,Ehrenfeld borough
+34921,162,42,0,0,22800,0,Elco borough
+34922,162,42,0,0,22832,0,Elderton borough
+34923,162,42,0,0,22888,0,Eldred borough
+34924,162,42,0,0,22960,0,Elgin borough
+34925,162,42,0,0,22992,0,Elizabeth borough
+34926,162,42,0,0,23016,0,Elizabethtown borough
+34927,162,42,0,0,23024,0,Elizabethville borough
+34928,162,42,0,0,23152,0,Elkland borough
+34929,162,42,0,0,23280,0,Ellport borough
+34930,162,42,0,0,23296,0,Ellsworth borough
+34931,162,42,0,0,23304,0,Ellwood City borough
+34932,162,42,0,0,23440,0,Elverson borough
+34933,162,42,0,0,23568,0,Emlenton borough
+34934,162,42,0,0,23584,0,Emmaus borough
+34935,162,42,0,0,23600,0,Emporium borough
+34936,162,42,0,0,23616,0,Emsworth borough
+34937,162,42,0,0,23768,0,Enon Valley borough
+34938,162,42,0,0,23832,0,Ephrata borough
+34939,162,42,0,0,24000,0,Erie city
+34940,162,42,0,0,24040,0,Ernest borough
+34941,162,42,0,0,24160,0,Etna borough
+34942,162,42,0,0,24248,0,Evans City borough
+34943,162,42,0,0,24304,0,Everett borough
+34944,162,42,0,0,24336,0,Everson borough
+34945,162,42,0,0,24392,0,Exeter borough
+34946,162,42,0,0,24432,0,Export borough
+34947,162,42,0,0,24488,0,Factoryville borough
+34948,162,42,0,0,24536,0,Fairchance borough
+34949,162,42,0,0,24560,0,Fairfield borough
+34950,162,42,0,0,24832,0,Fairview borough
+34951,162,42,0,0,25136,0,Falls Creek borough
+34952,162,42,0,0,25152,0,Fallston borough
+34953,162,42,0,0,25360,0,Farrell city
+34954,162,42,0,0,25416,0,Fawn Grove borough
+34955,162,42,0,0,25456,0,Fayette City borough
+34956,162,42,0,0,25584,0,Felton borough
+34957,162,42,0,0,25680,0,Ferndale borough
+34958,162,42,0,0,25944,0,Finleyville borough
+34959,162,42,0,0,26280,0,Fleetwood borough
+34960,162,42,0,0,26296,0,Flemington borough
+34961,162,42,0,0,26408,0,Folcroft borough
+34962,162,42,0,0,26512,0,Ford City borough
+34963,162,42,0,0,26520,0,Ford Cliff borough
+34964,162,42,0,0,26560,0,Forest City borough
+34965,162,42,0,0,26592,0,Forest Hills borough
+34966,162,42,0,0,26760,0,Forksville borough
+34967,162,42,0,0,26880,0,Forty Fort borough
+34968,162,42,0,0,27008,0,Fountain Hill borough
+34969,162,42,0,0,27112,0,Foxburg borough
+34970,162,42,0,0,27120,0,Fox Chapel borough
+34971,162,42,0,0,27232,0,Frackville borough
+34972,162,42,0,0,27312,0,Frankfort Springs borough
+34973,162,42,0,0,27360,0,Franklin borough
+34974,162,42,0,0,27456,0,Franklin city
+34975,162,42,0,0,27552,0,Franklin Park borough
+34976,162,42,0,0,27576,0,Franklintown borough
+34977,162,42,0,0,27688,0,Fredonia borough
+34978,162,42,0,0,27696,0,Freeburg borough
+34979,162,42,0,0,27712,0,Freedom borough
+34980,162,42,0,0,27744,0,Freeland borough
+34981,162,42,0,0,27760,0,Freemansburg borough
+34982,162,42,0,0,27784,0,Freeport borough
+34983,162,42,0,0,27968,0,Friendsville borough
+34984,162,42,0,0,28280,0,Galeton borough
+34985,162,42,0,0,28328,0,Gallitzin borough
+34986,162,42,0,0,28520,0,Garrett borough
+34987,162,42,0,0,28720,0,Geistown borough
+34988,162,42,0,0,28824,0,Georgetown borough
+34989,162,42,0,0,28960,0,Gettysburg borough
+34990,162,42,0,0,29088,0,Gilberton borough
+34991,162,42,0,0,29232,0,Girard borough
+34992,162,42,0,0,29264,0,Girardville borough
+34993,162,42,0,0,29392,0,Glasgow borough
+34994,162,42,0,0,29432,0,Glassport borough
+34995,162,42,0,0,29512,0,Glen Campbell borough
+34996,162,42,0,0,29568,0,Glendon borough
+34997,162,42,0,0,29592,0,Glenfield borough
+34998,162,42,0,0,29632,0,Glen Hope borough
+34999,162,42,0,0,29720,0,Glenolden borough
+35000,162,42,0,0,29732,0,Glen Osborne borough
+35001,162,42,0,0,29760,0,Glen Rock borough
+35002,162,42,0,0,30016,0,Goldsboro borough
+35003,162,42,0,0,30128,0,Gordon borough
+35004,162,42,0,0,30280,0,Grampian borough
+35005,162,42,0,0,30600,0,Gratz borough
+35006,162,42,0,0,30728,0,Great Bend borough
+35007,162,42,0,0,30896,0,Greencastle borough
+35008,162,42,0,0,31082,0,Green Hills borough
+35009,162,42,0,0,31088,0,Green Lane borough
+35010,162,42,0,0,31192,0,Greensboro borough
+35011,162,42,0,0,31200,0,Greensburg city
+35012,162,42,0,0,31256,0,Green Tree borough
+35013,162,42,0,0,31328,0,Greenville borough
+35014,162,42,0,0,31656,0,Grove City borough
+35015,162,42,0,0,32032,0,Halifax borough
+35016,162,42,0,0,32056,0,Hallam borough
+35017,162,42,0,0,32080,0,Hallstead borough
+35018,162,42,0,0,32120,0,Hamburg borough
+35019,162,42,0,0,32448,0,Hanover borough
+35020,162,42,0,0,32688,0,Harmony borough
+35021,162,42,0,0,32800,0,Harrisburg city
+35022,162,42,0,0,32896,0,Harrisville borough
+35023,162,42,0,0,32936,0,Hartleton borough
+35024,162,42,0,0,33000,0,Harveys Lake borough
+35025,162,42,0,0,33080,0,Hastings borough
+35026,162,42,0,0,33088,0,Hatboro borough
+35027,162,42,0,0,33112,0,Hatfield borough
+35028,162,42,0,0,33200,0,Hawley borough
+35029,162,42,0,0,33216,0,Hawthorn borough
+35030,162,42,0,0,33312,0,Haysville borough
+35031,162,42,0,0,33408,0,Hazleton city
+35032,162,42,0,0,33592,0,Heidelberg borough
+35033,162,42,0,0,33744,0,Hellertown borough
+35034,162,42,0,0,34064,0,Hermitage city
+35035,162,42,0,0,34080,0,Herndon borough
+35036,162,42,0,0,34664,0,Highspire borough
+35037,162,42,0,0,35224,0,Hollidaysburg borough
+35038,162,42,0,0,35408,0,Homer City borough
+35039,162,42,0,0,35424,0,Homestead borough
+35040,162,42,0,0,35488,0,Homewood borough
+35041,162,42,0,0,35520,0,Honesdale borough
+35042,162,42,0,0,35528,0,Honey Brook borough
+35043,162,42,0,0,35576,0,Hookstown borough
+35044,162,42,0,0,35608,0,Hooversville borough
+35045,162,42,0,0,35624,0,Hop Bottom borough
+35046,162,42,0,0,35648,0,Hopewell borough
+35047,162,42,0,0,35896,0,Houston borough
+35048,162,42,0,0,35928,0,Houtzdale borough
+35049,162,42,0,0,35960,0,Howard borough
+35050,162,42,0,0,36152,0,Hughestown borough
+35051,162,42,0,0,36160,0,Hughesville borough
+35052,162,42,0,0,36192,0,Hulmeville borough
+35053,162,42,0,0,36232,0,Hummelstown borough
+35054,162,42,0,0,36288,0,Hunker borough
+35055,162,42,0,0,36368,0,Huntingdon borough
+35056,162,42,0,0,36592,0,Hyde Park borough
+35057,162,42,0,0,36616,0,Hydetown borough
+35058,162,42,0,0,36640,0,Hyndman borough
+35059,162,42,0,0,36816,0,Indiana borough
+35060,162,42,0,0,36888,0,Indian Lake borough
+35061,162,42,0,0,36944,0,Industry borough
+35062,162,42,0,0,37000,0,Ingram borough
+35063,162,42,0,0,37192,0,Irvona borough
+35064,162,42,0,0,37208,0,Irwin borough
+35065,162,42,0,0,37304,0,Ivyland borough
+35066,162,42,0,0,37496,0,Jackson Center borough
+35067,162,42,0,0,37640,0,Jacobus borough
+35068,162,42,0,0,37696,0,Jamestown borough
+35069,162,42,0,0,37784,0,Jeannette city
+35070,162,42,0,0,37792,0,Jeddo borough
+35071,162,42,0,0,37880,0,Jefferson borough
+35072,162,42,0,0,37944,0,Jefferson borough
+35073,162,42,0,0,37955,0,Jefferson Hills borough
+35074,162,42,0,0,38000,0,Jenkintown borough
+35075,162,42,0,0,38048,0,Jennerstown borough
+35076,162,42,0,0,38096,0,Jermyn borough
+35077,162,42,0,0,38128,0,Jersey Shore borough
+35078,162,42,0,0,38160,0,Jessup borough
+35079,162,42,0,0,38200,0,Jim Thorpe borough
+35080,162,42,0,0,38248,0,Johnsonburg borough
+35081,162,42,0,0,38288,0,Johnstown city
+35082,162,42,0,0,38400,0,Jonestown borough
+35083,162,42,0,0,38640,0,Juniata Terrace borough
+35084,162,42,0,0,38688,0,Kane borough
+35085,162,42,0,0,38768,0,Karns City borough
+35086,162,42,0,0,39256,0,Kenhorst borough
+35087,162,42,0,0,39352,0,Kennett Square borough
+35088,162,42,0,0,39784,0,Kingston borough
+35089,162,42,0,0,40016,0,Kistler borough
+35090,162,42,0,0,40040,0,Kittanning borough
+35091,162,42,0,0,40272,0,Knox borough
+35092,162,42,0,0,40360,0,Knoxville borough
+35093,162,42,0,0,40400,0,Koppel borough
+35094,162,42,0,0,40584,0,Kulpmont borough
+35095,162,42,0,0,40656,0,Kutztown borough
+35096,162,42,0,0,40744,0,Laceyville borough
+35097,162,42,0,0,40848,0,Laflin borough
+35098,162,42,0,0,40960,0,Lake City borough
+35099,162,42,0,0,41216,0,Lancaster city
+35100,162,42,0,0,41264,0,Landingville borough
+35101,162,42,0,0,41272,0,Landisburg borough
+35102,162,42,0,0,41336,0,Lanesboro borough
+35103,162,42,0,0,41392,0,Langhorne borough
+35104,162,42,0,0,41416,0,Langhorne Manor borough
+35105,162,42,0,0,41432,0,Lansdale borough
+35106,162,42,0,0,41440,0,Lansdowne borough
+35107,162,42,0,0,41464,0,Lansford borough
+35108,162,42,0,0,41512,0,Laporte borough
+35109,162,42,0,0,41608,0,Larksville borough
+35110,162,42,0,0,41680,0,Latrobe borough
+35111,162,42,0,0,41768,0,Laureldale borough
+35112,162,42,0,0,41834,0,Laurel Mountain borough
+35113,162,42,0,0,41848,0,Laurel Run borough
+35114,162,42,0,0,42016,0,Lawrenceville borough
+35115,162,42,0,0,42168,0,Lebanon city
+35116,162,42,0,0,42280,0,Leechburg borough
+35117,162,42,0,0,42352,0,Leesport borough
+35118,162,42,0,0,42392,0,Leetsdale borough
+35119,162,42,0,0,42472,0,Lehighton borough
+35120,162,42,0,0,42648,0,Lemoyne borough
+35121,162,42,0,0,42688,0,Lenhartsville borough
+35122,162,42,0,0,42824,0,Le Raysville borough
+35123,162,42,0,0,42968,0,Lewisberry borough
+35124,162,42,0,0,42976,0,Lewisburg borough
+35125,162,42,0,0,42984,0,Lewis Run borough
+35126,162,42,0,0,43000,0,Lewistown borough
+35127,162,42,0,0,43064,0,Liberty borough
+35128,162,42,0,0,43128,0,Liberty borough
+35129,162,42,0,0,43232,0,Ligonier borough
+35130,162,42,0,0,43248,0,Lilly borough
+35131,162,42,0,0,43408,0,Lincoln borough
+35132,162,42,0,0,43656,0,Linesville borough
+35133,162,42,0,0,43816,0,Lititz borough
+35134,162,42,0,0,43928,0,Little Meadows borough
+35135,162,42,0,0,43944,0,Littlestown borough
+35136,162,42,0,0,43968,0,Liverpool borough
+35137,162,42,0,0,44128,0,Lock Haven city
+35138,162,42,0,0,44400,0,Loganton borough
+35139,162,42,0,0,44416,0,Loganville borough
+35140,162,42,0,0,44512,0,Long Branch borough
+35141,162,42,0,0,44664,0,Lorain borough
+35142,162,42,0,0,44704,0,Loretto borough
+35143,162,42,0,0,44864,0,Lower Burrell city
+35144,162,42,0,0,45568,0,Luzerne borough
+35145,162,42,0,0,45592,0,Lykens borough
+35146,162,42,0,0,45752,0,Lyons borough
+35147,162,42,0,0,45824,0,McAdoo borough
+35148,162,42,0,0,45992,0,McClure borough
+35149,162,42,0,0,46000,0,McConnellsburg borough
+35150,162,42,0,0,46072,0,McDonald borough
+35151,162,42,0,0,46120,0,McEwensville borough
+35152,162,42,0,0,46216,0,McKean borough
+35153,162,42,0,0,46256,0,McKeesport city
+35154,162,42,0,0,46264,0,McKees Rocks borough
+35155,162,42,0,0,46376,0,McSherrystown borough
+35156,162,42,0,0,46392,0,Macungie borough
+35157,162,42,0,0,46400,0,McVeytown borough
+35158,162,42,0,0,46488,0,Madison borough
+35159,162,42,0,0,46568,0,Mahaffey borough
+35160,162,42,0,0,46592,0,Mahanoy City borough
+35161,162,42,0,0,46792,0,Malvern borough
+35162,162,42,0,0,46864,0,Manchester borough
+35163,162,42,0,0,46888,0,Manheim borough
+35164,162,42,0,0,46944,0,Manns Choice borough
+35165,162,42,0,0,47000,0,Manor borough
+35166,162,42,0,0,47064,0,Manorville borough
+35167,162,42,0,0,47080,0,Mansfield borough
+35168,162,42,0,0,47248,0,Mapleton borough
+35169,162,42,0,0,47344,0,Marcus Hook borough
+35170,162,42,0,0,47400,0,Marianna borough
+35171,162,42,0,0,47424,0,Marietta borough
+35172,162,42,0,0,47472,0,Marion Center borough
+35173,162,42,0,0,47480,0,Marion Heights borough
+35174,162,42,0,0,47544,0,Marklesburg borough
+35175,162,42,0,0,47560,0,Markleysburg borough
+35176,162,42,0,0,47672,0,Mars borough
+35177,162,42,0,0,47872,0,Martinsburg borough
+35178,162,42,0,0,47968,0,Marysville borough
+35179,162,42,0,0,48000,0,Masontown borough
+35180,162,42,0,0,48048,0,Matamoras borough
+35181,162,42,0,0,48176,0,Mayfield borough
+35182,162,42,0,0,48360,0,Meadville city
+35183,162,42,0,0,48376,0,Mechanicsburg borough
+35184,162,42,0,0,48448,0,Mechanicsville borough
+35185,162,42,0,0,48480,0,Media borough
+35186,162,42,0,0,48696,0,Mercer borough
+35187,162,42,0,0,48704,0,Mercersburg borough
+35188,162,42,0,0,48856,0,Meshoppen borough
+35189,162,42,0,0,48912,0,Meyersdale borough
+35190,162,42,0,0,48960,0,Middleburg borough
+35191,162,42,0,0,49048,0,Middleport borough
+35192,162,42,0,0,49128,0,Middletown borough
+35193,162,42,0,0,49184,0,Midland borough
+35194,162,42,0,0,49240,0,Midway borough
+35195,162,42,0,0,49272,0,Mifflin borough
+35196,162,42,0,0,49288,0,Mifflinburg borough
+35197,162,42,0,0,49304,0,Mifflintown borough
+35198,162,42,0,0,49368,0,Milesburg borough
+35199,162,42,0,0,49400,0,Milford borough
+35200,162,42,0,0,49504,0,Millbourne borough
+35201,162,42,0,0,49552,0,Mill Creek borough
+35202,162,42,0,0,49680,0,Millersburg borough
+35203,162,42,0,0,49720,0,Millerstown borough
+35204,162,42,0,0,49728,0,Millersville borough
+35205,162,42,0,0,49760,0,Mill Hall borough
+35206,162,42,0,0,49768,0,Millheim borough
+35207,162,42,0,0,49920,0,Millvale borough
+35208,162,42,0,0,49936,0,Mill Village borough
+35209,162,42,0,0,49944,0,Millville borough
+35210,162,42,0,0,50016,0,Milton borough
+35211,162,42,0,0,50088,0,Minersville borough
+35212,162,42,0,0,50232,0,Modena borough
+35213,162,42,0,0,50272,0,Mohnton borough
+35214,162,42,0,0,50320,0,Monaca borough
+35215,162,42,0,0,50344,0,Monessen city
+35216,162,42,0,0,50408,0,Monongahela city
+35217,162,42,0,0,50432,0,Monroe borough
+35218,162,42,0,0,50528,0,Monroeville municipality
+35219,162,42,0,0,50544,0,Mont Alto borough
+35220,162,42,0,0,50632,0,Montgomery borough
+35221,162,42,0,0,50720,0,Montoursville borough
+35222,162,42,0,0,50736,0,Montrose borough
+35223,162,42,0,0,50880,0,Moosic borough
+35224,162,42,0,0,51144,0,Morrisville borough
+35225,162,42,0,0,51176,0,Morton borough
+35226,162,42,0,0,51208,0,Moscow borough
+35227,162,42,0,0,51488,0,Mount Carbon borough
+35228,162,42,0,0,51496,0,Mount Carmel borough
+35229,162,42,0,0,51568,0,Mount Gretna borough
+35230,162,42,0,0,51592,0,Mount Holly Springs borough
+35231,162,42,0,0,51632,0,Mount Jewett borough
+35232,162,42,0,0,51656,0,Mount Joy borough
+35233,162,42,0,0,51744,0,Mount Oliver borough
+35234,162,42,0,0,51760,0,Mount Penn borough
+35235,162,42,0,0,51880,0,Mount Pleasant borough
+35236,162,42,0,0,51912,0,Mount Pocono borough
+35237,162,42,0,0,51984,0,Mount Union borough
+35238,162,42,0,0,52016,0,Mountville borough
+35239,162,42,0,0,52056,0,Mount Wolf borough
+35240,162,42,0,0,52264,0,Muncy borough
+35241,162,42,0,0,52320,0,Munhall borough
+35242,162,42,0,0,52432,0,Murrysville municipality
+35243,162,42,0,0,52488,0,Myerstown borough
+35244,162,42,0,0,52584,0,Nanticoke city
+35245,162,42,0,0,52616,0,Nanty-Glo borough
+35246,162,42,0,0,52664,0,Narberth borough
+35247,162,42,0,0,52808,0,Nazareth borough
+35248,162,42,0,0,52984,0,Nescopeck borough
+35249,162,42,0,0,53088,0,Nesquehoning borough
+35250,162,42,0,0,53152,0,New Albany borough
+35251,162,42,0,0,53160,0,New Alexandria borough
+35252,162,42,0,0,53168,0,New Baltimore borough
+35253,162,42,0,0,53184,0,New Beaver borough
+35254,162,42,0,0,53200,0,New Berlin borough
+35255,162,42,0,0,53248,0,New Bethlehem borough
+35256,162,42,0,0,53288,0,New Brighton borough
+35257,162,42,0,0,53296,0,New Britain borough
+35258,162,42,0,0,53320,0,New Buffalo borough
+35259,162,42,0,0,53336,0,Newburg borough
+35260,162,42,0,0,53344,0,Newburg borough
+35261,162,42,0,0,53368,0,New Castle city
+35262,162,42,0,0,53416,0,New Centerville borough
+35263,162,42,0,0,53448,0,New Columbus borough
+35264,162,42,0,0,53464,0,New Cumberland borough
+35265,162,42,0,0,53496,0,New Eagle borough
+35266,162,42,0,0,53504,0,Newell borough
+35267,162,42,0,0,53544,0,New Florence borough
+35268,162,42,0,0,53568,0,New Freedom borough
+35269,162,42,0,0,53592,0,New Galilee borough
+35270,162,42,0,0,53696,0,New Holland borough
+35271,162,42,0,0,53712,0,New Hope borough
+35272,162,42,0,0,53736,0,New Kensington city
+35273,162,42,0,0,53768,0,New Lebanon borough
+35274,162,42,0,0,53880,0,New Milford borough
+35275,162,42,0,0,53916,0,New Morgan borough
+35276,162,42,0,0,53920,0,New Oxford borough
+35277,162,42,0,0,53928,0,New Paris borough
+35278,162,42,0,0,53944,0,New Philadelphia borough
+35279,162,42,0,0,53968,0,Newport borough
+35280,162,42,0,0,54016,0,New Ringgold borough
+35281,162,42,0,0,54024,0,Newry borough
+35282,162,42,0,0,54056,0,New Salem borough
+35283,162,42,0,0,54104,0,New Stanton borough
+35284,162,42,0,0,54160,0,Newton Hamilton borough
+35285,162,42,0,0,54184,0,Newtown borough
+35286,162,42,0,0,54320,0,Newville borough
+35287,162,42,0,0,54344,0,New Washington borough
+35288,162,42,0,0,54352,0,New Wilmington borough
+35289,162,42,0,0,54400,0,Nicholson borough
+35290,162,42,0,0,54656,0,Norristown borough
+35291,162,42,0,0,54696,0,Northampton borough
+35292,162,42,0,0,54728,0,North Apollo borough
+35293,162,42,0,0,54776,0,North Belle Vernon borough
+35294,162,42,0,0,54816,0,North Braddock borough
+35295,162,42,0,0,54872,0,North Catasauqua borough
+35296,162,42,0,0,54888,0,North Charleroi borough
+35297,162,42,0,0,54952,0,North East borough
+35298,162,42,0,0,55000,0,Northern Cambria borough
+35299,162,42,0,0,55136,0,North Irwin borough
+35300,162,42,0,0,55456,0,Northumberland borough
+35301,162,42,0,0,55512,0,North Wales borough
+35302,162,42,0,0,55608,0,North York borough
+35303,162,42,0,0,55664,0,Norwood borough
+35304,162,42,0,0,55752,0,Nuangola borough
+35305,162,42,0,0,55840,0,Oakdale borough
+35306,162,42,0,0,56008,0,Oakland borough
+35307,162,42,0,0,56088,0,Oakmont borough
+35308,162,42,0,0,56408,0,Ohiopyle borough
+35309,162,42,0,0,56432,0,Ohioville borough
+35310,162,42,0,0,56456,0,Oil City city
+35311,162,42,0,0,56496,0,Oklahoma borough
+35312,162,42,0,0,56576,0,Old Forge borough
+35313,162,42,0,0,56792,0,Olyphant borough
+35314,162,42,0,0,56912,0,Orangeville borough
+35315,162,42,0,0,56928,0,Orbisonia borough
+35316,162,42,0,0,57112,0,Orrstown borough
+35317,162,42,0,0,57184,0,Orwigsburg borough
+35318,162,42,0,0,57232,0,Osceola Mills borough
+35319,162,42,0,0,57280,0,Oswayo borough
+35320,162,42,0,0,57480,0,Oxford borough
+35321,162,42,0,0,57544,0,Paint borough
+35322,162,42,0,0,57696,0,Palmerton borough
+35323,162,42,0,0,57720,0,Palmyra borough
+35324,162,42,0,0,57752,0,Palo Alto borough
+35325,162,42,0,0,57976,0,Parker city
+35326,162,42,0,0,58032,0,Parkesburg borough
+35327,162,42,0,0,58176,0,Parkside borough
+35328,162,42,0,0,58304,0,Parryville borough
+35329,162,42,0,0,58384,0,Patterson Heights borough
+35330,162,42,0,0,58432,0,Patton borough
+35331,162,42,0,0,58504,0,Paxtang borough
+35332,162,42,0,0,58696,0,Pen Argyl borough
+35333,162,42,0,0,58712,0,Penbrook borough
+35334,162,42,0,0,58872,0,Penn borough
+35335,162,42,0,0,58936,0,Penndel borough
+35336,162,42,0,0,59054,0,Penn Lake Park borough
+35337,162,42,0,0,59120,0,Pennsburg borough
+35338,162,42,0,0,59152,0,Pennsbury Village borough
+35339,162,42,0,0,59384,0,Perkasie borough
+35340,162,42,0,0,59520,0,Perryopolis borough
+35341,162,42,0,0,59616,0,Petersburg borough
+35342,162,42,0,0,59672,0,Petrolia borough
+35343,162,42,0,0,60000,0,Philadelphia city
+35344,162,42,0,0,60008,0,Philipsburg borough
+35345,162,42,0,0,60120,0,Phoenixville borough
+35346,162,42,0,0,60136,0,Picture Rocks borough
+35347,162,42,0,0,60264,0,Pillow borough
+35348,162,42,0,0,60456,0,Pine Grove borough
+35349,162,42,0,0,60712,0,Pitcairn borough
+35350,162,42,0,0,61000,0,Pittsburgh city
+35351,162,42,0,0,61048,0,Pittston city
+35352,162,42,0,0,61168,0,Platea borough
+35353,162,42,0,0,61328,0,Pleasant Hills borough
+35354,162,42,0,0,61496,0,Pleasantville borough
+35355,162,42,0,0,61512,0,Pleasantville borough
+35356,162,42,0,0,61536,0,Plum borough
+35357,162,42,0,0,61632,0,Plumville borough
+35358,162,42,0,0,61648,0,Plymouth borough
+35359,162,42,0,0,61864,0,Point Marion borough
+35360,162,42,0,0,61936,0,Polk borough
+35361,162,42,0,0,62048,0,Portage borough
+35362,162,42,0,0,62088,0,Port Allegany borough
+35363,162,42,0,0,62128,0,Port Carbon borough
+35364,162,42,0,0,62136,0,Port Clinton borough
+35365,162,42,0,0,62224,0,Portersville borough
+35366,162,42,0,0,62264,0,Portland borough
+35367,162,42,0,0,62280,0,Port Matilda borough
+35368,162,42,0,0,62304,0,Port Royal borough
+35369,162,42,0,0,62320,0,Port Vue borough
+35370,162,42,0,0,62416,0,Pottstown borough
+35371,162,42,0,0,62432,0,Pottsville city
+35372,162,42,0,0,62712,0,Pringle borough
+35373,162,42,0,0,62744,0,Prompton borough
+35374,162,42,0,0,62752,0,Prospect borough
+35375,162,42,0,0,62792,0,Prospect Park borough
+35376,162,42,0,0,62920,0,Punxsutawney borough
+35377,162,42,0,0,63048,0,Quakertown borough
+35378,162,42,0,0,63064,0,Quarryville borough
+35379,162,42,0,0,63288,0,Railroad borough
+35380,162,42,0,0,63312,0,Rainsburg borough
+35381,162,42,0,0,63360,0,Ramey borough
+35382,162,42,0,0,63408,0,Rankin borough
+35383,162,42,0,0,63624,0,Reading city
+35384,162,42,0,0,63808,0,Red Hill borough
+35385,162,42,0,0,63840,0,Red Lion borough
+35386,162,42,0,0,64200,0,Renovo borough
+35387,162,42,0,0,64376,0,Reynoldsville borough
+35388,162,42,0,0,64432,0,Rices Landing borough
+35389,162,42,0,0,64560,0,Richland borough
+35390,162,42,0,0,64584,0,Richlandtown borough
+35391,162,42,0,0,64784,0,Ridgway borough
+35392,162,42,0,0,64832,0,Ridley Park borough
+35393,162,42,0,0,64856,0,Riegelsville borough
+35394,162,42,0,0,64904,0,Rimersburg borough
+35395,162,42,0,0,65000,0,Ringtown borough
+35396,162,42,0,0,65112,0,Riverside borough
+35397,162,42,0,0,65256,0,Roaring Spring borough
+35398,162,42,0,0,65336,0,Robesonia borough
+35399,162,42,0,0,65392,0,Rochester borough
+35400,162,42,0,0,65496,0,Rockhill borough
+35401,162,42,0,0,65568,0,Rockledge borough
+35402,162,42,0,0,65736,0,Rockwood borough
+35403,162,42,0,0,65944,0,Rome borough
+35404,162,42,0,0,66016,0,Roscoe borough
+35405,162,42,0,0,66168,0,Roseto borough
+35406,162,42,0,0,66192,0,Rose Valley borough
+35407,162,42,0,0,66232,0,Roseville borough
+35408,162,42,0,0,66320,0,Rosslyn Farms borough
+35409,162,42,0,0,66440,0,Rouseville borough
+35410,162,42,0,0,66560,0,Royalton borough
+35411,162,42,0,0,66576,0,Royersford borough
+35412,162,42,0,0,66720,0,Rural Valley borough
+35413,162,42,0,0,66928,0,Rutledge borough
+35414,162,42,0,0,67120,0,Saegertown borough
+35415,162,42,0,0,67224,0,St. Clair borough
+35416,162,42,0,0,67256,0,St. Clairsville borough
+35417,162,42,0,0,67304,0,St. Lawrence borough
+35418,162,42,0,0,67344,0,St. Marys city
+35419,162,42,0,0,67384,0,St. Petersburg borough
+35420,162,42,0,0,67584,0,Salisbury borough
+35421,162,42,0,0,67616,0,Salladasburg borough
+35422,162,42,0,0,67632,0,Saltillo borough
+35423,162,42,0,0,67648,0,Saltsburg borough
+35424,162,42,0,0,67848,0,Sandy Lake borough
+35425,162,42,0,0,67920,0,Sankertown borough
+35426,162,42,0,0,68056,0,Saxonburg borough
+35427,162,42,0,0,68072,0,Saxton borough
+35428,162,42,0,0,68096,0,Sayre borough
+35429,162,42,0,0,68104,0,Scalp Level borough
+35430,162,42,0,0,68152,0,Schellsburg borough
+35431,162,42,0,0,68312,0,Schuylkill Haven borough
+35432,162,42,0,0,68328,0,Schwenksville borough
+35433,162,42,0,0,68432,0,Scottdale borough
+35434,162,42,0,0,69000,0,Scranton city
+35435,162,42,0,0,69216,0,Selinsgrove borough
+35436,162,42,0,0,69248,0,Sellersville borough
+35437,162,42,0,0,69309,0,Seven Fields borough
+35438,162,42,0,0,69336,0,Seven Springs borough
+35439,162,42,0,0,69360,0,Seven Valleys borough
+35440,162,42,0,0,69368,0,Seward borough
+35441,162,42,0,0,69376,0,Sewickley borough
+35442,162,42,0,0,69400,0,Sewickley Heights borough
+35443,162,42,0,0,69416,0,Sewickley Hills borough
+35444,162,42,0,0,69456,0,Shade Gap borough
+35445,162,42,0,0,69600,0,Shamokin city
+35446,162,42,0,0,69616,0,Shamokin Dam borough
+35447,162,42,0,0,69680,0,Shanksville borough
+35448,162,42,0,0,69720,0,Sharon city
+35449,162,42,0,0,69752,0,Sharon Hill borough
+35450,162,42,0,0,69776,0,Sharpsburg borough
+35451,162,42,0,0,69800,0,Sharpsville borough
+35452,162,42,0,0,69936,0,Sheakleyville borough
+35453,162,42,0,0,70040,0,Shelocta borough
+35454,162,42,0,0,70056,0,Shenandoah borough
+35455,162,42,0,0,70224,0,Shickshinny borough
+35456,162,42,0,0,70248,0,Shillington borough
+35457,162,42,0,0,70304,0,Shinglehouse borough
+35458,162,42,0,0,70352,0,Shippensburg borough
+35459,162,42,0,0,70368,0,Shippenville borough
+35460,162,42,0,0,70376,0,Shippingport borough
+35461,162,42,0,0,70384,0,Shiremanstown borough
+35462,162,42,0,0,70408,0,Shirleysburg borough
+35463,162,42,0,0,70464,0,Shoemakersville borough
+35464,162,42,0,0,70568,0,Shrewsbury borough
+35465,162,42,0,0,70744,0,Silverdale borough
+35466,162,42,0,0,70880,0,Sinking Spring borough
+35467,162,42,0,0,71144,0,Slatington borough
+35468,162,42,0,0,71176,0,Sligo borough
+35469,162,42,0,0,71184,0,Slippery Rock borough
+35470,162,42,0,0,71248,0,Smethport borough
+35471,162,42,0,0,71256,0,Smicksburg borough
+35472,162,42,0,0,71320,0,Smithfield borough
+35473,162,42,0,0,71424,0,Smithton borough
+35474,162,42,0,0,71600,0,Snow Shoe borough
+35475,162,42,0,0,71620,0,S.N.P.J. borough
+35476,162,42,0,0,71688,0,Snydertown borough
+35477,162,42,0,0,71776,0,Somerset borough
+35478,162,42,0,0,71856,0,Souderton borough
+35479,162,42,0,0,71976,0,South Bethlehem borough
+35480,162,42,0,0,72072,0,South Coatesville borough
+35481,162,42,0,0,72080,0,South Connellsville borough
+35482,162,42,0,0,72168,0,South Fork borough
+35483,162,42,0,0,72192,0,South Greensburg borough
+35484,162,42,0,0,72216,0,South Heights borough
+35485,162,42,0,0,72344,0,Southmont borough
+35486,162,42,0,0,72376,0,South New Castle borough
+35487,162,42,0,0,72448,0,South Renovo borough
+35488,162,42,0,0,72592,0,South Waverly borough
+35489,162,42,0,0,72616,0,Southwest Greensburg borough
+35490,162,42,0,0,72648,0,South Williamsport borough
+35491,162,42,0,0,72704,0,Spartansburg borough
+35492,162,42,0,0,72736,0,Speers borough
+35493,162,42,0,0,72872,0,Springboro borough
+35494,162,42,0,0,72920,0,Spring City borough
+35495,162,42,0,0,72960,0,Springdale borough
+35496,162,42,0,0,73192,0,Spring Grove borough
+35497,162,42,0,0,73784,0,Starrucca borough
+35498,162,42,0,0,73808,0,State College borough
+35499,162,42,0,0,73888,0,Steelton borough
+35500,162,42,0,0,74104,0,Stewartstown borough
+35501,162,42,0,0,74184,0,Stillwater borough
+35502,162,42,0,0,74224,0,Stockdale borough
+35503,162,42,0,0,74232,0,Stockertown borough
+35504,162,42,0,0,74288,0,Stoneboro borough
+35505,162,42,0,0,74672,0,Stoystown borough
+35506,162,42,0,0,74712,0,Strasburg borough
+35507,162,42,0,0,74728,0,Strattanville borough
+35508,162,42,0,0,74744,0,Strausstown borough
+35509,162,42,0,0,74888,0,Stroudsburg borough
+35510,162,42,0,0,75000,0,Sugarcreek borough
+35511,162,42,0,0,75024,0,Sugar Grove borough
+35512,162,42,0,0,75072,0,Sugar Notch borough
+35513,162,42,0,0,75136,0,Summerhill borough
+35514,162,42,0,0,75168,0,Summerville borough
+35515,162,42,0,0,75248,0,Summit Hill borough
+35516,162,42,0,0,75304,0,Sunbury city
+35517,162,42,0,0,75568,0,Susquehanna Depot borough
+35518,162,42,0,0,75584,0,Sutersville borough
+35519,162,42,0,0,75648,0,Swarthmore borough
+35520,162,42,0,0,75816,0,Swissvale borough
+35521,162,42,0,0,75832,0,Swoyersville borough
+35522,162,42,0,0,75888,0,Sykesville borough
+35523,162,42,0,0,75944,0,Sylvania borough
+35524,162,42,0,0,76032,0,Tamaqua borough
+35525,162,42,0,0,76104,0,Tarentum borough
+35526,162,42,0,0,76144,0,Tatamy borough
+35527,162,42,0,0,76184,0,Taylor borough
+35528,162,42,0,0,76304,0,Telford borough
+35529,162,42,0,0,76400,0,Terre Hill borough
+35530,162,42,0,0,76496,0,Thompson borough
+35531,162,42,0,0,76536,0,Thompsontown borough
+35532,162,42,0,0,76560,0,Thornburg borough
+35533,162,42,0,0,76632,0,Three Springs borough
+35534,162,42,0,0,76648,0,Throop borough
+35535,162,42,0,0,76696,0,Tidioute borough
+35536,162,42,0,0,76744,0,Timblin borough
+35537,162,42,0,0,76808,0,Tioga borough
+35538,162,42,0,0,76848,0,Tionesta borough
+35539,162,42,0,0,76904,0,Titusville city
+35540,162,42,0,0,77104,0,Topton borough
+35541,162,42,0,0,77168,0,Towanda borough
+35542,162,42,0,0,77184,0,Tower City borough
+35543,162,42,0,0,77232,0,Townville borough
+35544,162,42,0,0,77272,0,Trafford borough
+35545,162,42,0,0,77288,0,Trainer borough
+35546,162,42,0,0,77304,0,Trappe borough
+35547,162,42,0,0,77392,0,Tremont borough
+35548,162,42,0,0,77568,0,Troutville borough
+35549,162,42,0,0,77584,0,Troy borough
+35550,162,42,0,0,77704,0,Trumbauersville borough
+35551,162,42,0,0,77744,0,Tullytown borough
+35552,162,42,0,0,77784,0,Tunkhannock borough
+35553,162,42,0,0,77808,0,Tunnelhill borough
+35554,162,42,0,0,77832,0,Turbotville borough
+35555,162,42,0,0,77912,0,Turtle Creek borough
+35556,162,42,0,0,78008,0,Twilight borough
+35557,162,42,0,0,78168,0,Tyrone borough
+35558,162,42,0,0,78240,0,Ulysses borough
+35559,162,42,0,0,78448,0,Union City borough
+35560,162,42,0,0,78456,0,Union Dale borough
+35561,162,42,0,0,78528,0,Uniontown city
+35562,162,42,0,0,78616,0,Unionville borough
+35563,162,42,0,0,78712,0,Upland borough
+35564,162,42,0,0,79424,0,Ursina borough
+35565,162,42,0,0,79472,0,Utica borough
+35566,162,42,0,0,79504,0,Valencia borough
+35567,162,42,0,0,79644,0,Valley-Hi borough
+35568,162,42,0,0,79768,0,Vanderbilt borough
+35569,162,42,0,0,79776,0,Vandergrift borough
+35570,162,42,0,0,79792,0,Vandling borough
+35571,162,42,0,0,79912,0,Venango borough
+35572,162,42,0,0,80032,0,Verona borough
+35573,162,42,0,0,80040,0,Versailles borough
+35574,162,42,0,0,80288,0,Vintondale borough
+35575,162,42,0,0,80368,0,Volant borough
+35576,162,42,0,0,80600,0,Wall borough
+35577,162,42,0,0,80640,0,Wallaceton borough
+35578,162,42,0,0,80800,0,Walnutport borough
+35579,162,42,0,0,80880,0,Wampum borough
+35580,162,42,0,0,81000,0,Warren city
+35581,162,42,0,0,81080,0,Warrior Run borough
+35582,162,42,0,0,81328,0,Washington city
+35583,162,42,0,0,81424,0,Washingtonville borough
+35584,162,42,0,0,81456,0,Waterford borough
+35585,162,42,0,0,81616,0,Watsontown borough
+35586,162,42,0,0,81648,0,Wattsburg borough
+35587,162,42,0,0,81712,0,Waymart borough
+35588,162,42,0,0,81824,0,Waynesboro borough
+35589,162,42,0,0,81832,0,Waynesburg borough
+35590,162,42,0,0,81856,0,Weatherly borough
+35591,162,42,0,0,82080,0,Weissport borough
+35592,162,42,0,0,82128,0,Wellersburg borough
+35593,162,42,0,0,82160,0,Wellsboro borough
+35594,162,42,0,0,82200,0,Wellsville borough
+35595,162,42,0,0,82296,0,Wernersville borough
+35596,162,42,0,0,82344,0,Wesleyville borough
+35597,162,42,0,0,82616,0,West Brownsville borough
+35598,162,42,0,0,82704,0,West Chester borough
+35599,162,42,0,0,82736,0,West Conshohocken borough
+35600,162,42,0,0,82832,0,West Easton borough
+35601,162,42,0,0,82848,0,West Elizabeth borough
+35602,162,42,0,0,82968,0,Westfield borough
+35603,162,42,0,0,83104,0,West Grove borough
+35604,162,42,0,0,83136,0,West Hazleton borough
+35605,162,42,0,0,83200,0,West Homestead borough
+35606,162,42,0,0,83248,0,West Kittanning borough
+35607,162,42,0,0,83328,0,West Leechburg borough
+35608,162,42,0,0,83376,0,West Liberty borough
+35609,162,42,0,0,83472,0,West Mayfield borough
+35610,162,42,0,0,83496,0,West Middlesex borough
+35611,162,42,0,0,83504,0,West Middletown borough
+35612,162,42,0,0,83512,0,West Mifflin borough
+35613,162,42,0,0,83584,0,Westmont borough
+35614,162,42,0,0,83680,0,West Newton borough
+35615,162,42,0,0,83736,0,Westover borough
+35616,162,42,0,0,83856,0,West Pittston borough
+35617,162,42,0,0,83928,0,West Reading borough
+35618,162,42,0,0,84064,0,West Sunbury borough
+35619,162,42,0,0,84144,0,West View borough
+35620,162,42,0,0,84272,0,West Wyoming borough
+35621,162,42,0,0,84288,0,West York borough
+35622,162,42,0,0,84376,0,Wheatland borough
+35623,162,42,0,0,84440,0,Whitaker borough
+35624,162,42,0,0,84512,0,Whitehall borough
+35625,162,42,0,0,84552,0,White Haven borough
+35626,162,42,0,0,84704,0,White Oak borough
+35627,162,42,0,0,85152,0,Wilkes-Barre city
+35628,162,42,0,0,85188,0,Wilkinsburg borough
+35629,162,42,0,0,85272,0,Williamsburg borough
+35630,162,42,0,0,85312,0,Williamsport city
+35631,162,42,0,0,85320,0,Williamstown borough
+35632,162,42,0,0,85496,0,Wilmerding borough
+35633,162,42,0,0,85528,0,Wilmore borough
+35634,162,42,0,0,85592,0,Wilson borough
+35635,162,42,0,0,85632,0,Windber borough
+35636,162,42,0,0,85664,0,Wind Gap borough
+35637,162,42,0,0,85728,0,Windsor borough
+35638,162,42,0,0,85872,0,Winterstown borough
+35639,162,42,0,0,86056,0,Womelsdorf borough
+35640,162,42,0,0,86128,0,Woodbury borough
+35641,162,42,0,0,86160,0,Woodcock borough
+35642,162,42,0,0,86528,0,Wormleysburg borough
+35643,162,42,0,0,86560,0,Worthington borough
+35644,162,42,0,0,86568,0,Worthville borough
+35645,162,42,0,0,86640,0,Wrightsville borough
+35646,162,42,0,0,86656,0,Wyalusing borough
+35647,162,42,0,0,86856,0,Wyoming borough
+35648,162,42,0,0,86880,0,Wyomissing borough
+35649,162,42,0,0,86920,0,Yardley borough
+35650,162,42,0,0,86952,0,Yatesville borough
+35651,162,42,0,0,86968,0,Yeadon borough
+35652,162,42,0,0,87040,0,Yoe borough
+35653,162,42,0,0,87048,0,York city
+35654,162,42,0,0,87064,0,Yorkana borough
+35655,162,42,0,0,87080,0,York Haven borough
+35656,162,42,0,0,87136,0,York Springs borough
+35657,162,42,0,0,87208,0,Youngstown borough
+35658,162,42,0,0,87224,0,Youngsville borough
+35659,162,42,0,0,87232,0,Youngwood borough
+35660,162,42,0,0,87272,0,Zelienople borough
